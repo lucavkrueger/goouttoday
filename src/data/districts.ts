@@ -1,0 +1,55 @@
+
+// Comprehensive list of Berlin districts and nearby regions
+export const districts = [
+  "Alle",
+  "Mitte",
+  "Friedrichshain",
+  "Kreuzberg",
+  "Prenzlauer Berg",
+  "Charlottenburg",
+  "Wilmersdorf",
+  "Schöneberg",
+  "Neukölln",
+  "Tiergarten",
+  "Wedding",
+  "Moabit",
+  "Tempelhof",
+  "Steglitz",
+  "Zehlendorf",
+  "Spandau",
+  "Reinickendorf",
+  "Pankow",
+  "Lichtenberg",
+  "Weißensee",
+  "Hohenschönhausen",
+  "Marzahn",
+  "Hellersdorf",
+  "Treptow",
+  "Köpenick",
+  "Potsdam",
+  "Brandenburg an der Havel",
+  "Frankfurt (Oder)",
+  "Oranienburg",
+  "Eberswalde",
+  "Bernau"
+];
+
+// For location selection in profile
+export const locationOptions = [
+  ...districts,
+  "Berlin (Gesamt)",
+  "Brandenburg",
+  "Sachsen",
+  "Sachsen-Anhalt",
+  "Mecklenburg-Vorpommern",
+  "Thüringen",
+  "Niedersachsen",
+  "Hamburg",
+  "Schleswig-Holstein",
+  "Nordrhein-Westfalen",
+  "Hessen",
+  "Rheinland-Pfalz",
+  "Baden-Württemberg",
+  "Bayern",
+  "Saarland"
+];
