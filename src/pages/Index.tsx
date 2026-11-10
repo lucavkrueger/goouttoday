@@ -1,3 +1,4 @@
+import { newBerlinActivities } from "@/data/newBerlinActivities";
 import type { Activity } from "@/data/allActivities";
 import { getUserSettings } from "@/data/userSettings";
 
@@ -54,7 +55,8 @@ const Index = () => {
       ...randomActivities,
       ...nationalActivities,
       ...allCitiesActivities,
-      ...personalizedActivitiesList
+      ...personalizedActivitiesList,
+      ...newBerlinActivities
     ];
     console.log(`Kombinierter Aktivitätenpool erstellt mit ${combined.length} Aktivitäten`);
     return combined;

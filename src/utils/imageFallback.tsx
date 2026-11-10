@@ -8,6 +8,7 @@ import { allCitiesActivities } from "@/data/citiesActivities";
 import { discoverActivities } from "@/data/discoverData";
 import { moreBerlinActivities } from "@/data/moreBerlinActivities";
 import { nationalActivities } from "@/data/nationalActivities";
+import { newBerlinActivities } from "@/data/newBerlinActivities";
 
 // Kategorie -> Symbol und Farbton für Bilder, die nicht geladen werden können
 const STYLE: Record<string, [typeof MapPin, number]> = {
@@ -24,11 +25,11 @@ const STYLE: Record<string, [typeof MapPin, number]> = {
   Familie: [Users, 50], Architektur: [Building2, 225],
   Wellness: [Flower2, 175], Erlebnis: [Sparkles, 250],
   Sehenswürdigkeiten: [Camera, 205], Sightseeing: [Camera, 205], Fotografie: [Camera, 205],
-  Nachhaltigkeit: [Leaf, 100],
+  Nachhaltigkeit: [Leaf, 100], Comedy: [Drama, 10], Kino: [Camera, 260], Bars: [Coffee, 285], Hinterhöfe: [Building2, 30], "Street Art": [Palette, 315], Fahrradtouren: [Footprints, 160], Bibliotheken: [Library, 230], Aussichtspunkte: [Camera, 200], Festivals: [Sparkles, 320], Wandern: [Trees, 135], Skateparks: [Dumbbell, 20],
 };
 
 const categoryByTitle = new Map<string, string>();
-[randomActivities, personalizedActivitiesList, allCitiesActivities, discoverActivities, moreBerlinActivities, nationalActivities]
+[randomActivities, personalizedActivitiesList, allCitiesActivities, discoverActivities, moreBerlinActivities, nationalActivities, newBerlinActivities]
   .flat()
   .forEach((a: any) => a?.title && a?.category && categoryByTitle.set(String(a.title).toLowerCase(), a.category));
 

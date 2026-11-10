@@ -9,6 +9,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Bauhaus Archiv Berlin 6.jpg"
   },
   {
+    "file": "Baumkronenpfad_in_Beelitz-Heilst%C3%A4tten.jpg",
+    "name": "Baumkronenpfad in Beelitz-Heilstätten.jpg"
+  },
+  {
     "file": "Beach_volleyball_(4701437938).jpg",
     "name": "Beach volleyball (4701437938).jpg"
   },
@@ -33,6 +37,14 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Berlin, Mitte, In den Ministergaerten 4, Saarlaendische Landesvertretung.jpg"
   },
   {
+    "file": "Berlin,_Mitte,_Rosa-Luxemburg-Strasse_30,_Wohnanlage_und_Kino_Babylon.jpg",
+    "name": "Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg"
+  },
+  {
+    "file": "Berlin,_Mitte,_Rosenthaler_Strasse_39,_Haus_Schwarzenberg.jpg",
+    "name": "Berlin, Mitte, Rosenthaler Strasse 39, Haus Schwarzenberg.jpg"
+  },
+  {
     "file": "Berlin,_Schoeneberg,_Tauentzienstrasse_21-24,_KaDeWe.jpg",
     "name": "Berlin, Schoeneberg, Tauentzienstrasse 21-24, KaDeWe.jpg"
   },
@@ -53,6 +65,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Berlin-Kulturbrauerei.jpg"
   },
   {
+    "file": "Berlin-K%C3%B6penick_Teufelssee.jpg",
+    "name": "Berlin-Köpenick Teufelssee.jpg"
+  },
+  {
     "file": "Berlin-Mauerpark-Flohmarkt_(1).jpg",
     "name": "Berlin-Mauerpark-Flohmarkt (1).jpg"
   },
@@ -67,6 +83,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Berlin_-_Europa-Center.jpg",
     "name": "Berlin - Europa-Center.jpg"
+  },
+  {
+    "file": "Berlin_-_Hackesche_H%C3%B6fe.jpg",
+    "name": "Berlin - Hackesche Höfe.jpg"
   },
   {
     "file": "Berlin_-_Museum_f%C3%BCr_Naturkunde_-_Brachiosaurus_brancai.jpg",
@@ -145,6 +165,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "BoxhagenerPlatzFleamarket.jpg"
   },
   {
+    "file": "Brandenburger_Tor_(Berlin)_-_Festival_of_Lights_2012_-_1064-944-(120).jpg",
+    "name": "Brandenburger Tor (Berlin) - Festival of Lights 2012 - 1064-944-(120).jpg"
+  },
+  {
     "file": "Brandenburger_Tor_abends.jpg",
     "name": "Brandenburger Tor abends.jpg"
   },
@@ -153,8 +177,16 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Britzer Garten, Berlin-Neukölln (Britz), Bild 1.jpg"
   },
   {
+    "file": "C-O_Berlin_im_Amerika_Haus-2581.jpg",
+    "name": "C-O Berlin im Amerika Haus-2581.jpg"
+  },
+  {
     "file": "Checkpoint_Charlie_Berlin.jpg",
     "name": "Checkpoint Charlie Berlin.jpg"
+  },
+  {
+    "file": "Chinesischer_Garten_Marzahn.JPG",
+    "name": "Chinesischer Garten Marzahn.JPG"
   },
   {
     "file": "Climbing_Tower_Der_Kegel_Berlin.jpg",
@@ -189,6 +221,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Gedenkstätte Berliner Mauer, Todesstreifen.jpg"
   },
   {
+    "file": "Gemeinschaftsgarten_Berlin_Tempelhof_Park_(40858716103).jpg",
+    "name": "Gemeinschaftsgarten Berlin Tempelhof Park (40858716103).jpg"
+  },
+  {
     "file": "Gendarmenmarkt_Berlin-Mitte.jpg",
     "name": "Gendarmenmarkt Berlin-Mitte.jpg"
   },
@@ -219,6 +255,18 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Karl-Marx-Allee_Berlin_4.jpg",
     "name": "Karl-Marx-Allee Berlin 4.jpg"
+  },
+  {
+    "file": "Karneval_der_Kulturen_in_Berlin.jpg",
+    "name": "Karneval der Kulturen in Berlin.jpg"
+  },
+  {
+    "file": "Kino_International_Karl-Marx-Allee.jpg",
+    "name": "Kino International Karl-Marx-Allee.jpg"
+  },
+  {
+    "file": "Kranzler-Eck_kurf%C3%BCrstendamm_-_joachimstaler_stra%C3%9Fe_berlin.JPG",
+    "name": "Kranzler-Eck kurfürstendamm - joachimstaler straße berlin.JPG"
   },
   {
     "file": "Krematorium_Wedding.jpg",
@@ -265,6 +313,14 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Mauerpark-karaoke-amphitheater-2011.jpg"
   },
   {
+    "file": "Monkey_Bar,_the_rooftop_bar_at_25hours_Hotel_Bikini_Berlin.jpg",
+    "name": "Monkey Bar, the rooftop bar at 25hours Hotel Bikini Berlin.jpg"
+  },
+  {
+    "file": "Museum_f%C3%BCr_Fotografie_20160901_2.jpg",
+    "name": "Museum für Fotografie 20160901 2.jpg"
+  },
+  {
     "file": "Museumsinsel_Berlin.jpg",
     "name": "Museumsinsel Berlin.jpg"
   },
@@ -293,8 +349,20 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Philharmonie Berlin.jpg"
   },
   {
+    "file": "Potsdam_Lankestra%C3%9Fe_Berliner_Mauerweg-001.JPG",
+    "name": "Potsdam Lankestraße Berliner Mauerweg-001.JPG"
+  },
+  {
+    "file": "Quatsch_Comedy_Club_Berlin.jpg",
+    "name": "Quatsch Comedy Club Berlin.jpg"
+  },
+  {
     "file": "Reichstagsgeb%C3%A4ude_-_Westansicht.jpg",
     "name": "Reichstagsgebäude - Westansicht.jpg"
+  },
+  {
+    "file": "Rooftop_Skateboarding_(Unsplash).jpg",
+    "name": "Rooftop Skateboarding (Unsplash).jpg"
   },
   {
     "file": "Schlachtensee.jpg",
@@ -307,6 +375,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Sede_Stasi_Museum.JPG",
     "name": "Sede Stasi Museum.JPG"
+  },
+  {
+    "file": "Staatsbibliothek-Berlin-Haus-Unter-den-Linden-Lesesaal-Berlin-Mitte-03-2016.jpg",
+    "name": "Staatsbibliothek-Berlin-Haus-Unter-den-Linden-Lesesaal-Berlin-Mitte-03-2016.jpg"
   },
   {
     "file": "Strandbad_M%C3%BCggelsee.jpg",
@@ -333,11 +405,19 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Urban Nation Museum (Berlin) - Januar 2024 am Abend.jpg"
   },
   {
+    "file": "View_from_Panoramapunkt.jpg",
+    "name": "View from Panoramapunkt.jpg"
+  },
+  {
     "file": "Volksb%C3%BChne_am_Rosa-Luxemburg-Platz.jpg",
     "name": "Volksbühne am Rosa-Luxemburg-Platz.jpg"
   },
   {
     "file": "Volkspark_Hasenheide.jpg",
     "name": "Volkspark Hasenheide.jpg"
+  },
+  {
+    "file": "Zur_letzten_Instanz_Berlins_oldest_running_restaurant_Klosterviertel_Waisenstra%C3%9Fe_Berlin-Mitte.jpg",
+    "name": "Zur letzten Instanz Berlins oldest running restaurant Klosterviertel Waisenstraße Berlin-Mitte.jpg"
   }
 ];

@@ -23,6 +23,7 @@ import { nationalActivities } from "@/data/nationalActivities";
 import { allCitiesActivities } from "@/data/citiesActivities";
 // Import additional Berlin activities
 import { moreBerlinActivities } from "@/data/moreBerlinActivities";
+import { newBerlinActivities } from "@/data/newBerlinActivities";
 // Import categories
 import { categories } from "@/data/categories";
 // Import districts
@@ -72,7 +73,8 @@ const Discover = () => {
       ...personalizedActivitiesList, 
       ...nationalActivities,
       ...allCitiesActivities,
-      ...moreBerlinActivities
+      ...moreBerlinActivities,
+      ...newBerlinActivities
     ];
     
     // Remove duplicates based on title and location
