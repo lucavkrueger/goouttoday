@@ -319,6 +319,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 3.0"
  },
  {
+  "name": "Berlin, DDR-Museum, Trabant 2014-07.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_DDR-Museum,_Trabant_2014-07.jpg",
+  "artist": "HerrAdams",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Berlin, Fernsehturm am Alexanderplatz -- 2011 -- 1.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Fernsehturm_am_Alexanderplatz_--_2011_--_1.jpg",
   "artist": "Dietmar Rabich",
@@ -499,6 +505,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Bikini-Haus-Berlin-schwarz-weiss-2023.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bikini-Haus-Berlin-schwarz-weiss-2023.jpg",
+  "artist": "Tuxyso",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Blick vom Gleisdreieck-Park zum Potsdamer Platz in Berlin.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Blick_vom_Gleisdreieck-Park_zum_Potsdamer_Platz_in_Berlin.jpg",
   "artist": "JoachimKohler-HB",
@@ -544,6 +556,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "name": "C-O Berlin im Amerika Haus-2581.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:C-O_Berlin_im_Amerika_Haus-2581.jpg",
   "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Café am Neuen See.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_am_Neuen_See.jpg",
+  "artist": "Lear 21",
   "license": "CC BY-SA 4.0"
  },
  {
@@ -671,6 +689,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Elbphilharmonie_Eastside_View_With_Sandtorkai_Quay_Magellan_Terraces_Sandtorpark_2022-06-04_16-32.jpg",
   "artist": "Axel Tschentscher",
   "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Elevate Thrill Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Elevate_Thrill_Park.jpg",
+  "artist": "Elevateadventurepark",
+  "license": "CC0"
  },
  {
   "name": "Entrance to Legoland Discovery Centre Berlin.jpg",
@@ -805,6 +829,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Hamburg, St.-Pauli-Fischmarkt, Fischauktionshalle -- 2016 -- 3087.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburg,_St.-Pauli-Fischmarkt,_Fischauktionshalle_--_2016_--_3087.jpg",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Hamburger Bahnhof (Berlin) 0154.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Hamburger_Bahnhof_(Berlin)_0154.jpg",
   "artist": "Dosseman",
@@ -863,6 +893,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Improvisational_theatre_in_Iran-Qom_City-2018-Canon_5d_Mark7.jpg",
   "artist": "Mostafameraji",
   "license": "CC0"
+ },
+ {
+  "name": "Jazz concert at Grant's Tomb (7a23dc9f-d740-4bfb-b59f-c43ab8afd42c).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jazz_concert_at_Grant%27s_Tomb_(7a23dc9f-d740-4bfb-b59f-c43ab8afd42c).jpg",
+  "artist": "NPS Photo",
+  "license": "Public domain"
  },
  {
   "name": "Karl-Marx-Allee Berlin 4.jpg",
@@ -1003,6 +1039,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 3.0"
  },
  {
+  "name": "Mainufer+eiserner-steg-2010-ffm-011.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mainufer%2Beiserner-steg-2010-ffm-011.jpg",
+  "artist": "Dontworry",
+  "license": "CC BY-SA 3.0"
+ },
+ {
   "name": "Making pottery (Unsplash).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Making_pottery_(Unsplash).jpg",
   "artist": "Jared Sluyter jaredsluyter",
@@ -1067,6 +1109,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin.jpg",
   "artist": "Michael Fiedler",
   "license": "CC BY-SA 3.0"
+ },
+ {
+  "name": "München, Viktualienmarkt, Ladenzeile -- 2011 -- 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Viktualienmarkt,_Ladenzeile_--_2011_--_1.jpg",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0"
  },
  {
   "name": "Münchner Bach-Chor Gasteig.jpg",
@@ -1159,6 +1207,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Olympiapark München.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Olympiapark_M%C3%BCnchen.jpg",
+  "artist": "Tobi 87",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Ostsee - Insel Usedom - Strand - panoramio.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ostsee_-_Insel_Usedom_-_Strand_-_panoramio.jpg",
   "artist": "Tobias Luksch",
@@ -1199,6 +1253,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Philharmonie_Berlin.jpg",
   "artist": "No machine-readable author provided. Gryffindor assumed (based on copyright claims).",
   "license": "Public domain"
+ },
+ {
+  "name": "Planten un blomen sommer2023 03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Planten_un_blomen_sommer2023_03.jpg",
+  "artist": "Dirtsc",
+  "license": "CC BY-SA 4.0"
  },
  {
   "name": "Potsdam - Schloss Sanssouci mit Weinberg 2008.JPG",
