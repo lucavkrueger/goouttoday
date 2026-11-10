@@ -517,6 +517,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 3.0"
  },
  {
+  "name": "Britzer Garten Tulipan 2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Britzer_Garten_Tulipan_2.jpg",
+  "artist": "The Exit",
+  "license": "Public domain"
+ },
+ {
   "name": "Britzer Garten, Berlin-Neukölln (Britz), Bild 1.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Britzer_Garten,_Berlin-Neuk%C3%B6lln_(Britz),_Bild_1.jpg",
   "artist": "Neuköllner",

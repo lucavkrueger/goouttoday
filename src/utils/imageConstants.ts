@@ -2,9 +2,15 @@
 import { Activity } from "../data/allActivities";
 
 export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
+  "gemäldegalerie": "images/c_140e260807.webp",
+  "helmut newton stiftung": "images/c_73ff655dd7.webp",
+  "holzmarkt": "images/c_fix_holzmarkt.webp",
+  "berliner unterwelten tour": "images/c_fix_unterwelten.webp",
+  "thai park besuchen": "images/c_fix_thaipark.webp",
+  "thai park": "images/c_fix_thaipark.webp",
   // Museums and Galleries
   "berlinische galerie": "images/c_f6b732dd05.webp",
-  "hamburger bahnhof": "images/c_d3e99b7a99.webp",
+  "hamburger bahnhof": "images/c_fix_hamburgerbahnhof.webp",
   "kunstausstellung im hamburger bahnhof": "images/c_d3e99b7a99.webp",
   "pergamonmuseum": "images/c_65c3e41121.webp",
   "pergamon": "images/c_65c3e41121.webp",
@@ -67,7 +73,7 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "interbau": "images/c_a185f233f6.webp", 
   
   // NEU: Britzer Garten
-  "britzer garten": "images/c_53bd78e319.webp", // NEU: Britzer Garten
+  "britzer garten": "images/c_fix_britzergarten.webp", // NEU: Britzer Garten
   "britzer park": "images/c_53bd78e319.webp", // NEU: Britzer Garten
   "garten britz": "images/c_53bd78e319.webp", // NEU: Britzer Garten
   
@@ -169,7 +175,7 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "spaziergang": "images/c_0214a81b3a.webp",
   "spaziergang im tiergarten": "images/c_0214a81b3a.webp",
   "mauerpark": "images/r_7958f1c636.webp",
-  "tempelhofer feld": "images/c_01d9ce685a.webp", // NEU: Updated to Flughafen Tempelhof
+  "tempelhofer feld": "images/c_fix_tempelhoferfeld.webp", // NEU: Updated to Flughafen Tempelhof
   "tempelhof": "images/c_01d9ce685a.webp", // NEU: Updated to Flughafen Tempelhof
   "grunewald": "images/u_e0b2bcaf48.webp",
   "treptower park": "images/c_ee9825f8d4.webp",
@@ -177,8 +183,8 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "badeschiff berlin": "images/c_84e2a82550.webp",
   "liquidrom": "images/c_0556c7e7a0.webp",
   "liquidrom berlin": "images/c_0556c7e7a0.webp",
-  "vabali": "images/c_36a00dac0f.webp",
-  "vabali spa": "images/c_36a00dac0f.webp",
+  "vabali": "images/c_9324dbaa2c.webp",
+  "vabali spa": "images/c_9324dbaa2c.webp",
   "meridian spa": "images/c_9324dbaa2c.webp",
   "meridian spa berlin": "images/c_9324dbaa2c.webp",
   "thermen am europa center": "images/c_23d9fc7cfb.webp",

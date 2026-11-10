@@ -124,6 +124,11 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
               SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('images/c_')) {
             return SPECIFIC_ACTIVITY_IMAGES[normalizedTitle];
           }
+
+          // Ein eigens zugeordnetes Foto der Aktivität hat Vorrang vor Stichwort-Treffern
+          if (activity.image?.includes('images/c_')) {
+            return activity.image;
+          }
           
           for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
             if (imgUrl.includes('images/c_')) {
