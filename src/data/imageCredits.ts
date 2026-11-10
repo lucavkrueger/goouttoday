@@ -43,6 +43,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "20170411 berlin music King Woman at Musik und Frieden- 2 -DSCN1137 (49542794611).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20170411_berlin_music_King_Woman_at_Musik_und_Frieden-_2_-DSCN1137_(49542794611).jpg",
+  "artist": "iZilla at flickR from Berlin, Germany",
+  "license": "CC0"
+ },
+ {
   "name": "2019 - Parc national des Pyrenees - Vallée de Gavarnie.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:2019_-_Parc_national_des_Pyrenees_-_Vall%C3%A9e_de_Gavarnie.jpg",
   "artist": "Moahim",
@@ -625,6 +631,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Couples dancing tango - Milonga at the Confiteria Ideal (4728933003).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Couples_dancing_tango_-_Milonga_at_the_Confiteria_Ideal_(4728933003).jpg",
+  "artist": "Jorge Láscar from Australia",
+  "license": "CC BY 2.0"
+ },
+ {
   "name": "Cour Napoléon at night - Louvre.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
   "artist": "Benh LIEU SONG",
@@ -665,6 +677,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Double-Partner-Dancing-Arthur_Murray_Dance_Studio_The_Woodlands_TX-1080x720.jpg",
   "artist": "ToddCombs",
   "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Dresden-Kunsthof-Fabelwesen.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dresden-Kunsthof-Fabelwesen.jpg",
+  "artist": "User:Kolossos",
+  "license": "CC BY-SA 3.0"
  },
  {
   "name": "Dresden-Zwinger-Wallpavillion-gp.jpg",
@@ -1069,6 +1087,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY 3.0"
  },
  {
+  "name": "Moabit Seydlitzstraße Vabali.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Moabit_Seydlitzstra%C3%9Fe_Vabali.jpg",
+  "artist": "Fridolin freudenfett",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Molecule Man (1).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Molecule_Man_(1).jpg",
   "artist": "Avi1111 dr. avishai teicher",
@@ -1243,6 +1267,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "PETERS KOLSH AT PETERS BRAUHAUS KOLN GERMANY JULY 2012 BRAUHAUS (7690130152).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PETERS_KOLSH_AT_PETERS_BRAUHAUS_KOLN_GERMANY_JULY_2012_BRAUHAUS_(7690130152).jpg",
+  "artist": "calflier001",
+  "license": "CC BY-SA 2.0"
+ },
+ {
   "name": "Pfaueninsel (ship, 1968) 01.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Pfaueninsel_(ship,_1968)_01.jpg",
   "artist": "Georgfotoart",
@@ -1295,6 +1325,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Quatsch_Comedy_Club_Berlin.jpg",
   "artist": "Andreas Thum",
   "license": "CC BY-SA 3.0"
+ },
+ {
+  "name": "RAW Skatehalle Berlin.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RAW_Skatehalle_Berlin.jpg",
+  "artist": "Michael Mayer",
+  "license": "CC BY 2.0"
  },
  {
   "name": "Reichstagsgebäude - Westansicht.jpg",
@@ -1529,6 +1565,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg",
   "artist": "Neoclassicism Enthusiast",
   "license": "CC0"
+ },
+ {
+  "name": "YAAM Nightclub Berlin Entrance 2009.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:YAAM_Nightclub_Berlin_Entrance_2009.jpg",
+  "artist": "Bernd Sauer-Diete",
+  "license": "CC BY 2.0"
  },
  {
   "name": "Zitadelle Spandau.jpg",

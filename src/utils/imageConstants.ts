@@ -2,6 +2,11 @@
 import { Activity } from "../data/allActivities";
 
 export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
+  "musik & frieden": "images/c_fix_c128eeb0.webp",
+  "yaam - young african art market": "images/c_fix_ce603097.webp",
+  "brauhaus tour": "images/c_fix_050ea39f.webp",
+  "neustadt kunsthofpassage": "images/c_fix_0863ee16.webp",
+  "skatehalle berlin": "images/c_fix_e4223a62.webp",
   "main-ufer spaziergang": "images/c_fix_5897426d.webp",
   "maintower aussichtsplattform": "images/c_fix_5897426d.webp",
   "olympiapark rundgang": "images/c_fix_6a5cebf2.webp",
@@ -146,7 +151,7 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "berliner philharmonie": "images/c_3bd428543a.webp",
   "konzerthaus": "images/c_3bd428543a.webp",
   "tangoloft": "images/c_6da4c02467.webp",
-  "tangoloft berlin": "images/c_6da4c02467.webp",
+  "tangoloft berlin": "images/c_fix_f5a88ce7.webp",
   "volksbühne": "images/c_70afac3a63.webp",
   "volksbühne am rosa-luxemburg-platz": "images/c_70afac3a63.webp",
   "spreepark": "images/c_d47683d1b4.webp",
@@ -190,8 +195,8 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "badeschiff berlin": "images/c_84e2a82550.webp",
   "liquidrom": "images/c_0556c7e7a0.webp",
   "liquidrom berlin": "images/c_0556c7e7a0.webp",
-  "vabali": "images/c_9324dbaa2c.webp",
-  "vabali spa": "images/c_9324dbaa2c.webp",
+  "vabali": "images/c_fix_16693467.webp",
+  "vabali spa": "images/c_fix_16693467.webp",
   "meridian spa": "images/c_9324dbaa2c.webp",
   "meridian spa berlin": "images/c_9324dbaa2c.webp",
   "thermen am europa center": "images/c_23d9fc7cfb.webp",
