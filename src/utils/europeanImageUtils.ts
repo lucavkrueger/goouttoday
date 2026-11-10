@@ -4,200 +4,200 @@
 // European landmarks and architecture
 const europeanLandmarkImages = {
   // Berlin landmarks
-  "berliner dom": "https://images.unsplash.com/photo-1559131397-e8754498c456?q=80&w=2000&auto=format&fit=crop",
-  "brandenburger tor": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=2000&auto=format&fit=crop",
-  "fernsehturm": "https://images.unsplash.com/photo-1566404791232-af9fe8edb2d6?q=80&w=2000&auto=format&fit=crop",
-  "reichstag": "https://images.unsplash.com/photo-1584552966182-d47a1dfbe12c?q=80&w=2000&auto=format&fit=crop",
-  "eastside gallery": "https://images.unsplash.com/photo-1547157284-6d85325839a9?q=80&w=2000&auto=format&fit=crop",
-  "kurfürstendamm": "https://images.unsplash.com/photo-1589095601897-8f1c2b2cbf62?q=80&w=2000&auto=format&fit=crop",
-  "alexanderplatz": "https://images.unsplash.com/photo-1560969184-10fe8719e047?q=80&w=2000&auto=format&fit=crop", 
-  "potsdamer platz": "https://images.unsplash.com/photo-1534143826428-594bea2fe5ef?q=80&w=2000&auto=format&fit=crop",
+  "berliner dom": "images/r_6c29691b9e.webp",
+  "brandenburger tor": "images/u_d7cea4aba3.webp",
+  "fernsehturm": "images/r_38669b1cb1.webp",
+  "reichstag": "images/r_db1a586512.webp",
+  "eastside gallery": "images/c_8f64cfd71f.webp",
+  "kurfürstendamm": "images/r_c7f0dfe043.webp",
+  "alexanderplatz": "images/u_cb76769b6a.webp", 
+  "potsdamer platz": "images/r_42736fc7d8.webp",
   
   // German landmarks
-  "kölner dom": "https://images.unsplash.com/photo-1573158026303-df15dd6b3a54?q=80&w=2000&auto=format&fit=crop",
-  "frauenkirche dresden": "https://images.unsplash.com/photo-1507233701980-62a5170abb7a?q=80&w=2000&auto=format&fit=crop",
-  "elbphilharmonie hamburg": "https://images.unsplash.com/photo-1583002083769-0bdb6149e5b5?q=80&w=2000&auto=format&fit=crop",
-  "neuschwanstein": "https://images.unsplash.com/photo-1568146598584-d8c6ef3b373f?q=80&w=2000&auto=format&fit=crop",
-  "semperoper dresden": "https://images.unsplash.com/photo-1578049617513-7f360e8bb4d8?q=80&w=2000&auto=format&fit=crop",
-  "zwinger dresden": "https://images.unsplash.com/photo-1531055876916-18e801f9f15d?q=80&w=2000&auto=format&fit=crop",
-  "marienplatz münchen": "https://images.unsplash.com/photo-1595867818082-083862f3d630?q=80&w=2000&auto=format&fit=crop",
+  "kölner dom": "images/r_420f0d625d.webp",
+  "frauenkirche dresden": "images/s_907ce9e3fb.webp",
+  "elbphilharmonie hamburg": "images/r_23fae6d9c5.webp",
+  "neuschwanstein": "images/r_dd43ade225.webp",
+  "semperoper dresden": "images/r_72984f89eb.webp",
+  "zwinger dresden": "images/s_0e960c8dd4.webp",
+  "marienplatz münchen": "images/u_843ac4fb5e.webp",
   
   // European landmarks
-  "eiffelturm": "https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?q=80&w=2000&auto=format&fit=crop",
-  "big ben london": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?q=80&w=2000&auto=format&fit=crop",
-  "colosseum rom": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=2000&auto=format&fit=crop",
-  "sagrada familia": "https://images.unsplash.com/photo-1583779457094-ab6f9164a3c9?q=80&w=2000&auto=format&fit=crop",
-  "akropolis athen": "https://images.unsplash.com/photo-1555993539-1732b0258235?q=80&w=2000&auto=format&fit=crop"
+  "eiffelturm": "images/u_1efc3aebf0.webp",
+  "big ben london": "images/u_6d4fe06de5.webp",
+  "colosseum rom": "images/u_162ccafb7a.webp",
+  "sagrada familia": "images/r_fbdc766462.webp",
+  "akropolis athen": "images/u_a8f84bfeed.webp"
 };
 
 // European museums and art galleries
 const europeanMuseumImages = {
-  "museum berlin": "https://images.unsplash.com/photo-1544342384-312192654f3b?q=80&w=2000&auto=format&fit=crop",
-  "pergamonmuseum": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?q=80&w=2000&auto=format&fit=crop",
-  "neues museum": "https://images.unsplash.com/photo-1566127444968-e5053a5de309?q=80&w=2000&auto=format&fit=crop",
-  "deutsches historisches museum": "https://images.unsplash.com/photo-1584552966182-d47a1dfbe12c?q=80&w=2000&auto=format&fit=crop",
-  "alte nationalgalerie": "https://images.unsplash.com/photo-1568133929238-d5c88191f32f?q=80&w=2000&auto=format&fit=crop",
-  "jüdisches museum": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?q=80&w=2000&auto=format&fit=crop",
-  "naturkundemuseum": "https://images.unsplash.com/photo-1472137634531-2e92fa3dfbbc?q=80&w=2000&auto=format&fit=crop",
-  "ddr museum": "https://images.unsplash.com/photo-1584532763000-af9fab44f9d1?q=80&w=2000&auto=format&fit=crop",
-  "hamburger bahnhof": "https://images.unsplash.com/photo-1594794312531-9edb4161920f?q=80&w=2000&auto=format&fit=crop",
-  "berlinische galerie": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?q=80&w=2000&auto=format&fit=crop",
-  "gemäldegalerie": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=2000&auto=format&fit=crop",
-  "urban nation": "https://images.unsplash.com/photo-1551195441-374e7f6018e9?q=80&w=2000&auto=format&fit=crop",
-  "sammlung boros": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=2000&auto=format&fit=crop",
+  "museum berlin": "images/r_facdb673f1.webp",
+  "pergamonmuseum": "images/u_fe1a59acc7.webp",
+  "neues museum": "images/r_2c007bc217.webp",
+  "deutsches historisches museum": "images/r_db1a586512.webp",
+  "alte nationalgalerie": "images/r_65f9b74c9b.webp",
+  "jüdisches museum": "images/u_d3b907d57d.webp",
+  "naturkundemuseum": "images/c_d5b1fcd44a.webp",
+  "ddr museum": "images/r_f14234b1d4.webp",
+  "hamburger bahnhof": "images/r_22c4b2e566.webp",
+  "berlinische galerie": "images/u_005f6de66c.webp",
+  "gemäldegalerie": "images/u_51fd3549b1.webp",
+  "urban nation": "images/r_07a60be626.webp",
+  "sammlung boros": "images/u_2a40770272.webp",
   
   // Other German museums
-  "deutsches museum münchen": "https://images.unsplash.com/photo-1566932769119-7a280b44857b?q=80&w=2000&auto=format&fit=crop",
-  "pinakothek münchen": "https://images.unsplash.com/photo-1566598633643-95acba9a1209?q=80&w=2000&auto=format&fit=crop",
-  "schokoladenmuseum köln": "https://images.unsplash.com/photo-1600190184058-4c1df469bbf7?q=80&w=2000&auto=format&fit=crop",
+  "deutsches museum münchen": "images/r_dcc0b03cef.webp",
+  "pinakothek münchen": "images/r_84725b5464.webp",
+  "schokoladenmuseum köln": "images/r_e3a381a2d2.webp",
   
   // European museums
-  "louvre paris": "https://images.unsplash.com/photo-1565099824688-ab1913c8c6cc?q=80&w=2000&auto=format&fit=crop",
-  "british museum london": "https://images.unsplash.com/photo-1574784619681-02556d73682d?q=80&w=2000&auto=format&fit=crop",
-  "prado madrid": "https://images.unsplash.com/photo-1563897351057-3424e6e6779b?q=80&w=2000&auto=format&fit=crop",
-  "vatikanische museen": "https://images.unsplash.com/photo-1542341375-8fd02bae39f3?q=80&w=2000&auto=format&fit=crop"
+  "louvre paris": "images/r_2e22cc221a.webp",
+  "british museum london": "images/r_0b0d366e7a.webp",
+  "prado madrid": "images/r_c84cff37aa.webp",
+  "vatikanische museen": "images/r_95c0a5f974.webp"
 };
 
 // German and European lakes and beaches - Updated with specifically European/German images
 const europeanWaterImages = {
   // Berlin lakes - updated with appropriate non-tropical images
-  "wannsee": "https://images.unsplash.com/photo-1533294455009-a77b7557d2d1?q=80&w=2000&auto=format&fit=crop", // European lake
-  "müggelsee": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=2000&auto=format&fit=crop", // European lake
-  "schlachtensee": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2000&auto=format&fit=crop", // European lake
-  "weißensee": "https://images.unsplash.com/photo-1468413253725-0d5181091126?q=80&w=2000&auto=format&fit=crop", // European lake
-  "plötzensee": "https://images.unsplash.com/photo-1499988921418-b7df40ff03f9?q=80&w=2000&auto=format&fit=crop", // European lake 
-  "strandbad wannsee": "https://images.unsplash.com/photo-1542359649-31e03cd4d909?q=80&w=2000&auto=format&fit=crop", // European beach
+  "wannsee": "images/u_4d73aec518.webp", // European lake
+  "müggelsee": "images/u_de25381d65.webp", // European lake
+  "schlachtensee": "images/u_1d48b1a595.webp", // European lake
+  "weißensee": "images/u_7ab0a63d84.webp", // European lake
+  "plötzensee": "images/u_907ab276ee.webp", // European lake 
+  "strandbad wannsee": "images/u_9954cdfd05.webp", // European beach
   
   // German lakes
-  "bodensee": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=2000&auto=format&fit=crop", // European lake
-  "titisee": "https://images.unsplash.com/photo-1472739514257-7fca34e84df8?q=80&w=2000&auto=format&fit=crop", // European lake
-  "starnberger see": "https://images.unsplash.com/photo-1567847137076-b38760c551f7?q=80&w=2000&auto=format&fit=crop", // European lake
-  "chiemsee": "https://images.unsplash.com/photo-1567796254624-4084d9e708e2?q=80&w=2000&auto=format&fit=crop", // European lake
+  "bodensee": "images/u_a804139b65.webp", // European lake
+  "titisee": "images/s_8d2cf800c6.webp", // European lake
+  "starnberger see": "images/r_1549652a23.webp", // European lake
+  "chiemsee": "images/r_872065b5e1.webp", // European lake
   
   // European beaches
-  "ostsee strand": "https://images.unsplash.com/photo-1555489408-7a817388a7e1?q=80&w=2000&auto=format&fit=crop", // North/Baltic Sea
-  "nordsee strand": "https://images.unsplash.com/photo-1590593162201-56328e233521?q=80&w=2000&auto=format&fit=crop", // North Sea
-  "mittelmeer strand": "https://images.unsplash.com/photo-1596627118111-509c12e2d449?q=80&w=2000&auto=format&fit=crop" // Mediterranean, not tropical
+  "ostsee strand": "images/s_6f61115c44.webp", // North/Baltic Sea
+  "nordsee strand": "images/r_cff73f67da.webp", // North Sea
+  "mittelmeer strand": "images/r_a6d31602a1.webp" // Mediterranean, not tropical
 };
 
 // European parks and nature
 const europeanNatureImages = {
   // Berlin parks and nature
-  "tiergarten": "https://images.unsplash.com/photo-1593206838867-4ddf8cefc986?q=80&w=2000&auto=format&fit=crop",
-  "grunewald": "https://images.unsplash.com/photo-1564238158887-148c0050f955?q=80&w=2000&auto=format&fit=crop",
-  "botanischer garten": "https://images.unsplash.com/photo-1588635631677-f67e2201ce49?q=80&w=2000&auto=format&fit=crop",
-  "tempelhofer feld": "https://images.unsplash.com/photo-1567599672391-17b31d92e431?q=80&w=2000&auto=format&fit=crop",
-  "mauerpark": "https://images.unsplash.com/photo-1605954910676-4593693bdb19?q=80&w=2000&auto=format&fit=crop",
-  "treptower park": "https://images.unsplash.com/photo-1627491439254-59909231bc05?q=80&w=2000&auto=format&fit=crop",
-  "volkspark friedrichshain": "https://images.unsplash.com/photo-1496436818536-42c7bce55ccb?q=80&w=2000&auto=format&fit=crop",
+  "tiergarten": "images/r_b364f6d36f.webp",
+  "grunewald": "images/r_7428fa998a.webp",
+  "botanischer garten": "images/s_063ddd0219.webp",
+  "tempelhofer feld": "images/u_e05514da70.webp",
+  "mauerpark": "images/r_0023c2ca38.webp",
+  "treptower park": "images/c_ee9825f8d4.webp",
+  "volkspark friedrichshain": "images/r_22d70f842d.webp",
   
   // German parks and nature
-  "englischer garten münchen": "https://images.unsplash.com/photo-1585001644052-fbb466de340f?q=80&w=2000&auto=format&fit=crop",
-  "schwarzwald": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2000&auto=format&fit=crop",
-  "bayerischer wald": "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=2000&auto=format&fit=crop",
-  "harz": "https://images.unsplash.com/photo-1504714146340-959ca07e1f38?q=80&w=2000&auto=format&fit=crop",
-  "sächsische schweiz": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=2000&auto=format&fit=crop",
-  "palmengarten frankfurt": "https://images.unsplash.com/photo-1560565544-df8563efcf96?q=80&w=2000&auto=format&fit=crop",
+  "englischer garten münchen": "images/r_15db536d24.webp",
+  "schwarzwald": "images/u_e0b2bcaf48.webp",
+  "bayerischer wald": "images/u_8ca0913ca4.webp",
+  "harz": "images/u_3e13a66988.webp",
+  "sächsische schweiz": "images/u_58680e1eba.webp",
+  "palmengarten frankfurt": "images/r_a45d52a7b3.webp",
   
   // European mountain ranges
-  "alpen": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?q=80&w=2000&auto=format&fit=crop",
-  "dolomiten": "https://images.unsplash.com/photo-1502786129293-79981df4e689?q=80&w=2000&auto=format&fit=crop",
-  "pyrenäen": "https://images.unsplash.com/photo-1561489396-886149abd625?q=80&w=2000&auto=format&fit=crop"
+  "alpen": "images/u_a5b7951bbc.webp",
+  "dolomiten": "images/u_7929f1ca25.webp",
+  "pyrenäen": "images/r_ec5107861b.webp"
 };
 
 // Berlin and German cultural events
 const europeanCultureImages = {
-  "theater berlin": "https://images.unsplash.com/photo-1503095396549-807759245b35?q=80&w=2000&auto=format&fit=crop",
-  "staatsoper berlin": "https://images.unsplash.com/photo-1507246207829-596a9fdf4264?q=80&w=2000&auto=format&fit=crop",
-  "deutsche oper": "https://images.unsplash.com/photo-1513106580091-1d82408b8cd6?q=80&w=2000&auto=format&fit=crop",
-  "komische oper": "https://images.unsplash.com/photo-1610890557552-3a65537288c7?q=80&w=2000&auto=format&fit=crop",
-  "friedrichstadt-palast": "https://images.unsplash.com/photo-1560249956-c99d8c16d934?q=80&w=2000&auto=format&fit=crop",
-  "konzert": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2000&auto=format&fit=crop",
-  "philharmonie berlin": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?q=80&w=2000&auto=format&fit=crop",
-  "jazz": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=2000&auto=format&fit=crop",
-  "ballett": "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?q=80&w=2000&auto=format&fit=crop",
-  "klassik": "https://images.unsplash.com/photo-1507246207829-596a9fdf4264?q=80&w=2000&auto=format&fit=crop",
+  "theater berlin": "images/u_676c2ef372.webp",
+  "staatsoper berlin": "images/r_9d40f31d31.webp",
+  "deutsche oper": "images/u_49e0460e5e.webp",
+  "komische oper": "images/r_0666d1acf8.webp",
+  "friedrichstadt-palast": "images/r_1b030fce08.webp",
+  "konzert": "images/u_f18d96b1c2.webp",
+  "philharmonie berlin": "images/u_0c8113060a.webp",
+  "jazz": "images/u_861bbc2639.webp",
+  "ballett": "images/u_a9138b3045.webp",
+  "klassik": "images/r_9d40f31d31.webp",
   
-  "kunstworkshop": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2000&auto=format&fit=crop", // Europäischer Kunstworkshop
-  "theater-workshop": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=2000&auto=format&fit=crop", // Europäisches Theater
-  "tanzkurs": "https://images.unsplash.com/photo-1535525153412-5a42439a210d?q=80&w=2000&auto=format&fit=crop"
+  "kunstworkshop": "images/u_0c16e212e2.webp", // Europäischer Kunstworkshop
+  "theater-workshop": "images/u_484fe45166.webp", // Europäisches Theater
+  "tanzkurs": "images/u_8be135439f.webp"
 };
 
 // European markets and food
 const europeanMarketFoodImages = {
-  "wochenmarkt": "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da?q=80&w=2000&auto=format&fit=crop",
-  "flohmarkt": "https://images.unsplash.com/photo-1531237848477-3f2636318a2a?q=80&w=2000&auto=format&fit=crop",
-  "weihnachtsmarkt": "https://images.unsplash.com/photo-1512389142860-9c449e58a543?q=80&w=2000&auto=format&fit=crop",
-  "biergarten": "https://images.unsplash.com/photo-1600713198455-d7e3bc5fedce?q=80&w=2000&auto=format&fit=crop",
-  "deutsches restaurant": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2000&auto=format&fit=crop",
-  "café berlin": "https://images.unsplash.com/photo-1582653291997-079a1c04e5a1?q=80&w=2000&auto=format&fit=crop",
-  "markthalle": "https://images.unsplash.com/photo-1513640127641-49ba81f8305c?q=80&w=2000&auto=format&fit=crop",
-  "viktualienmarkt münchen": "https://images.unsplash.com/photo-1628694647734-bf4aedeede1e?q=80&w=2000&auto=format&fit=crop",
-  "kleinmarkthalle frankfurt": "https://images.unsplash.com/photo-1560262829-8b6b24306a23?q=80&w=2000&auto=format&fit=crop"
+  "wochenmarkt": "images/u_1038740f80.webp",
+  "flohmarkt": "images/r_2e30329372.webp",
+  "weihnachtsmarkt": "images/u_c4d548d50a.webp",
+  "biergarten": "images/r_fd7efb4862.webp",
+  "deutsches restaurant": "images/u_ce2a195fd3.webp",
+  "café berlin": "images/u_19658bb217.webp",
+  "markthalle": "images/u_62c72995f8.webp",
+  "viktualienmarkt münchen": "images/u_46c4f93a9b.webp",
+  "kleinmarkthalle frankfurt": "images/r_dcb774bdd8.webp"
 };
 
 // European sports and recreation
 const europeanSportImages = {
-  "fahrrad tour": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=2000&auto=format&fit=crop",
-  "wandern": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2000&auto=format&fit=crop",
-  "klettern": "https://images.unsplash.com/photo-1522163182402-834f871fd851?q=80&w=2000&auto=format&fit=crop",
-  "segeln": "https://images.unsplash.com/photo-1500514966906-fe245eea9344?q=80&w=2000&auto=format&fit=crop",
-  "fußball": "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=2000&auto=format&fit=crop",
-  "yoga": "https://images.unsplash.com/photo-1544367567-0f2fcb0e00d0?q=80&w=2000&auto=format&fit=crop",
-  "laufen": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?q=80&w=2000&auto=format&fit=crop"
+  "fahrrad tour": "images/u_5e37f9492b.webp",
+  "wandern": "images/u_f6d2bb706a.webp",
+  "klettern": "images/u_11f45f23c6.webp",
+  "segeln": "images/u_7da094352b.webp",
+  "fußball": "images/u_57a37f243e.webp",
+  "yoga": "images/c_0214a81b3a.webp",
+  "laufen": "images/u_2f2b4d8df4.webp"
 };
 
 // Special activities images (workshops, experiences)
 const europeanSpecialActivityImages = {
-  "workshop": "https://images.unsplash.com/photo-1531986627054-53196208f1c7?q=80&w=2000&auto=format&fit=crop",
-  "führung": "https://images.unsplash.com/photo-1569949279386-12029ba44549?q=80&w=2000&auto=format&fit=crop",
-  "stadttour": "https://images.unsplash.com/photo-1520985244272-adb8a254c249?q=80&w=2000&auto=format&fit=crop",
-  "weintour": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=2000&auto=format&fit=crop",
-  "kochkurs": "https://images.unsplash.com/photo-1565675007565-3a7e38b1f4b8?q=80&w=2000&auto=format&fit=crop",
-  "theater-workshop für anfänger": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=2000&auto=format&fit=crop", // Europäisches Theater
-  "kunstworkshop": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2000&auto=format&fit=crop" // Europäischer Kunstworkshop
+  "workshop": "images/r_e91c68c9f2.webp",
+  "führung": "images/c_0cca45d2c1.webp",
+  "stadttour": "images/s_468b326177.webp",
+  "weintour": "images/u_95de4b0df6.webp",
+  "kochkurs": "images/r_ee8a929b12.webp",
+  "theater-workshop für anfänger": "images/u_484fe45166.webp", // Europäisches Theater
+  "kunstworkshop": "images/u_0c16e212e2.webp" // Europäischer Kunstworkshop
 };
 
 // Specific activity matches (exact title matches take highest priority)
 const specificActivityImages = {
-  "theater-workshop für anfänger": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=2000&auto=format&fit=crop", // Europäisches Theater
-  "schwimmen am wannsee": "https://images.unsplash.com/photo-1533294455009-a77b7557d2d1?q=80&w=2000&auto=format&fit=crop", // Europäischer See/Strand
-  "sonnenuntergang am weißensee": "https://images.unsplash.com/photo-1505576391680-30db4b2739e3?q=80&w=2000&auto=format&fit=crop", // Europäischer See
-  "berliner philharmonie": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?q=80&w=2000&auto=format&fit=crop",
-  "kunstausstellung im hamburger bahnhof": "https://images.unsplash.com/photo-1594794312531-9edb4161920f?q=80&w=2000&auto=format&fit=crop",
-  "englischer garten tour": "https://images.unsplash.com/photo-1585001644052-fbb466de340f?q=80&w=2000&auto=format&fit=crop",
-  "deutsches museum": "https://images.unsplash.com/photo-1566932769119-7a280b44857b?q=80&w=2000&auto=format&fit=crop",
-  "viktualienmarkt": "https://images.unsplash.com/photo-1628694647734-bf4aedeede1e?q=80&w=2000&auto=format&fit=crop",
-  "biergarten am chinesischen turm": "https://images.unsplash.com/photo-1600713198455-d7e3bc5fedce?q=80&w=2000&auto=format&fit=crop",
-  "elbphilharmonie plaza": "https://images.unsplash.com/photo-1583002083769-0bdb6149e5b5?q=80&w=2000&auto=format&fit=crop",
-  "kölner dom": "https://images.unsplash.com/photo-1573158026303-df15dd6b3a54?q=80&w=2000&auto=format&fit=crop",
-  "kunstworkshop": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2000&auto=format&fit=crop" // Europäischer Kunstworkshop
+  "theater-workshop für anfänger": "images/u_484fe45166.webp", // Europäisches Theater
+  "schwimmen am wannsee": "images/u_4d73aec518.webp", // Europäischer See/Strand
+  "sonnenuntergang am weißensee": "images/c_11f5d83243.webp", // Europäischer See
+  "berliner philharmonie": "images/u_0c8113060a.webp",
+  "kunstausstellung im hamburger bahnhof": "images/r_22c4b2e566.webp",
+  "englischer garten tour": "images/r_15db536d24.webp",
+  "deutsches museum": "images/r_dcc0b03cef.webp",
+  "viktualienmarkt": "images/u_46c4f93a9b.webp",
+  "biergarten am chinesischen turm": "images/r_fd7efb4862.webp",
+  "elbphilharmonie plaza": "images/r_23fae6d9c5.webp",
+  "kölner dom": "images/r_420f0d625d.webp",
+  "kunstworkshop": "images/u_0c16e212e2.webp" // Europäischer Kunstworkshop
 };
 
 // Category-based European images (as fallback) - Updated specifically for lakes
 const europeanCategoryImages = {
-  "Musik": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2000&auto=format&fit=crop",
-  "Kunst": "https://images.unsplash.com/photo-1594794312531-9edb4161920f?q=80&w=2000&auto=format&fit=crop",
-  "Museum": "https://images.unsplash.com/photo-1566127444968-e5053a5de309?q=80&w=2000&auto=format&fit=crop",
-  "See": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=2000&auto=format&fit=crop", // Updated: European lake, not tropical
-  "Natur": "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=2000&auto=format&fit=crop",
-  "Architektur": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2000&auto=format&fit=crop",
-  "Theater": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=2000&auto=format&fit=crop", // Europäisches Theater
-  "Märkte": "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da?q=80&w=2000&auto=format&fit=crop",
-  "Sport": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2000&auto=format&fit=crop",
-  "Gastronomie": "https://images.unsplash.com/photo-1600788886242-5c96aabe3757?q=80&w=2000&auto=format&fit=crop", 
-  "Erlebnis": "https://images.unsplash.com/photo-1569949279386-12029ba44549?q=80&w=2000&auto=format&fit=crop",
-  "Kultur": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=2000&auto=format&fit=crop",
-  "Shopping": "https://images.unsplash.com/photo-1589658942311-a54491beb9d1?q=80&w=2000&auto=format&fit=crop",
-  "Geschichte": "https://images.unsplash.com/photo-1584552966182-d47a1dfbe12c?q=80&w=2000&auto=format&fit=crop",
-  "Kurse": "https://images.unsplash.com/photo-1531986627054-53196208f1c7?q=80&w=2000&auto=format&fit=crop",
-  "Fotografie": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=2000&auto=format&fit=crop",
-  "Tanzen": "https://images.unsplash.com/photo-1535525153412-5a42439a210d?q=80&w=2000&auto=format&fit=crop",
-  "Lostplaces": "https://images.unsplash.com/photo-1518558195043-059ab7dd262e?q=80&w=2000&auto=format&fit=crop",
-  "Sehenswürdigkeiten": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=2000&auto=format&fit=crop",
-  "Familie": "https://images.unsplash.com/photo-1597113366853-fea190b6cd82?q=80&w=2000&auto=format&fit=crop",
-  "Wellness": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=2000&auto=format&fit=crop",
-  "default": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?q=80&w=2000&auto=format&fit=crop"
+  "Musik": "images/u_f18d96b1c2.webp",
+  "Kunst": "images/r_22c4b2e566.webp",
+  "Museum": "images/r_2c007bc217.webp",
+  "See": "images/u_de25381d65.webp", // Updated: European lake, not tropical
+  "Natur": "images/u_8ca0913ca4.webp",
+  "Architektur": "images/u_65d4ce5b13.webp",
+  "Theater": "images/u_484fe45166.webp", // Europäisches Theater
+  "Märkte": "images/u_1038740f80.webp",
+  "Sport": "images/u_2dd64cd455.webp",
+  "Gastronomie": "images/u_3dcdfb5f91.webp", 
+  "Erlebnis": "images/c_0cca45d2c1.webp",
+  "Kultur": "images/u_2a40770272.webp",
+  "Shopping": "images/r_505ccb2363.webp",
+  "Geschichte": "images/r_db1a586512.webp",
+  "Kurse": "images/r_e91c68c9f2.webp",
+  "Fotografie": "images/u_d868eaad47.webp",
+  "Tanzen": "images/u_8be135439f.webp",
+  "Lostplaces": "images/r_b0f2d0a03f.webp",
+  "Sehenswürdigkeiten": "images/u_d7cea4aba3.webp",
+  "Familie": "images/u_726e55dd18.webp",
+  "Wellness": "images/u_cae5c87ab2.webp",
+  "default": "images/u_a5b7951bbc.webp"
 };
 
 // Function to check if a title/location matches any key in the given dictionary

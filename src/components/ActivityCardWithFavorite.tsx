@@ -58,7 +58,7 @@ const ActivityCardWithFavorite = React.memo((props: ActivityCardWithFavoriteProp
     
     // PRIORITY 1: Look for exact title match in the uploaded images first
     for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
-      if (key.toLowerCase() === normalizedTitle && imgUrl.includes('Special:FilePath')) {
+      if (key.toLowerCase() === normalizedTitle && imgUrl.includes('images/c_')) {
         return imgUrl;
       }
     }
@@ -66,7 +66,7 @@ const ActivityCardWithFavorite = React.memo((props: ActivityCardWithFavoriteProp
     // PRIORITY 2: Look for partial title match in uploaded images
     for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
       if ((normalizedTitle.includes(key.toLowerCase()) || key.toLowerCase().includes(normalizedTitle)) && 
-          imgUrl.includes('Special:FilePath')) {
+          imgUrl.includes('images/c_')) {
         return imgUrl;
       }
     }

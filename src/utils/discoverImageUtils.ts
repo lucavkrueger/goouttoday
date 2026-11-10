@@ -20,7 +20,7 @@ const logImageSelection = (message: string, important: boolean = false) => {
  */
 const isImageAvailable = (url: string): Promise<boolean> => {
   // Für lokale Bilder (lovable-uploads) immer true zurückgeben
-  if (url.includes('Special:FilePath')) {
+  if (url.includes('images/c_')) {
     return Promise.resolve(true);
   }
 

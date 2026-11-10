@@ -10,7 +10,7 @@ const Credits = () => (
       <p className="text-slate-600 mb-3">
         Viele Fotos auf GoOutToday stammen von{" "}
         <a className="text-blue-600 underline" href="https://commons.wikimedia.org" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>{" "}
-        und stehen unter freien Lizenzen (z.&nbsp;B. CC BY-SA). Urheber und genaue Lizenz findest du auf der jeweils verlinkten Dateiseite.
+        und stehen unter freien Lizenzen (z.&nbsp;B. CC BY-SA). Unten stehen Urheber und Lizenz jedes Fotos, mit Link zur Dateiseite. Die Fotos wurden für die Website verkleinert.
       </p>
       <p className="text-slate-600 mb-8">
         Weitere Fotos stammen von{" "}
@@ -19,11 +19,13 @@ const Credits = () => (
       </p>
       <ul className="space-y-2 text-sm">
         {IMAGE_CREDITS.map((c) => (
-          <li key={c.file} className="break-words">
-            <a className="text-blue-600 hover:underline" href={`https://commons.wikimedia.org/wiki/File:${c.file}`} target="_blank" rel="noopener noreferrer">
+          <li key={c.page} className="break-words">
+            <a className="text-blue-600 hover:underline" href={c.page} target="_blank" rel="noopener noreferrer">
               {c.name}
             </a>
-            <span className="text-slate-500"> – Wikimedia Commons</span>
+            <span className="text-slate-500">
+              {" – "}{c.artist || "Unbekannt"}{c.license ? `, ${c.license}` : ""}, Wikimedia Commons
+            </span>
           </li>
         ))}
       </ul>

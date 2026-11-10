@@ -27,7 +27,7 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
     
     // Only get the first 20 uploaded images to prefetch
     Object.values(SPECIFIC_ACTIVITY_IMAGES).slice(0, 20).forEach(imgUrl => {
-      if (imgUrl.includes('Special:FilePath') && !uploadedImages.includes(imgUrl)) {
+      if (imgUrl.includes('images/c_') && !uploadedImages.includes(imgUrl)) {
         uploadedImages.push(imgUrl);
       }
     });
@@ -49,12 +49,12 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
         const normalizedTitle = activity.title?.toLowerCase().trim() || '';
         
         if (SPECIFIC_ACTIVITY_IMAGES[normalizedTitle] && 
-            SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('Special:FilePath')) {
+            SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('images/c_')) {
           return SPECIFIC_ACTIVITY_IMAGES[normalizedTitle];
         }
         
         for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
-          if (!imgUrl.includes('Special:FilePath')) continue;
+          if (!imgUrl.includes('images/c_')) continue;
           
           if ((normalizedTitle.includes(key.toLowerCase()) && key.length > 4) || 
               (key.toLowerCase().includes(normalizedTitle) && normalizedTitle.length > 4)) {
@@ -121,12 +121,12 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
           const normalizedTitle = activity.title?.toLowerCase().trim() || '';
           
           if (SPECIFIC_ACTIVITY_IMAGES[normalizedTitle] && 
-              SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('Special:FilePath')) {
+              SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('images/c_')) {
             return SPECIFIC_ACTIVITY_IMAGES[normalizedTitle];
           }
           
           for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
-            if (imgUrl.includes('Special:FilePath')) {
+            if (imgUrl.includes('images/c_')) {
               if ((normalizedTitle.includes(key.toLowerCase()) && key.length > 4) || 
                   (key.toLowerCase().includes(normalizedTitle) && normalizedTitle.length > 4)) {
                 return imgUrl;
@@ -137,7 +137,7 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
           const normalizedLocation = activity.location?.toLowerCase().trim() || '';
           if (normalizedLocation) {
             for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
-              if (imgUrl.includes('Special:FilePath') && 
+              if (imgUrl.includes('images/c_') && 
                   normalizedLocation.includes(key.toLowerCase()) && 
                   key.length > 4) {
                 return imgUrl;

@@ -7,7 +7,7 @@ import { prefetchImages } from '@/utils/imageOptimizationUtils';
 // Helper function to check if an image URL is one of our uploaded images
 const isUploadedImage = (imageUrl: string | undefined): boolean => {
   if (!imageUrl) return false;
-  return imageUrl.includes('Special:FilePath');
+  return imageUrl.includes('images/c_');
 };
 
 // Simple string hash function

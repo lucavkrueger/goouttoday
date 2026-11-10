@@ -79,10 +79,10 @@ const SubmitActivity = () => {
     
     setTimeout(() => {
       const placeholderImages = [
-        'https://images.unsplash.com/photo-1533658280853-e4a10c25a30d',
-        'https://images.unsplash.com/photo-1617854818583-09e7f077a156',
-        'https://images.unsplash.com/photo-1554629947-334ff61d85dc',
-        'https://images.unsplash.com/photo-1551632811-561732d1e306'
+        'images/u_89998ea73e.webp',
+        'images/u_39155944b0.webp',
+        'images/u_2168756f0d.webp',
+        'images/u_edbb0cc680.webp'
       ];
       
       const randomImage = placeholderImages[Math.floor(Math.random() * placeholderImages.length)];

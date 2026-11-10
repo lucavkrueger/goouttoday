@@ -37,7 +37,7 @@ const ActivityImage: React.FC<ActivityImageProps> = ({
     
     // Only use uploaded images for exact matches to prevent misuse
     if (SPECIFIC_ACTIVITY_IMAGES[normalizedTitle] && 
-        SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('Special:FilePath')) {
+        SPECIFIC_ACTIVITY_IMAGES[normalizedTitle].includes('images/c_')) {
       setImageUrl(SPECIFIC_ACTIVITY_IMAGES[normalizedTitle]);
       setIsUploadedImg(true);
       

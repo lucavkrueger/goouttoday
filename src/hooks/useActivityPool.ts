@@ -68,10 +68,10 @@ export const useActivityPool = (
     
     // Prioritize activities with uploaded images
     const withUploadedImages = filteredPool.filter(activity => 
-      activity.image?.includes('Special:FilePath')
+      activity.image?.includes('images/c_')
     );
     const withoutUploadedImages = filteredPool.filter(activity => 
-      !activity.image?.includes('Special:FilePath')
+      !activity.image?.includes('images/c_')
     );
     
     console.log(`Found ${withUploadedImages.length} activities with uploaded images`);
@@ -158,8 +158,8 @@ export const useActivityPool = (
       }
     }
 
-    const withUploads = pool.filter(a => a.image?.includes('Special:FilePath'));
-    const withoutUploads = pool.filter(a => !a.image?.includes('Special:FilePath'));
+    const withUploads = pool.filter(a => a.image?.includes('images/c_'));
+    const withoutUploads = pool.filter(a => !a.image?.includes('images/c_'));
     return [...withUploads, ...withoutUploads];
   }, [getFilteredActivityPool, settings.interests, settings.freeActivitiesOnly, combinedActivities, filterFreeActivities]);
 

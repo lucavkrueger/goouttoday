@@ -145,17 +145,17 @@ export const useActivityImage = () => {
     
     // Direkter Abgleich für die neu hochgeladenen Bilder
     if (normalizedTitle === "berlinische galerie" || normalizedTitle.includes("berlinische galerie")) {
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/La_Berlinische_Galerie_(Berlin)_(36584925874).jpg?width=960";
+      return "images/c_f6b732dd05.webp";
     }
     
     if (normalizedTitle === "philharmonie" || 
         normalizedTitle === "berliner philharmonie" || 
         normalizedTitle.includes("konzert") && normalizedTitle.includes("philharmonie")) {
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Philharmonie_Berlin.jpg?width=960";
+      return "images/c_3bd428543a.webp";
     }
     
     if (normalizedTitle === "tangoloft" || normalizedTitle.includes("tangoloft")) {
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Tango_dance.jpg?width=960";
+      return "images/c_6da4c02467.webp";
     }
     
     // Define special landmarks to look for - expanded list
@@ -174,39 +174,39 @@ export const useActivityImage = () => {
     // Special cases with direct image mappings
     if (checkSpecialCase(normalizedTitle, 'berlinische galerie')) {
       console.log(`Using Berlinische Galerie image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/La_Berlinische_Galerie_(Berlin)_(36584925874).jpg?width=960";
+      return "images/c_f6b732dd05.webp";
     }
 
     if (checkSpecialCase(normalizedTitle, 'tangoloft', 'tangoloft berlin')) {
       console.log(`Using Tangoloft image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Tango_dance.jpg?width=960";
+      return "images/c_6da4c02467.webp";
     }
     
     if (checkSpecialCase(normalizedTitle, 'philharmonie', 'berliner philharmonie', 'konzert philharmonie')) {
       console.log(`Using Philharmonie image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Philharmonie_Berlin.jpg?width=960";
+      return "images/c_3bd428543a.webp";
     }
     
     if (checkSpecialCase(normalizedTitle, 'tango', 'tanzen', 'tanzschule', 'tanzkurs', 'dance') && 
         !normalizedTitle.includes('tangoloft')) {
       console.log(`Using Tango image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Volkspark_Hasenheide.jpg?width=960";
+      return "images/c_0214a81b3a.webp";
     }
     
     if (checkSpecialCase(normalizedTitle, 'schloss charlottenburg', 'charlottenburger schloss')) {
       console.log(`Using Schloss Charlottenburg image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Schloss-Charlottenburg.jpg?width=960";
+      return "images/c_c116a3e03d.webp";
     }
     
     if (checkSpecialCase(normalizedTitle, 'berliner dom', 'berlin cathedral')) {
       console.log(`Using Berliner Dom image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Berliner_Dom_%26_Lustgarten.jpg?width=960";
+      return "images/c_8afebb7e24.webp";
     }
     
     if (checkSpecialCase(normalizedTitle, 'berghain') || 
         (normalizedTitle.includes('club') && normalizedTitle.includes('techno'))) {
       console.log(`Using Berghain image for "${activity.title}"`);
-      return "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Berghain.jpg?width=960";
+      return "images/c_c568ca5d85.webp";
     }
     
     // Check if the activity is one of our special landmarks

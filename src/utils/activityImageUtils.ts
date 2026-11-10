@@ -25,25 +25,25 @@ const getActivityImageById = (id: number | undefined): string | null => {
   // This way the same activity always gets the same image
   const idBasedImageSets = [
     [
-      "https://images.unsplash.com/photo-1585001644052-fbb466de340f?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1566932769119-7a280b44857b?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1628694647734-bf4aedeede1e?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600713198455-d7e3bc5fedce?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1599989850406-3c8de3eaac65?q=80&w=2000&auto=format&fit=crop"
+      "images/r_15db536d24.webp",
+      "images/r_dcc0b03cef.webp",
+      "images/u_46c4f93a9b.webp",
+      "images/r_fd7efb4862.webp",
+      "images/c_0ae77e4588.webp"
     ],
     [
-      "https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1608060349380-9fa7bee1aa72?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1510265119258-db115b0e8172?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1583002083769-0bdb6149e5b5?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1516737347189-49ba81f8305c?q=80&w=2000&auto=format&fit=crop"
+      "images/u_3716d7ca13.webp",
+      "images/c_0214a81b3a.webp",
+      "images/u_e4684477d2.webp",
+      "images/r_23fae6d9c5.webp",
+      "images/c_0cca45d2c1.webp"
     ],
     [
-      "https://images.unsplash.com/photo-1573158026303-df15dd6b3a54?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600190184058-4c1df469bbf7?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1638784886772-dae3c76d6c6f?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1559526324-593bc073d938?q=80&w=2000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1518944117945-e7f172e874f4?q=80&w=2000&auto=format&fit=crop"
+      "images/r_420f0d625d.webp",
+      "images/r_e3a381a2d2.webp",
+      "images/c_5223d34db1.webp",
+      "images/u_7ce599ee3a.webp",
+      "images/c_426a50cd0b.webp"
     ]
   ];
   

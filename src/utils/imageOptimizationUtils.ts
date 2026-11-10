@@ -4,7 +4,7 @@
  */
 export const isUploadedImage = (imageUrl: string | undefined): boolean => {
   if (!imageUrl) return false;
-  return imageUrl.includes('Special:FilePath');
+  return imageUrl.includes('images/c_');
 };
 
 /**
