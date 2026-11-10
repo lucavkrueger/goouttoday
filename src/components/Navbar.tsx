@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from "react";
-import logo from "@/assets/logo.svg";
+import logo from "@/assets/logo.png";
 import { Link, useLocation } from "react-router-dom";
 import { 
   Home, 
@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
           {/* Logo and title - Only shown on desktop */}
           <div className="hidden md:flex items-center space-x-2">
             <Link to="/" className="flex items-center space-x-2">
-              <img src={logo} alt="GOT" className="w-6 h-6" />
+              <img src={logo} alt="GoOutToday Logo" className="w-8 h-8" />
               <span className="font-display text-base font-medium text-slate-900">
                 GoOutToday
               </span>

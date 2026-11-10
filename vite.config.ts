@@ -6,6 +6,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   base: "./",
+  build: { assetsInlineLimit: 20000 },
   server: {
     host: "::",
     port: 8080,

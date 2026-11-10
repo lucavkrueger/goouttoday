@@ -45,6 +45,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Berlin, Mitte, Rosenthaler Strasse 39, Haus Schwarzenberg.jpg"
   },
   {
+    "file": "Berlin,_Oberbaumbr%C3%BCcke_in_der_blauen_Stunde_mit_Spiegelung.jpg",
+    "name": "Berlin, Oberbaumbrücke in der blauen Stunde mit Spiegelung.jpg"
+  },
+  {
     "file": "Berlin,_Schoeneberg,_Tauentzienstrasse_21-24,_KaDeWe.jpg",
     "name": "Berlin, Schoeneberg, Tauentzienstrasse 21-24, KaDeWe.jpg"
   },
@@ -55,6 +59,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Berlin-ACUD_2.jpg",
     "name": "Berlin-ACUD 2.jpg"
+  },
+  {
+    "file": "Berlin-BerlinerSchloss-3-Asio.JPG",
+    "name": "Berlin-BerlinerSchloss-3-Asio.JPG"
   },
   {
     "file": "Berlin-Curry_36.jpg",
@@ -81,6 +89,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Berlin-Prenzlauer Berg - Kollwitzplatz 03.jpg"
   },
   {
+    "file": "Berlin_-_Alte_Nationalgalerie.jpg",
+    "name": "Berlin - Alte Nationalgalerie.jpg"
+  },
+  {
     "file": "Berlin_-_Europa-Center.jpg",
     "name": "Berlin - Europa-Center.jpg"
   },
@@ -99,6 +111,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Berlin_-_Schloss-Charlottenburg.jpg",
     "name": "Berlin - Schloss-Charlottenburg.jpg"
+  },
+  {
+    "file": "Berlin_-_Sowjetisches_Ehrenmal_im_Treptower_Park.jpg",
+    "name": "Berlin - Sowjetisches Ehrenmal im Treptower Park.jpg"
   },
   {
     "file": "Berlin_-_Tempodrom.jpg",
@@ -129,6 +145,14 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Berlin Hufeisensiedlung UAV 04-2017.jpg"
   },
   {
+    "file": "Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg",
+    "name": "Berlin Jüdisches Museum und der Libeskind-Bau.jpg"
+  },
+  {
+    "file": "Berlin_Neues_Museum_Niobidensaal_gegen_Bacchussaal.jpg",
+    "name": "Berlin Neues Museum Niobidensaal gegen Bacchussaal.jpg"
+  },
+  {
     "file": "Berlin_RAW-Gel%C3%A4nde_2020.jpg",
     "name": "Berlin RAW-Gelände 2020.jpg"
   },
@@ -151,6 +175,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Berlin_Wei%C3%9Fer_See_06.jpg",
     "name": "Berlin Weißer See 06.jpg"
+  },
+  {
+    "file": "Berlin_Zeiss-Grossplanetarium_bei_Nacht.jpg",
+    "name": "Berlin Zeiss-Grossplanetarium bei Nacht.jpg"
   },
   {
     "file": "Berliner_Dom_%26_Lustgarten.jpg",
@@ -193,6 +221,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Climbing Tower Der Kegel Berlin.jpg"
   },
   {
+    "file": "Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg",
+    "name": "Clp 20080821 Gedenkstätte Berlin-Hohenschönhausen Eingang.jpg"
+  },
+  {
     "file": "Deutsches_Historisches_Museum_(Zeughaus),_Berlin,_1703_(1)_(40181061421).jpg",
     "name": "Deutsches Historisches Museum (Zeughaus), Berlin, 1703 (1) (40181061421).jpg"
   },
@@ -225,6 +257,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Gemeinschaftsgarten Berlin Tempelhof Park (40858716103).jpg"
   },
   {
+    "file": "Gem%C3%A4ldegalerie_am_Kulturforum_Berlin.JPG",
+    "name": "Gemäldegalerie am Kulturforum Berlin.JPG"
+  },
+  {
     "file": "Gendarmenmarkt_Berlin-Mitte.jpg",
     "name": "Gendarmenmarkt Berlin-Mitte.jpg"
   },
@@ -241,12 +277,24 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "GRIPS am Hansaplatz.jpg"
   },
   {
+    "file": "Grunewaldturm-Berlin.jpg",
+    "name": "Grunewaldturm-Berlin.jpg"
+  },
+  {
     "file": "Hamburger_Bahnhof_(Berlin)_0154.jpg",
     "name": "Hamburger Bahnhof (Berlin) 0154.jpg"
   },
   {
     "file": "Hansaviertel-Interbau-Berlin-Tiergarten-Schwedenhaus-Jaenecke-Samuelson.jpg",
     "name": "Hansaviertel-Interbau-Berlin-Tiergarten-Schwedenhaus-Jaenecke-Samuelson.jpg"
+  },
+  {
+    "file": "Haus_der_Kulturen_der_Welt,_Blaue_Stunde,_Berlin,_160521,_ako.jpg",
+    "name": "Haus der Kulturen der Welt, Blaue Stunde, Berlin, 160521, ako.jpg"
+  },
+  {
+    "file": "Holocaust_Mahnmal_Berlin_Stelenfeld.jpg",
+    "name": "Holocaust Mahnmal Berlin Stelenfeld.jpg"
   },
   {
     "file": "Humboldthain_Rosengarten.jpg",
@@ -301,6 +349,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Legoland Berlin - panoramio (2).jpg"
   },
   {
+    "file": "Liebermann-Villa_B-Wannsee_02-2014.jpg",
+    "name": "Liebermann-Villa B-Wannsee 02-2014.jpg"
+  },
+  {
     "file": "Lindy_hop_dip.jpg",
     "name": "Lindy hop dip.jpg"
   },
@@ -309,8 +361,16 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Maerchenbrunnen Berlin Friedrichshain 4.jpg"
   },
   {
+    "file": "Making_pottery_(Unsplash).jpg",
+    "name": "Making pottery (Unsplash).jpg"
+  },
+  {
     "file": "Mauerpark-karaoke-amphitheater-2011.jpg",
     "name": "Mauerpark-karaoke-amphitheater-2011.jpg"
+  },
+  {
+    "file": "Monbijoupark_Berlin_Oranienburgerstra%C3%9Fe.JPG",
+    "name": "Monbijoupark Berlin Oranienburgerstraße.JPG"
   },
   {
     "file": "Monkey_Bar,_the_rooftop_bar_at_25hours_Hotel_Bikini_Berlin.jpg",
@@ -319,6 +379,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Museum_f%C3%BCr_Fotografie_20160901_2.jpg",
     "name": "Museum für Fotografie 20160901 2.jpg"
+  },
+  {
+    "file": "Museum_f%C3%BCr_Kommunikation_Leipziger_Stra%C3%9Fe_16_9569.jpg",
+    "name": "Museum für Kommunikation Leipziger Straße 16 9569.jpg"
   },
   {
     "file": "Museumsinsel_Berlin.jpg",
@@ -337,6 +401,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
     "name": "Neue Nationalgalerie P7130065.JPG"
   },
   {
+    "file": "Nikolaiviertel_-_Zum_Nu%C3%9Fbaum.jpg",
+    "name": "Nikolaiviertel - Zum Nußbaum.jpg"
+  },
+  {
     "file": "Oeko-Insel,_FEZ,_Berlin_(BL7C0205).jpg",
     "name": "Oeko-Insel, FEZ, Berlin (BL7C0205).jpg"
   },
@@ -347,6 +415,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Philharmonie_Berlin.jpg",
     "name": "Philharmonie Berlin.jpg"
+  },
+  {
+    "file": "Potsdam_-_Schloss_Sanssouci_mit_Weinberg_2008.JPG",
+    "name": "Potsdam - Schloss Sanssouci mit Weinberg 2008.JPG"
   },
   {
     "file": "Potsdam_Lankestra%C3%9Fe_Berliner_Mauerweg-001.JPG",
@@ -415,6 +487,10 @@ export const IMAGE_CREDITS: { file: string; name: string }[] = [
   {
     "file": "Volkspark_Hasenheide.jpg",
     "name": "Volkspark Hasenheide.jpg"
+  },
+  {
+    "file": "Zitadelle_Spandau.jpg",
+    "name": "Zitadelle Spandau.jpg"
   },
   {
     "file": "Zur_letzten_Instanz_Berlins_oldest_running_restaurant_Klosterviertel_Waisenstra%C3%9Fe_Berlin-Mitte.jpg",

@@ -1,6 +1,6 @@
 
 import React from "react";
-import logo from "@/assets/logo.svg";
+import logo from "@/assets/logo.png";
 import { useIsMobile } from "@/hooks/use-mobile";
 
 interface HeaderProps {
@@ -15,7 +15,7 @@ const Header: React.FC<HeaderProps> = ({ className = "" }) => {
       <div className="flex items-center justify-center">
         <img 
           src={logo} 
-          alt="GOT" 
+          alt="GoOutToday Logo" 
           className={`${isMobile ? 'w-10 h-10' : 'w-12 h-12'} mr-3`} 
         />
         <h1 className={`${isMobile ? 'text-3xl' : 'text-3xl'} font-display font-bold text-slate-900`}>
