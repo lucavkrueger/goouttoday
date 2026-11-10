@@ -43,6 +43,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "2014-03-26 Designpanoptikum Berlin 20 anagoria.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:2014-03-26_Designpanoptikum_Berlin_20_anagoria.JPG",
+  "artist": "Anagoria",
+  "license": "CC BY 3.0"
+ },
+ {
   "name": "20170411 berlin music King Woman at Musik und Frieden- 2 -DSCN1137 (49542794611).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:20170411_berlin_music_King_Woman_at_Musik_und_Frieden-_2_-DSCN1137_(49542794611).jpg",
   "artist": "iZilla at flickR from Berlin, Germany",
@@ -313,6 +319,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC0"
  },
  {
+  "name": "Berlin waldbuehne 2019 aerial view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_waldbuehne_2019_aerial_view.jpg",
+  "artist": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de"
+ },
+ {
   "name": "Berlin Weißer See 06.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Berlin_Wei%C3%9Fer_See_06.jpg",
   "artist": "Funke",
@@ -499,6 +511,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY 3.0 de"
  },
  {
+  "name": "Beyond Van Gogh, Immersive Experience, Egypt 22.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beyond_Van_Gogh,_Immersive_Experience,_Egypt_22.jpg",
+  "artist": "Hassan Hamdy wahidy",
+  "license": "Public domain"
+ },
+ {
   "name": "Biergarten at Night 2.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Biergarten_at_Night_2.JPG",
   "artist": "Martin Falbisoner",
@@ -520,6 +538,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "name": "Blick vom Gleisdreieck-Park zum Potsdamer Platz in Berlin.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Blick_vom_Gleisdreieck-Park_zum_Potsdamer_Platz_in_Berlin.jpg",
   "artist": "JoachimKohler-HB",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Blues jam session (zaniklý klub Akord).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Blues_jam_session_(zanikl%C3%BD_klub_Akord).jpg",
+  "artist": "Jana Bártová",
   "license": "CC BY-SA 4.0"
  },
  {
@@ -557,6 +581,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Britzer_Garten,_Berlin-Neuk%C3%B6lln_(Britz),_Bild_1.jpg",
   "artist": "Neuköllner",
   "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Brücke An Der Spree (167301127).jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Br%C3%BCcke_An_Der_Spree_(167301127).jpeg",
+  "artist": "Heike Kranacher",
+  "license": "CC BY 3.0"
  },
  {
   "name": "C-O Berlin im Amerika Haus-2581.jpg",
@@ -631,6 +661,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Computerspielemuseum Berlin building - April 2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Computerspielemuseum_Berlin_building_-_April_2025.jpg",
+  "artist": "Logg Tandy",
+  "license": "CC BY 4.0"
+ },
+ {
   "name": "Couples dancing tango - Milonga at the Confiteria Ideal (4728933003).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Couples_dancing_tango_-_Milonga_at_the_Confiteria_Ideal_(4728933003).jpg",
   "artist": "Jorge Láscar from Australia",
@@ -671,6 +707,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Die_Spree_am_Treptower_Park_in_Berlin.jpg",
   "artist": "Neuköllner",
   "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Domäne Dahlem HDR.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dom%C3%A4ne_Dahlem_HDR.jpg",
+  "artist": "Karl-Heinz Meurer (--Charlie1965nrw)",
+  "license": "CC BY-SA 3.0"
  },
  {
   "name": "Double-Partner-Dancing-Arthur Murray Dance Studio The Woodlands TX-1080x720.jpg",
@@ -725,6 +767,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Escape_Room_-_%22The_Expedition%22_(Escape_Quest_Bethesda).jpg",
   "artist": "Hudson Bloom",
   "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Fahrgastschiff Sanssouci.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fahrgastschiff_Sanssouci.jpg",
+  "artist": "Er nun wieder",
+  "license": "CC BY-SA 3.0"
  },
  {
   "name": "Fernsehturm, Berlín, Alemania, 2016-04-21, DD 40-42 HDR.jpg",
@@ -803,6 +851,18 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Gewaechshaus_Botanischer_Garten_Berlin.jpg",
   "artist": "Pismire [2]",
   "license": "CC BY-SA 3.0"
+ },
+ {
+  "name": "Gläserne Manufaktur Dresden 2024 Luftbild Toni Klemm 2500px.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg",
+  "artist": "Toniklemm",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "name": "Graphasel Design Studio 01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Graphasel_Design_Studio_01.jpg",
+  "artist": "Dorottya Gajdos",
+  "license": "Public domain"
  },
  {
   "name": "GRIPS am Hansaplatz.jpg",
@@ -905,6 +965,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Humboldthain_Rosengarten.jpg",
   "artist": "Photo: Andreas Praefcke",
   "license": "CC BY 3.0"
+ },
+ {
+  "name": "Imker inspiziert einen Bienenstock (48429666416).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Imker_inspiziert_einen_Bienenstock_(48429666416).jpg",
+  "artist": "Ivan Radic",
+  "license": "CC BY 2.0"
  },
  {
   "name": "Improvisational theatre in Iran-Qom City-2018-Canon 5d Mark7.jpg",
@@ -1231,6 +1297,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC BY-SA 4.0"
  },
  {
+  "name": "Old-fashioned analog camera on an old book closeup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Old-fashioned_analog_camera_on_an_old_book_closeup.jpg",
+  "artist": "Shixart1985",
+  "license": "CC BY 2.0"
+ },
+ {
   "name": "Olympiapark München.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Olympiapark_M%C3%BCnchen.jpg",
   "artist": "Tobi 87",
@@ -1451,6 +1523,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Strandbad_wannsee.jpg",
   "artist": "t-stern",
   "license": "CC BY-SA 3.0"
+ },
+ {
+  "name": "Strandbar berlin.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Strandbar_berlin.jpg",
+  "artist": "Bernd Schönberger",
+  "license": "CC BY-SA 4.0"
  },
  {
   "name": "Street food in Wa 7.png",

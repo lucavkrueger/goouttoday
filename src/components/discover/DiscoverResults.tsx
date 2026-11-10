@@ -132,8 +132,7 @@ const DiscoverResults: React.FC<DiscoverResultsProps> = React.memo(({ activities
           
           for (const [key, imgUrl] of Object.entries(SPECIFIC_ACTIVITY_IMAGES)) {
             if (imgUrl.includes('images/c_')) {
-              if ((normalizedTitle.includes(key.toLowerCase()) && key.length > 4) || 
-                  (key.toLowerCase().includes(normalizedTitle) && normalizedTitle.length > 4)) {
+              if (normalizedTitle.includes(key.toLowerCase()) && key.length > 4) {
                 return imgUrl;
               }
             }
