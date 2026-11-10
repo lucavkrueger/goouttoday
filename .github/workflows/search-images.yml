@@ -1,4 +1,4 @@
-name: Search images-search
+name: Search images
 on:
   workflow_dispatch:
   push:
@@ -20,7 +20,7 @@ jobs:
       - name: Publish to images branch
         run: |
           cd out
-          git init -q -b images-search-search
+          git init -q -b images-search
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add -A && git commit -qm "Searched images"
