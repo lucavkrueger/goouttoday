@@ -1,0 +1,5652 @@
+{
+ "https://commons.wikimedia.org/wiki/File:${c.file}": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Artist_Woman_Singing_Concert_in_Jazz_Club.jpg?width=960": {
+  "labels": [
+   "jazz im a-trane",
+   "a-trane",
+   "a trane"
+  ],
+  "path": "images/c_bd1922f3b7.webp",
+  "source": "wikimedia",
+  "artist": "epSos.de",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Artist_Woman_Singing_Concert_in_Jazz_Club.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/BERLIN,_Tempelhof_flughafen.JPG?width=960": {
+  "labels": [
+   "flughafen tempelhof",
+   "tempelhof flughafen",
+   "tempelhof airport"
+  ],
+  "path": "images/c_01d9ce685a.webp",
+  "source": "wikimedia",
+  "artist": "Jpcuvelier",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:BERLIN,_Tempelhof_flughafen.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Bauhaus_Archiv_Berlin_6.jpg?width=960": {
+  "labels": [
+   "bauhaus-archiv",
+   "bauhaus archiv",
+   "bauhaus museum"
+  ],
+  "path": "images/c_7e0260568a.webp",
+  "source": "wikimedia",
+  "artist": "Eisenacher",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bauhaus_Archiv_Berlin_6.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Baumkronenpfad_in_Beelitz-Heilst%C3%A4tten.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_7d7ae67cb1.webp",
+  "source": "wikimedia",
+  "artist": "Angel-marie",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Baumkronenpfad_in_Beelitz-Heilst%C3%A4tten.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Beach_volleyball_(4701437938).jpg?width=960": {
+  "labels": [
+   "beach volleyball arena",
+   "beach volleyball",
+   "beachvolleyball"
+  ],
+  "path": "images/c_23b1bec1c3.webp",
+  "source": "wikimedia",
+  "artist": "Sander van der Wel from Netherlands",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Beach_volleyball_(4701437938).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Fernsehturm_am_Alexanderplatz_--_2011_--_1.jpg?width=960": {
+  "labels": [
+   "fernsehturm",
+   "fernsehturm berlin",
+   "berliner fernsehturm"
+  ],
+  "path": "images/c_426a50cd0b.webp",
+  "source": "wikimedia",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Fernsehturm_am_Alexanderplatz_--_2011_--_1.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Auguststrasse_24-25,_Claerchens_Ballhaus.jpg?width=960": {
+  "labels": [
+   "clärchens ballhaus",
+   "clärchens",
+   "ballhaus"
+  ],
+  "path": "images/c_d4c1919433.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Auguststrasse_24-25,_Claerchens_Ballhaus.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg?width=960": {
+  "labels": [
+   "literaturforum im brecht-haus",
+   "brecht-haus",
+   "literaturforum"
+  ],
+  "path": "images/c_bb5375427a.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Friedrichstrasse,_Traenenpalast.jpg?width=960": {
+  "labels": [
+   "tränenpalast"
+  ],
+  "path": "images/c_866e0370f8.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Friedrichstrasse,_Traenenpalast.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_In_den_Ministergaerten_4,_Saarlaendische_Landesvertretung.jpg?width=960": {
+  "labels": [
+   "jazz in den ministergärten",
+   "jazz",
+   "ministergärten"
+  ],
+  "path": "images/c_4441e330ce.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_In_den_Ministergaerten_4,_Saarlaendische_Landesvertretung.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Rosa-Luxemburg-Strasse_30,_Wohnanlage_und_Kino_Babylon.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_9627fdd73c.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Rosa-Luxemburg-Strasse_30,_Wohnanlage_und_Kino_Babylon.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Rosenthaler_Strasse_39,_Haus_Schwarzenberg.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_1942e9b987.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Rosenthaler_Strasse_39,_Haus_Schwarzenberg.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Oberbaumbr%C3%BCcke_in_der_blauen_Stunde_mit_Spiegelung.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_0ae77e4588.webp",
+  "source": "wikimedia",
+  "artist": "Michabka",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Oberbaumbr%C3%BCcke_in_der_blauen_Stunde_mit_Spiegelung.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Schoeneberg,_Tauentzienstrasse_21-24,_KaDeWe.jpg?width=960": {
+  "labels": [
+   "kadewe",
+   "kaufhaus des westens"
+  ],
+  "path": "images/c_2d34f92f9c.webp",
+  "source": "wikimedia",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Schoeneberg,_Tauentzienstrasse_21-24,_KaDeWe.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-ACUD_2.jpg?width=960": {
+  "labels": [
+   "kunsthaus acud",
+   "acud",
+   "acud kunsthaus"
+  ],
+  "path": "images/c_6ad6054ac3.webp",
+  "source": "wikimedia",
+  "artist": "Kaspar Metz",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-ACUD_2.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-BerlinerSchloss-3-Asio.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_f423e05400.webp",
+  "source": "wikimedia",
+  "artist": "Asio otus",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-BerlinerSchloss-3-Asio.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Curry_36.jpg?width=960": {
+  "labels": [
+   "curry 36",
+   "curry36"
+  ],
+  "path": "images/c_6531f145fe.webp",
+  "source": "wikimedia",
+  "artist": "Er nun wieder",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Curry_36.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-K%C3%B6penick_Teufelssee.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_42961d1340.webp",
+  "source": "wikimedia",
+  "artist": "Andreas Steinhoff",
+  "license": "Attribution",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-K%C3%B6penick_Teufelssee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Kulturbrauerei.jpg?width=960": {
+  "labels": [
+   "kulturbrauerei",
+   "kulturbrauerei berlin",
+   "kultur brauerei"
+  ],
+  "path": "images/c_e18629ed83.webp",
+  "source": "wikimedia",
+  "artist": "Kaspar Metz",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Kulturbrauerei.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Mauerpark-Flohmarkt_(1).jpg?width=960": {
+  "labels": [
+   "mauerpark flohmarkt",
+   "flohmarkt mauerpark",
+   "flohmarkt am mauerpark"
+  ],
+  "path": "images/c_fe765c561f.webp",
+  "source": "wikimedia",
+  "artist": "Ji-Elle",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Mauerpark-Flohmarkt_(1).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Pl%C3%A4nterwald_-_Spreepark_-_Riesenrad.jpg?width=960": {
+  "labels": [
+   "spreepark",
+   "spreepark berlin"
+  ],
+  "path": "images/c_d47683d1b4.webp",
+  "source": "wikimedia",
+  "artist": "Andreas Steinhoff",
+  "license": "Attribution",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Pl%C3%A4nterwald_-_Spreepark_-_Riesenrad.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Prenzlauer_Berg_-_Kollwitzplatz_03.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_6f2c93fb59.webp",
+  "source": "wikimedia",
+  "artist": "Joe Mabel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Prenzlauer_Berg_-_Kollwitzplatz_03.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Alte_Nationalgalerie.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_e354ac5f0d.webp",
+  "source": "wikimedia",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Alte_Nationalgalerie.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Europa-Center.jpg?width=960": {
+  "labels": [
+   "thermen am europa center",
+   "thermen europa center",
+   "wellness"
+  ],
+  "path": "images/c_23d9fc7cfb.webp",
+  "source": "wikimedia",
+  "artist": "Fred Romero from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Europa-Center.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Hackesche_H%C3%B6fe.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_2791ac5d8d.webp",
+  "source": "wikimedia",
+  "artist": "Fred Romero from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Hackesche_H%C3%B6fe.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Museum_f%C3%BCr_Naturkunde_-_Brachiosaurus_brancai.jpg?width=960": {
+  "labels": [
+   "museum für naturkunde",
+   "naturkundemuseum",
+   "naturkunde museum"
+  ],
+  "path": "images/c_d5b1fcd44a.webp",
+  "source": "wikimedia",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Museum_f%C3%BCr_Naturkunde_-_Brachiosaurus_brancai.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Pergamonmuseum_-_Altar_01.jpg?width=960": {
+  "labels": [
+   "pergamonmuseum",
+   "pergamon"
+  ],
+  "path": "images/c_65c3e41121.webp",
+  "source": "wikimedia",
+  "artist": "Lestat (Jan Mehlich)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Pergamonmuseum_-_Altar_01.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Schloss-Charlottenburg.jpg?width=960": {
+  "labels": [
+   "schloss charlottenburg"
+  ],
+  "path": "images/c_c116a3e03d.webp",
+  "source": "wikimedia",
+  "artist": "Lestat (Jan Mehlich)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Schloss-Charlottenburg.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Sowjetisches_Ehrenmal_im_Treptower_Park.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_6bc947d09c.webp",
+  "source": "wikimedia",
+  "artist": "Marek Śliwecki",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Sowjetisches_Ehrenmal_im_Treptower_Park.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Tempodrom.jpg?width=960": {
+  "labels": [
+   "liquidrom",
+   "liquidrom berlin"
+  ],
+  "path": "images/c_0556c7e7a0.webp",
+  "source": "wikimedia",
+  "artist": "Fred Romero from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Tempodrom.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Topographie_des_Terrors.jpg?width=960": {
+  "labels": [
+   "topographie des terrors"
+  ],
+  "path": "images/c_dcc3ddd3cc.webp",
+  "source": "wikimedia",
+  "artist": "Fred Romero from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Topographie_des_Terrors.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_view_from_Fernsehturm_to_Alexanderplatz.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_7a96b5383c.webp",
+  "source": "wikimedia",
+  "artist": "A. Leschek",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_view_from_Fernsehturm_to_Alexanderplatz.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Berghain.jpg?width=960": {
+  "labels": [
+   "berghain"
+  ],
+  "path": "images/c_c568ca5d85.webp",
+  "source": "wikimedia",
+  "artist": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Berghain.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Botanical_Garden.jpg?width=960": {
+  "labels": [
+   "botanischer garten",
+   "botanische gärten",
+   "tropische pflanzen im botanischen garten"
+  ],
+  "path": "images/c_0aaababe5a.webp",
+  "source": "wikimedia",
+  "artist": "Paul VanDerWerf",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Botanical_Garden.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_DDR-Museum_an_der_Spree_01.jpg?width=960": {
+  "labels": [
+   "ddr museum"
+  ],
+  "path": "images/c_bfd758cf6a.webp",
+  "source": "wikimedia",
+  "artist": "Photo: Andreas Praefcke",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_DDR-Museum_an_der_Spree_01.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Hufeisensiedlung_UAV_04-2017.jpg?width=960": {
+  "labels": [
+   "hufeisensiedlung",
+   "hufeisensiedlung berlin"
+  ],
+  "path": "images/c_fef5d0c686.webp",
+  "source": "wikimedia",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Hufeisensiedlung_UAV_04-2017.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_ddb0f94f44.webp",
+  "source": "wikimedia",
+  "artist": "Marek Śliwecki",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Neues_Museum_Niobidensaal_gegen_Bacchussaal.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_09f3f999cb.webp",
+  "source": "wikimedia",
+  "artist": "User:ONAR",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Neues_Museum_Niobidensaal_gegen_Bacchussaal.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_RAW-Gel%C3%A4nde_2020.jpg?width=960": {
+  "labels": [
+   "street art tour",
+   "street art tour kreuzberg",
+   "kreuzberg street art"
+  ],
+  "path": "images/c_5a5f8acd76.webp",
+  "source": "wikimedia",
+  "artist": "DavideGorla",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_RAW-Gel%C3%A4nde_2020.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Spree_Molecule_men_gesamtansicht.jpg?width=960": {
+  "labels": [
+   "molecule man"
+  ],
+  "path": "images/c_6e36b9bc3b.webp",
+  "source": "wikimedia",
+  "artist": "Jensen",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Spree_Molecule_men_gesamtansicht.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Stasi_Normannenstrasse_2005.jpg?width=960": {
+  "labels": [
+   "stasi museum",
+   "stasi-museum",
+   "stasi museum berlin"
+  ],
+  "path": "images/c_c1945d2276.webp",
+  "source": "wikimedia",
+  "artist": "Photo: Andreas Praefcke",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Stasi_Normannenstrasse_2005.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Tierpark_Friedrichsfelde_12-2015_Schloss_img1.jpg?width=960": {
+  "labels": [
+   "tierpark berlin",
+   "zoo",
+   "zoo berlin"
+  ],
+  "path": "images/c_7ef9308305.webp",
+  "source": "wikimedia",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Tierpark_Friedrichsfelde_12-2015_Schloss_img1.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Volkspark_Jungfernheide.jpg?width=960": {
+  "labels": [
+   "kletterwald im jungfernheidepark",
+   "kletterwald",
+   "jungfernheidepark"
+  ],
+  "path": "images/c_ea211e5c52.webp",
+  "source": "wikimedia",
+  "artist": "Ich",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Volkspark_Jungfernheide.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Wei%C3%9Fer_See_06.jpg?width=960": {
+  "labels": [
+   "weißensee",
+   "sonnenuntergang am weißensee"
+  ],
+  "path": "images/c_11f5d83243.webp",
+  "source": "wikimedia",
+  "artist": "Funke",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Wei%C3%9Fer_See_06.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Zeiss-Grossplanetarium_bei_Nacht.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_6cc997b5ec.webp",
+  "source": "wikimedia",
+  "artist": "Meinereiner73",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Zeiss-Grossplanetarium_bei_Nacht.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Berliner_Dom_%26_Lustgarten.jpg?width=960": {
+  "labels": [
+   "berliner dom"
+  ],
+  "path": "images/c_8afebb7e24.webp",
+  "source": "wikimedia",
+  "artist": "CruiseTommy",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berliner_Dom_%26_Lustgarten.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini_Berlin.jpg?width=960": {
+  "labels": [
+   "bikini",
+   "bikini berlin"
+  ],
+  "path": "images/c_cb400592fe.webp",
+  "source": "wikimedia",
+  "artist": "Lupus in Saxonia",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bikini_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/BoxhagenerPlatzFleamarket.jpg?width=960": {
+  "labels": [
+   "boxhagener platz flohmarkt",
+   "flohmarkt boxhagener platz",
+   "boxhagener platz"
+  ],
+  "path": "images/c_891efef88a.webp",
+  "source": "wikimedia",
+  "artist": "ProhibitOnions at English Wikipedia",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:BoxhagenerPlatzFleamarket.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburger_Tor_(Berlin)_-_Festival_of_Lights_2012_-_1064-944-(120).jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_c04dfcf566.webp",
+  "source": "wikimedia",
+  "artist": "Lotse",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_(Berlin)_-_Festival_of_Lights_2012_-_1064-944-(120).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburger_Tor_abends.jpg?width=960": {
+  "labels": [
+   "brandenburger tor"
+  ],
+  "path": "images/c_0cca45d2c1.webp",
+  "source": "wikimedia",
+  "artist": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Britzer_Garten,_Berlin-Neuk%C3%B6lln_(Britz),_Bild_1.jpg?width=960": {
+  "labels": [
+   "britzer garten",
+   "britzer park",
+   "garten britz"
+  ],
+  "path": "images/c_53bd78e319.webp",
+  "source": "wikimedia",
+  "artist": "Neuköllner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Britzer_Garten,_Berlin-Neuk%C3%B6lln_(Britz),_Bild_1.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/C-O_Berlin_im_Amerika_Haus-2581.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_d018149066.webp",
+  "source": "wikimedia",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:C-O_Berlin_im_Amerika_Haus-2581.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Checkpoint_Charlie_Berlin.jpg?width=960": {
+  "labels": [
+   "checkpoint charlie"
+  ],
+  "path": "images/c_3b682934ad.webp",
+  "source": "wikimedia",
+  "artist": "Adrian Purser from London, UK",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Checkpoint_Charlie_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Chinesischer_Garten_Marzahn.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_ce6a6c6c4e.webp",
+  "source": "wikimedia",
+  "artist": "Dr. Minx",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinesischer_Garten_Marzahn.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Climbing_Tower_Der_Kegel_Berlin.jpg?width=960": {
+  "labels": [
+   "bouldern im kegel",
+   "kegel berlin",
+   "kegel"
+  ],
+  "path": "images/c_35bef22695.webp",
+  "source": "wikimedia",
+  "artist": "Lukas Koster",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Climbing_Tower_Der_Kegel_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_eef164ef23.webp",
+  "source": "wikimedia",
+  "artist": "Christian Liebscher (Platte)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsches_Historisches_Museum_(Zeughaus),_Berlin,_1703_(1)_(40181061421).jpg?width=960": {
+  "labels": [
+   "deutsches historisches museum",
+   "historisches museum",
+   "dhm"
+  ],
+  "path": "images/c_09e1ec6158.webp",
+  "source": "wikimedia",
+  "artist": "Richard Mortel from Riyadh, Saudi Arabia",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Deutsches_Historisches_Museum_(Zeughaus),_Berlin,_1703_(1)_(40181061421).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsches_technikmuseum_berlin_20080429.jpg?width=960": {
+  "labels": [
+   "deutsches technikmuseum",
+   "technikmuseum",
+   "technikmuseum berlin"
+  ],
+  "path": "images/c_a127b75759.webp",
+  "source": "wikimedia",
+  "artist": "Sir James",
+  "license": "CC BY-SA 2.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Deutsches_technikmuseum_berlin_20080429.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Die_Spree_am_Treptower_Park_in_Berlin.jpg?width=960": {
+  "labels": [
+   "treptower park"
+  ],
+  "path": "images/c_ee9825f8d4.webp",
+  "source": "wikimedia",
+  "artist": "Neuköllner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Die_Spree_am_Treptower_Park_in_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/East_Side_Gallery_(Berlin)_(6333276562).jpg?width=960": {
+  "labels": [
+   "east side gallery"
+  ],
+  "path": "images/c_8f64cfd71f.webp",
+  "source": "wikimedia",
+  "artist": "Jean-Pierre Dalbéra from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:East_Side_Gallery_(Berlin)_(6333276562).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_Sauna.jpg?width=960": {
+  "labels": [
+   "vabali",
+   "vabali spa"
+  ],
+  "path": "images/c_36a00dac0f.webp",
+  "source": "wikimedia",
+  "artist": "McGhiever",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Finnish_Sauna.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Flamingo_Spa_%26_Wellness.jpg?width=960": {
+  "labels": [
+   "meridian spa",
+   "meridian spa berlin"
+  ],
+  "path": "images/c_9324dbaa2c.webp",
+  "source": "wikimedia",
+  "artist": "Amattilaine",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Flamingo_Spa_%26_Wellness.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/GRIPS_am_Hansaplatz.jpg?width=960": {
+  "labels": [
+   "grips theater"
+  ],
+  "path": "images/c_e66db29100.webp",
+  "source": "wikimedia",
+  "artist": "Miriam Guterland",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:GRIPS_am_Hansaplatz.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Gedenkst%C3%A4tte_Berliner_Mauer,_Todesstreifen.jpg?width=960": {
+  "labels": [
+   "gedenkstätte",
+   "gedenkstätte berliner mauer"
+  ],
+  "path": "images/c_5f1468d373.webp",
+  "source": "wikimedia",
+  "artist": "Ralf Schulze",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Berliner_Mauer,_Todesstreifen.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Gem%C3%A4ldegalerie_am_Kulturforum_Berlin.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_140e260807.webp",
+  "source": "wikimedia",
+  "artist": "User:Oursana",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gem%C3%A4ldegalerie_am_Kulturforum_Berlin.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Gemeinschaftsgarten_Berlin_Tempelhof_Park_(40858716103).jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_2575cfaccc.webp",
+  "source": "wikimedia",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gemeinschaftsgarten_Berlin_Tempelhof_Park_(40858716103).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Gendarmenmarkt_Berlin-Mitte.jpg?width=960": {
+  "labels": [
+   "gendarmenmarkt"
+  ],
+  "path": "images/c_106c4cc912.webp",
+  "source": "wikimedia",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gendarmenmarkt_Berlin-Mitte.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Germany_Spree_bad_kl1.jpg?width=960": {
+  "labels": [
+   "badeschiff",
+   "badeschiff berlin"
+  ],
+  "path": "images/c_84e2a82550.webp",
+  "source": "wikimedia",
+  "artist": "",
+  "license": "CC BY-SA 1.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Germany_Spree_bad_kl1.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Gewaechshaus_Botanischer_Garten_Berlin.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_fcd4849360.webp",
+  "source": "wikimedia",
+  "artist": "Pismire [2]",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gewaechshaus_Botanischer_Garten_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Grunewaldturm-Berlin.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_08bfa2239d.webp",
+  "source": "wikimedia",
+  "artist": "KK nationsonline",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grunewaldturm-Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburger_Bahnhof_(Berlin)_0154.jpg?width=960": {
+  "labels": [
+   "hamburger bahnhof",
+   "kunstausstellung im hamburger bahnhof"
+  ],
+  "path": "images/c_d3e99b7a99.webp",
+  "source": "wikimedia",
+  "artist": "Dosseman",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburger_Bahnhof_(Berlin)_0154.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Hansaviertel-Interbau-Berlin-Tiergarten-Schwedenhaus-Jaenecke-Samuelson.jpg?width=960": {
+  "labels": [
+   "hansaviertel",
+   "hansa viertel",
+   "interbau"
+  ],
+  "path": "images/c_a185f233f6.webp",
+  "source": "wikimedia",
+  "artist": "Gunnar Klack",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hansaviertel-Interbau-Berlin-Tiergarten-Schwedenhaus-Jaenecke-Samuelson.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Haus_der_Kulturen_der_Welt,_Blaue_Stunde,_Berlin,_160521,_ako.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_d4b7d7a59b.webp",
+  "source": "wikimedia",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Haus_der_Kulturen_der_Welt,_Blaue_Stunde,_Berlin,_160521,_ako.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Holocaust_Mahnmal_Berlin_Stelenfeld.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_f499de7202.webp",
+  "source": "wikimedia",
+  "artist": "Stefan Wagner, http://trumpkin.de",
+  "license": "CC BY-SA 2.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Holocaust_Mahnmal_Berlin_Stelenfeld.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Humboldthain_Rosengarten.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_7036901024.webp",
+  "source": "wikimedia",
+  "artist": "Photo: Andreas Praefcke",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Humboldthain_Rosengarten.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Karl-Marx-Allee_Berlin_4.jpg?width=960": {
+  "labels": [
+   "karl-marx-allee",
+   "karl marx allee",
+   "stalinallee"
+  ],
+  "path": "images/c_7c48f5ebb0.webp",
+  "source": "wikimedia",
+  "artist": "No machine-readable author provided. Gryffindor assumed (based on copyright claims).",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl-Marx-Allee_Berlin_4.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Karneval_der_Kulturen_in_Berlin.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_36d9c377c3.webp",
+  "source": "wikimedia",
+  "artist": "The original uploader was Ulrich Rosemeyer at German Wikipedia.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Karneval_der_Kulturen_in_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Kino_International_Karl-Marx-Allee.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_5223d34db1.webp",
+  "source": "wikimedia",
+  "artist": "BFotography",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kino_International_Karl-Marx-Allee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Kranzler-Eck_kurf%C3%BCrstendamm_-_joachimstaler_stra%C3%9Fe_berlin.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_8090d1e1db.webp",
+  "source": "wikimedia",
+  "artist": "De-okin 21:43, 16 February 2008 (UTC)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kranzler-Eck_kurf%C3%BCrstendamm_-_joachimstaler_stra%C3%9Fe_berlin.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Krematorium_Wedding.jpg?width=960": {
+  "labels": [
+   "silent green",
+   "silent green kulturquartier"
+  ],
+  "path": "images/c_6af8507b8b.webp",
+  "source": "wikimedia",
+  "artist": "Daniel Schumacher",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Krematorium_Wedding.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Kreuzberg_Bergmannstra%C3%9Fe_Parklets.jpg?width=960": {
+  "labels": [
+   "bergmannkiez",
+   "bergmann kiez",
+   "bergmannstraße"
+  ],
+  "path": "images/c_b7a73b8441.webp",
+  "source": "wikimedia",
+  "artist": "Fridolin freudenfett",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kreuzberg_Bergmannstra%C3%9Fe_Parklets.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Kreuzberg_Berlin_Viktoriapark_Wasserfall.jpg?width=960": {
+  "labels": [
+   "viktoria park",
+   "viktoriapark",
+   "viktoria-park"
+  ],
+  "path": "images/c_493b08e861.webp",
+  "source": "wikimedia",
+  "artist": "Manfred Brückels",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kreuzberg_Berlin_Viktoriapark_Wasserfall.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/La_Berlinische_Galerie_(Berlin)_(36584925874).jpg?width=960": {
+  "labels": [
+   "berlinische galerie"
+  ],
+  "path": "images/c_f6b732dd05.webp",
+  "source": "wikimedia",
+  "artist": "Jean-Pierre Dalbéra from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Berlinische_Galerie_(Berlin)_(36584925874).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Labyrinth_Ausstellungshalle.jpg?width=960": {
+  "labels": [
+   "labyrinth kindermuseum",
+   "labyrinth kindermuseum berlin",
+   "kindermuseum labyrinth"
+  ],
+  "path": "images/c_bcd3747737.webp",
+  "source": "wikimedia",
+  "artist": "Labyrinth Kindermuseum gGmbH, Ulrich Sülflow",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Labyrinth_Ausstellungshalle.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg?width=960": {
+  "labels": [
+   "sup auf dem landwehrkanal",
+   "stand up paddling landwehrkanal",
+   "paddling landwehrkanal"
+  ],
+  "path": "images/c_35677ab207.webp",
+  "source": "wikimedia",
+  "artist": "A.Savin",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Landwehrkanal_in_B-Kreuzberg_07-2014.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg?width=960": {
+  "labels": [
+   "sammlung boros",
+   "boros sammlung",
+   "boros collection"
+  ],
+  "path": "images/c_9eae14fc76.webp",
+  "source": "wikimedia",
+  "artist": "Jean-Pierre Dalbéra from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Legoland_Berlin_-_panoramio_(2).jpg?width=960": {
+  "labels": [
+   "legoland discovery centre",
+   "legoland discovery centre berlin",
+   "legoland berlin"
+  ],
+  "path": "images/c_f1f5d455ae.webp",
+  "source": "wikimedia",
+  "artist": "Nikolai Karaneschev",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Legoland_Berlin_-_panoramio_(2).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Liebermann-Villa_B-Wannsee_02-2014.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_a0a1dab9f3.webp",
+  "source": "wikimedia",
+  "artist": "A.Savin",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Liebermann-Villa_B-Wannsee_02-2014.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Lindy_hop_dip.jpg?width=960": {
+  "labels": [
+   "swing",
+   "swing tanzkurs",
+   "frannz club"
+  ],
+  "path": "images/c_ec432f6630.webp",
+  "source": "wikimedia",
+  "artist": "",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lindy_hop_dip.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Maerchenbrunnen_Berlin_Friedrichshain_4.jpg?width=960": {
+  "labels": [
+   "volkspark friedrichshain"
+  ],
+  "path": "images/c_ce56a935a4.webp",
+  "source": "wikimedia",
+  "artist": "Manfred Brückels",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Maerchenbrunnen_Berlin_Friedrichshain_4.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Making_pottery_(Unsplash).jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_be6621a61f.webp",
+  "source": "wikimedia",
+  "artist": "Jared Sluyter jaredsluyter",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Making_pottery_(Unsplash).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Mauerpark-karaoke-amphitheater-2011.jpg?width=960": {
+  "labels": [
+   "mauerpark karaoke",
+   "karaoke im mauerpark",
+   "sonntagskaraoke"
+  ],
+  "path": "images/c_0c8e7162e3.webp",
+  "source": "wikimedia",
+  "artist": "Alexander Puell",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mauerpark-karaoke-amphitheater-2011.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Monbijoupark_Berlin_Oranienburgerstra%C3%9Fe.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_68de38337d.webp",
+  "source": "wikimedia",
+  "artist": "De-okin (talk) 19:02, 29 May 2009 (UTC)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Monbijoupark_Berlin_Oranienburgerstra%C3%9Fe.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Monkey_Bar,_the_rooftop_bar_at_25hours_Hotel_Bikini_Berlin.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_018e8111f9.webp",
+  "source": "wikimedia",
+  "artist": "Voyages etc...",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Monkey_Bar,_the_rooftop_bar_at_25hours_Hotel_Bikini_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_f%C3%BCr_Fotografie_20160901_2.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_73ff655dd7.webp",
+  "source": "wikimedia",
+  "artist": "Sebastian Rittau",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Museum_f%C3%BCr_Fotografie_20160901_2.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_f%C3%BCr_Kommunikation_Leipziger_Stra%C3%9Fe_16_9569.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_16821a8cd4.webp",
+  "source": "wikimedia",
+  "artist": "Dosseman",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Museum_f%C3%BCr_Kommunikation_Leipziger_Stra%C3%9Fe_16_9569.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Museumsinsel_Berlin.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_c959792457.webp",
+  "source": "wikimedia",
+  "artist": "Michael Fiedler",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Neue_Nationalgalerie_Berlin.jpg?width=960": {
+  "labels": [
+   "neue nationalgalerie",
+   "nationalgalerie"
+  ],
+  "path": "images/c_55128b993d.webp",
+  "source": "wikimedia",
+  "artist": "Manfred Brückels",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Neue_Nationalgalerie_Berlin_-_von_oben.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_81ebd73a19.webp",
+  "source": "wikimedia",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_Berlin_-_von_oben.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Neue_Nationalgalerie_P7130065.JPG?width=960": {
+  "labels": [],
+  "path": "images/c_7198ec3711.webp",
+  "source": "wikimedia",
+  "artist": "Deror avi",
+  "license": "Attribution",
+  "page": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_P7130065.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaiviertel_-_Zum_Nu%C3%9Fbaum.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_b823ad226d.webp",
+  "source": "wikimedia",
+  "artist": "Leif Jørgensen",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nikolaiviertel_-_Zum_Nu%C3%9Fbaum.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Oeko-Insel,_FEZ,_Berlin_(BL7C0205).jpg?width=960": {
+  "labels": [
+   "fez",
+   "fez-berlin"
+  ],
+  "path": "images/c_31784592eb.webp",
+  "source": "wikimedia",
+  "artist": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Oeko-Insel,_FEZ,_Berlin_(BL7C0205).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Path_in_Gro%C3%9Fer_Tiergarten_Berlin_2024-05-09_01.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_a1f32230b1.webp",
+  "source": "wikimedia",
+  "artist": "Leonhard Lenz",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Path_in_Gro%C3%9Fer_Tiergarten_Berlin_2024-05-09_01.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Philharmonie_Berlin.jpg?width=960": {
+  "labels": [
+   "philharmonie",
+   "berliner philharmonie",
+   "konzerthaus"
+  ],
+  "path": "images/c_3bd428543a.webp",
+  "source": "wikimedia",
+  "artist": "No machine-readable author provided. Gryffindor assumed (based on copyright claims).",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Philharmonie_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Potsdam_-_Schloss_Sanssouci_mit_Weinberg_2008.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_e4f5ca445f.webp",
+  "source": "wikimedia",
+  "artist": "Elkawe",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdam_-_Schloss_Sanssouci_mit_Weinberg_2008.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Potsdam_Lankestra%C3%9Fe_Berliner_Mauerweg-001.JPG?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_a4bd4b5a87.webp",
+  "source": "wikimedia",
+  "artist": "Fridolin freudenfett",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdam_Lankestra%C3%9Fe_Berliner_Mauerweg-001.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Quatsch_Comedy_Club_Berlin.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_64c56e4616.webp",
+  "source": "wikimedia",
+  "artist": "Andreas Thum",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Quatsch_Comedy_Club_Berlin.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Reichstagsgeb%C3%A4ude_-_Westansicht.jpg?width=960": {
+  "labels": [
+   "reichstag",
+   "reichstagsgebäude"
+  ],
+  "path": "images/c_ce136d7c37.webp",
+  "source": "wikimedia",
+  "artist": "Heinzi",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_-_Westansicht.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Rooftop_Skateboarding_(Unsplash).jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_de50b806e2.webp",
+  "source": "wikimedia",
+  "artist": "Flo Karr flo_karr",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rooftop_Skateboarding_(Unsplash).jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Schlachtensee.jpg?width=960": {
+  "labels": [
+   "bootsverleih am schlachtensee"
+  ],
+  "path": "images/c_1cfc4bc88e.webp",
+  "source": "wikimedia",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Schlachtensee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Schloss_Pfaueninsel,_Berlin-Wannsee.jpg?width=960": {
+  "labels": [
+   "pfaueninsel"
+  ],
+  "path": "images/c_75f6c3de25.webp",
+  "source": "wikimedia",
+  "artist": "Pepito Sbazzeguti",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Schloss_Pfaueninsel,_Berlin-Wannsee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Sede_Stasi_Museum.JPG?width=960": {
+  "labels": [],
+  "path": "images/c_6b615c2a8c.webp",
+  "source": "wikimedia",
+  "artist": "Prof.Quatermass",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sede_Stasi_Museum.JPG",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Staatsbibliothek-Berlin-Haus-Unter-den-Linden-Lesesaal-Berlin-Mitte-03-2016.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_be27c74d9b.webp",
+  "source": "wikimedia",
+  "artist": "Gunnar Klack",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Staatsbibliothek-Berlin-Haus-Unter-den-Linden-Lesesaal-Berlin-Mitte-03-2016.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Strandbad_M%C3%BCggelsee.jpg?width=960": {
+  "labels": [
+   "strandbad müggelsee",
+   "müggelsee",
+   "mueggelsee"
+  ],
+  "path": "images/c_3e371df0e8.webp",
+  "source": "wikimedia",
+  "artist": "Pascal Volk from Berlin, Germany",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Strandbad_M%C3%BCggelsee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Strandbad_wannsee.jpg?width=960": {
+  "labels": [
+   "wannsee",
+   "schwimmen am wannsee",
+   "strandbad wannsee"
+  ],
+  "path": "images/c_05eea61f18.webp",
+  "source": "wikimedia",
+  "artist": "t-stern",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Strandbad_wannsee.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Streetart_Wrangelkiez_Berlin-Kreuzberg.jpg?width=960": {
+  "labels": [],
+  "path": "images/c_4d7eea803e.webp",
+  "source": "wikimedia",
+  "artist": "Ohuizinga",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Streetart_Wrangelkiez_Berlin-Kreuzberg.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Tango_dance.jpg?width=960": {
+  "labels": [
+   "tangoloft",
+   "tangoloft berlin"
+  ],
+  "path": "images/c_6da4c02467.webp",
+  "source": "wikimedia",
+  "artist": "Mario Antonio Pena Zapatería",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tango_dance.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Teufelsberg_Listening_Station.jpg?width=960": {
+  "labels": [
+   "teufelsberg",
+   "abhörstation teufelsberg"
+  ],
+  "path": "images/c_97f033d087.webp",
+  "source": "wikimedia",
+  "artist": "Jedesto",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Teufelsberg_Listening_Station.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Urban_Nation_Museum_(Berlin)_-_Januar_2024_am_Abend.jpg?width=960": {
+  "labels": [
+   "urban nation",
+   "urban nation museum",
+   "urban nation museum for urban contemporary art"
+  ],
+  "path": "images/c_8ca9fdbfad.webp",
+  "source": "wikimedia",
+  "artist": "Cookroach",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Urban_Nation_Museum_(Berlin)_-_Januar_2024_am_Abend.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_Panoramapunkt.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_ee68219cf9.webp",
+  "source": "wikimedia",
+  "artist": "Tiia Monto",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:View_from_Panoramapunkt.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Volksb%C3%BChne_am_Rosa-Luxemburg-Platz.jpg?width=960": {
+  "labels": [
+   "volksbühne",
+   "volksbühne am rosa-luxemburg-platz"
+  ],
+  "path": "images/c_70afac3a63.webp",
+  "source": "wikimedia",
+  "artist": "Thomas Wolf (Der Wolf im Wald)",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Volksb%C3%BChne_am_Rosa-Luxemburg-Platz.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Volkspark_Hasenheide.jpg?width=960": {
+  "labels": [
+   "spaziergang",
+   "spaziergang im tiergarten"
+  ],
+  "path": "images/c_0214a81b3a.webp",
+  "source": "wikimedia",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Volkspark_Hasenheide.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Zitadelle_Spandau.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_ee5d3e90c9.webp",
+  "source": "wikimedia",
+  "artist": "Auriocus",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zitadelle_Spandau.jpg",
+  "status": "ok"
+ },
+ "https://commons.wikimedia.org/wiki/Special:FilePath/Zur_letzten_Instanz_Berlins_oldest_running_restaurant_Klosterviertel_Waisenstra%C3%9Fe_Berlin-Mitte.jpg?width=960": {
+  "labels": [
+   "image"
+  ],
+  "path": "images/c_de1dc9ff4a.webp",
+  "source": "wikimedia",
+  "artist": "Helge Høifødt",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zur_letzten_Instanz_Berlins_oldest_running_restaurant_Klosterviertel_Waisenstra%C3%9Fe_Berlin-Mitte.jpg",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "sächsische schweiz"
+  ],
+  "path": "images/u_58680e1eba.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1442570468985-f63ed5de9086": {
+  "labels": [
+   "Flughafen Tempelhof Tour"
+  ],
+  "path": "images/u_12150462aa.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1445116572660-236099ec97a0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Kaffeerösterei-Tour"
+  ],
+  "path": "images/u_909320f99e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "grunewald",
+   "schwarzwald"
+  ],
+  "path": "images/u_e0b2bcaf48.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40": {
+  "labels": [
+   "Science Slam im SO36"
+  ],
+  "path": "images/u_a0a66e3b37.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1455541504462-57ebb2a9cec1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Holzmarkt"
+  ],
+  "path": "images/u_3f5a4e2606.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1456162018889-1d2b45daabe7?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Mauerpark Flohmarkt"
+  ],
+  "path": "images/r_629422a4bc.webp",
+  "source": "wikimedia",
+  "query": "Mauerpark Flohmarkt",
+  "file": "File:Berlin-Mauerpark-Flohmarkt (6).jpg",
+  "status": "replaced",
+  "artist": "Ji-Elle",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Mauerpark-Flohmarkt_(6).jpg",
+  "review_no": 1
+ },
+ "https://images.unsplash.com/photo-1458049265344-e9246178a671?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Pfaueninsel"
+  ],
+  "path": "images/r_b9193b48fd.webp",
+  "source": "wikimedia",
+  "query": "Pfaueninsel",
+  "file": "File:Peacock Island Sep12 img 02.jpg",
+  "status": "replaced",
+  "artist": "A.Savin",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Peacock_Island_Sep12_img_02.jpg",
+  "review_no": 2
+ },
+ "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "alpen",
+   "default"
+  ],
+  "path": "images/u_a5b7951bbc.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=1000": {
+  "labels": [
+   "Kunstworkshop"
+  ],
+  "path": "images/u_4a48700b10.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kunstworkshop",
+   "Kunstworkshop"
+  ],
+  "path": "images/u_398e1091be.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1463736932348-4915535cf6f9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Tropische Pflanzen im Botanischen Garten"
+  ],
+  "path": "images/u_c790379451.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1464306076886-da8063262fc2": {
+  "labels": [
+   "Stand-Up-Comedy im Kookaburra"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07": {
+  "labels": [
+   "Konzert in der Philharmonie"
+  ],
+  "path": "images/u_3c0cfa10c0.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "planten un blomen",
+   "Spaziergang im Tiergarten"
+  ],
+  "path": "images/u_2fb59aa76f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "philharmonie berlin",
+   "berliner philharmonie",
+   "Berliner Philharmoniker"
+  ],
+  "path": "images/u_0c8113060a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1468413253725-0d5181091126?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "weißensee"
+  ],
+  "path": "images/u_7ab0a63d84.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05": {
+  "labels": [
+   "Bootsfahrt auf der Spree"
+  ],
+  "path": "images/u_04eb5ccaf8.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "East Side Gallery"
+  ],
+  "path": "images/u_8b91df864d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "club",
+   "YAAM - Young African Art Market"
+  ],
+  "path": "images/u_54980ddb3e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3": {
+  "labels": [
+   "Konzert in der Wabe"
+  ],
+  "path": "images/u_d647b38c4c.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "konzert"
+  ],
+  "path": "images/u_97818d04ee.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=2570&auto=format&fit=crop": {
+  "labels": [
+   "Musik & Frieden"
+  ],
+  "path": "images/u_244a8d8a89.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "müggelsee",
+   "See"
+  ],
+  "path": "images/u_de25381d65.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1471513671800-b09c87e1497c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Britzer Garten"
+  ],
+  "path": "images/u_13959ca886.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1472137634531-2e92fa3dfbbc?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "naturkundemuseum",
+   "Museum für Naturkunde"
+  ],
+  "path": "images/r_e008ebfbc0.webp",
+  "source": "wikimedia",
+  "query": "naturkundemuseum",
+  "file": "File:Bamberg Naturkundemuseum Vogelsaal 926449506HDR.jpg",
+  "status": "replaced",
+  "artist": "Ermell",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg",
+  "review_no": 3
+ },
+ "https://images.unsplash.com/photo-1472396961693-142e6e269027": {
+  "labels": [
+   "Spaziergang im Tiergarten"
+  ],
+  "path": "images/u_52e511bd13.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1472739514257-7fca34e84df8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "titisee"
+  ],
+  "path": "images/r_8d2cf800c6.webp",
+  "source": "wikimedia",
+  "query": "titisee",
+  "file": "File:Titisee - Gottlieb Theodor Hase - Augustiner M Freiburg.png",
+  "status": "replaced",
+  "artist": "",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Titisee_-_Gottlieb_Theodor_Hase_-_Augustiner_M_Freiburg.png",
+  "review_no": 4
+ },
+ "https://images.unsplash.com/photo-1472745942893-4b9b98c7ead7": {
+  "labels": [
+   "Kanufahrt durch Klein-Venedig"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "path": "images/u_e87799d794.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Bootsverleih am Schlachtensee"
+  ],
+  "path": "images/u_62cfe3d1f1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "bodensee"
+  ],
+  "path": "images/u_a804139b65.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1475666675596-cca2035b3d79": {
+  "labels": [
+   "Fahrradtour durch den Grunewald"
+  ],
+  "path": "images/u_d591ed248b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "laufen"
+  ],
+  "path": "images/u_2f2b4d8df4.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "default"
+  ],
+  "path": "images/u_cf8b4f1b76.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1482442120256-9c038b5f9f0c?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Kaufhaus des Westens (KaDeWe)"
+  ],
+  "path": "images/r_488c1c39f1.webp",
+  "source": "wikimedia",
+  "query": "Kaufhaus des Westens (KaDeWe)",
+  "file": "File:Berlin KaDeWe.jpg",
+  "status": "replaced",
+  "artist": "Katherine Price",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_KaDeWe.jpg",
+  "review_no": 5
+ },
+ "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "winter"
+  ],
+  "path": "images/u_f874434c68.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1485095329183-d0797cdc5676": {
+  "labels": [
+   "Freiluftkino Kreuzberg"
+  ],
+  "path": "images/u_72f22cf248.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1485846234645-a62644f84728": {
+  "labels": [
+   "Secret Cinema Event"
+  ],
+  "path": "images/u_bb37e7b0ae.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Architektur"
+  ],
+  "path": "images/u_65d4ce5b13.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1488459716781-31db52582fe9": {
+  "labels": [
+   "Wochenmarkt am Kollwitzplatz"
+  ],
+  "path": "images/u_8daf1ffaf0.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b": {
+  "labels": [
+   "Besuch im Computerspielemuseum"
+  ],
+  "path": "images/u_fb5c4c2239.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba": {
+  "labels": [
+   "Open Air Kino im Volkspark Hasenheide"
+  ],
+  "path": "images/u_a5f426b2a5.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f": {
+  "labels": [
+   "Vintage-Shopping in der Humana"
+  ],
+  "path": "images/u_5b98a510ef.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1490644658840-3f2e3f8c5625?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Hansaviertel"
+  ],
+  "path": "images/u_09878ae988.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1490832664070-247688ba262f": {
+  "labels": [
+   "Ballonfahrt über Berlin"
+  ],
+  "path": "images/r_ecb596c9a3.webp",
+  "source": "wikimedia",
+  "query": "Ballonfahrt über",
+  "file": "File:Ballonfahrt über Köln - Ellmühle und Auermühle, Rheinauhafen-RS-4097.jpg",
+  "status": "replaced",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ballonfahrt_%C3%BCber_K%C3%B6ln_-_Ellm%C3%BChle_und_Auerm%C3%BChle,_Rheinauhafen-RS-4097.jpg",
+  "review_no": 6
+ },
+ "https://images.unsplash.com/photo-1492760864391-753aaae87234": {
+  "labels": [
+   "Workshop für analoge Fotografie"
+  ],
+  "path": "images/u_fc43557013.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9": {
+  "labels": [
+   "Workshop in der Geheimrausch Keramikwerkstatt"
+  ],
+  "path": "images/u_7708541b83.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Computerspielemuseum Berlin"
+  ],
+  "path": "images/u_b0c46293dc.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1494172961521-33799ddd43a5": {
+  "labels": [
+   "Führung durch Designstudios in Kreuzberg"
+  ],
+  "path": "images/u_5aec84e468.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085": {
+  "labels": [
+   "Besuch der Berliner Kaffeerösterei"
+  ],
+  "path": "images/u_59ededf0f3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1496436818536-42c7bce55ccb?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "volkspark friedrichshain"
+  ],
+  "path": "images/r_22d70f842d.webp",
+  "source": "wikimedia",
+  "query": "volkspark friedrichshain",
+  "file": "File:Calisthenics-Anlage Volkspark Friedrichshain 3v4.jpg",
+  "status": "replaced",
+  "artist": "Singlespeedfahrer",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Calisthenics-Anlage_Volkspark_Friedrichshain_3v4.jpg",
+  "review_no": 7
+ },
+ "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "fischmarkt",
+   "altonaer fischmarkt",
+   "kleinmarkthalle"
+  ],
+  "path": "images/u_1038740f80.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8": {
+  "labels": [
+   "Streetart-Tour durch Kreuzberg"
+  ],
+  "path": "images/r_833615f49d.webp",
+  "source": "wikimedia",
+  "query": "Streetart-Tour Kreuzberg Berlin",
+  "file": "File:Tellerrand-Streetart Berlin Brandesstraße-5881.jpg",
+  "status": "replaced",
+  "artist": "GodeNehler",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tellerrand-Streetart_Berlin_Brandesstra%C3%9Fe-5881.jpg",
+  "review_no": 8
+ },
+ "https://images.unsplash.com/photo-1499988921418-b7df40ff03f9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "plötzensee"
+  ],
+  "path": "images/u_907ab276ee.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "bootsverleih"
+  ],
+  "path": "images/u_edf5239c35.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1500382017468-9049fed747ef": {
+  "labels": [
+   "Botanischer Garten Berlin"
+  ],
+  "path": "images/u_e8d8e3e2d8.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=2592&auto=format&fit=crop": {
+  "labels": [
+   "Pfaueninsel"
+  ],
+  "path": "images/u_053c034beb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1500514966906-fe245eea9344?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "segeln"
+  ],
+  "path": "images/u_7da094352b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1501386761578-eac5c94b800a": {
+  "labels": [
+   "Konzert im Privatclub"
+  ],
+  "path": "images/u_ec226042c7.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1501619951397-5ba40d0f75da": {
+  "labels": [
+   "Lange Nacht der Museen"
+  ],
+  "path": "images/u_c9d5e09769.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Strandbad Müggelsee"
+  ],
+  "path": "images/u_d672afc502.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "bayerischer wald",
+   "Natur"
+  ],
+  "path": "images/u_8ca0913ca4.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1502786129293-79981df4e689?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "dolomiten"
+  ],
+  "path": "images/u_7929f1ca25.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1503095396549-807759245b35?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "theater",
+   "theater berlin"
+  ],
+  "path": "images/u_676c2ef372.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1503095396549-807759245b35?q=80&w=2671&auto=format&fit=crop": {
+  "labels": [
+   "Berliner Ensemble"
+  ],
+  "path": "images/u_fcd40b572d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=2686&auto=format&fit=crop": {
+  "labels": [
+   "Labyrinth Kindermuseum"
+  ],
+  "path": "images/u_48936d9a64.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1503916070890-02418c28eb95?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tierpark"
+  ],
+  "path": "images/r_57afee2a50.webp",
+  "source": "wikimedia",
+  "query": "tierpark",
+  "file": "File:Tierpark Berlin - Main entry.jpg",
+  "status": "replaced",
+  "artist": "Agadez",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tierpark_Berlin_-_Main_entry.jpg",
+  "review_no": 9
+ },
+ "https://images.unsplash.com/photo-1503919005314-30d93d07d823?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Zoo Berlin"
+  ],
+  "path": "images/u_72fe7a9c62.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1504309092620-4d0ec726efa4?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Strandbad Wannsee"
+  ],
+  "path": "images/u_296c002657.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1504546732731-2164e7130292?q=80&w=2532&auto=format&fit=crop": {
+  "labels": [
+   "Strandbad Wannsee"
+  ],
+  "path": "images/r_0061222c43.webp",
+  "source": "wikimedia",
+  "query": "Strandbad Wannsee",
+  "file": "File:Strandbad Wannsee 07.jpg",
+  "status": "replaced",
+  "artist": "Axel Mauruszat",
+  "license": "CC BY 2.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Strandbad_Wannsee_07.jpg",
+  "review_no": 10
+ },
+ "https://images.unsplash.com/photo-1504609813442-a9c289fd5de8?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Tangoloft Berlin"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Street Food Thursday",
+   "Markthalle Neun - Streetfood Thursday"
+  ],
+  "path": "images/u_b57d874a7a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1504714146340-959ca07e1f38?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "harz"
+  ],
+  "path": "images/u_3e13a66988.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "schlachtensee"
+  ],
+  "path": "images/u_3e9a2d8b0e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1505576391680-30db4b2739e3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "sonnenuntergang am weißensee"
+  ],
+  "path": "images/r_e617ccc946.webp",
+  "source": "wikimedia",
+  "query": "sonnenuntergang am weißensee",
+  "file": "File:Weissensee Kärnten Techendorf 2013 07b.jpg",
+  "status": "replaced",
+  "artist": "Joadl",
+  "license": "CC BY-SA 3.0 at",
+  "page": "https://commons.wikimedia.org/wiki/File:Weissensee_K%C3%A4rnten_Techendorf_2013_07b.jpg",
+  "review_no": 11
+ },
+ "https://images.unsplash.com/photo-1505826759037-406b40388009": {
+  "labels": [
+   "Streetfood Festival im Markthalle Neun"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "schlachtensee"
+  ],
+  "path": "images/u_1d48b1a595.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb": {
+  "labels": [
+   "Weinprobe im Weinbergspark"
+  ],
+  "path": "images/u_516aac64de.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=1000": {
+  "labels": [
+   "Weinprobe im Rheingau"
+  ],
+  "path": "images/u_3fb30bcc63.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "weinprobe",
+   "weintour"
+  ],
+  "path": "images/u_95de4b0df6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1506477331477-33d5d8b3dc85?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Sonnenuntergang am Weißensee"
+  ],
+  "path": "images/u_3ea7771868.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1506744038136-46273834b3fb": {
+  "labels": [
+   "Paddeln auf dem Landwehrkanal"
+  ],
+  "path": "images/u_6b7c46ceff.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1507034589631-9433cc6bc453": {
+  "labels": [
+   "Bouldern im Bouldergarten"
+  ],
+  "path": "images/u_6e64bfbe1b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1507233701980-62a5170abb7a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "frauenkirche",
+   "frauenkirche dresden",
+   "Frauenkirche"
+  ],
+  "path": "images/r_907ce9e3fb.webp",
+  "source": "wikimedia",
+  "query": "frauenkirche",
+  "file": "File:Frauenkirche Munich, March 2018.jpg",
+  "status": "replaced",
+  "artist": "Martin Falbisoner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich,_March_2018.jpg",
+  "review_no": 12
+ },
+ "https://images.unsplash.com/photo-1507246207829-596a9fdf4264?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "staatsoper berlin",
+   "klassik"
+  ],
+  "path": "images/r_9d40f31d31.webp",
+  "source": "wikimedia",
+  "query": "staatsoper berlin",
+  "file": "File:Staatsoper-Berlin-Unter-den-Linden-vom-Bebelplatz-Abenddämmerung-2026.jpg",
+  "status": "replaced",
+  "artist": "Tuxyso",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Staatsoper-Berlin-Unter-den-Linden-vom-Bebelplatz-Abendd%C3%A4mmerung-2026.jpg",
+  "review_no": 13
+ },
+ "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf": {
+  "labels": [
+   "Opernbesuch in der Staatsoper"
+  ],
+  "path": "images/u_988e540ca2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "theater-workshop",
+   "theater-workshop für anfänger",
+   "Theater"
+  ],
+  "path": "images/u_484fe45166.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1507924538820-ede94a04019d": {
+  "labels": [
+   "Berliner Ensemble Theateraufführung"
+  ],
+  "path": "images/u_ce915645ab.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1508004526072-3be43a5005f6": {
+  "labels": [
+   "Urban Beekeeping Workshop"
+  ],
+  "path": "images/u_7445c46c56.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "eiffelturm"
+  ],
+  "path": "images/u_1efc3aebf0.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1509817177816-ca503fa03f60?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Volksbühne am Rosa-Luxemburg-Platz"
+  ],
+  "path": "images/u_bbddcc9528.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=2687&auto=format&fit=crop": {
+  "labels": [
+   "Literaturforum im Brecht-Haus"
+  ],
+  "path": "images/u_83644650c6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1510265119258-db115b0e8172?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "path": "images/u_e4684477d2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Konzert in der Passionskirche"
+  ],
+  "path": "images/u_07258f1c9c.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "computer spiele museum",
+   "computerspielemuseum"
+  ],
+  "path": "images/u_b2da4cb96b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1511735111819-9a3f7709049c": {
+  "labels": [
+   "Jam-Session im Badehaus"
+  ],
+  "path": "images/u_3652fc146e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1512136146408-dab5f2ba8f42?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "FEZ-Berlin"
+  ],
+  "path": "images/r_b219f8d78f.webp",
+  "source": "wikimedia",
+  "query": "FEZ-Berlin",
+  "file": "File:Oeko-Insel, FEZ, Berlin (BL7C0205).jpg",
+  "status": "replaced",
+  "artist": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Oeko-Insel,_FEZ,_Berlin_(BL7C0205).jpg",
+  "review_no": 14
+ },
+ "https://images.unsplash.com/photo-1512389142860-9c449e58a543?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "weihnachtsmarkt"
+  ],
+  "path": "images/u_c4d548d50a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Fellini Residenza"
+  ],
+  "path": "images/u_cf8270c2aa.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1513106580091-1d82408b8cd6?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "deutsche oper",
+   "Berliner Kriminaltheater"
+  ],
+  "path": "images/u_49e0460e5e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kunsthof",
+   "kunstworkshop",
+   "Neustadt Kunsthofpassage"
+  ],
+  "path": "images/u_0c16e212e2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1513640127641-49ba81f8305c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "markthalle"
+  ],
+  "path": "images/u_62c72995f8.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "konzert",
+   "Musik"
+  ],
+  "path": "images/u_f18d96b1c2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2460&auto=format&fit=crop": {
+  "labels": [
+   "Berliner Philharmonie"
+  ],
+  "path": "images/u_1a041ea5cb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514525253161-7a46d19cd819": {
+  "labels": [
+   "Jazz-Konzert im b-flat"
+  ],
+  "path": "images/u_12917bab15.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "jazz",
+   "Jazz im A-Trane"
+  ],
+  "path": "images/u_861bbc2639.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Jazz in den Ministergärten"
+  ],
+  "path": "images/u_c03113d2c9.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514905552197-0610a4d8fd73?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Hamburger Bahnhof"
+  ],
+  "path": "images/u_58a004d017.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1514933651103-005eec06c04b": {
+  "labels": [
+   "Bierverkostung in der BRLO Brwhouse"
+  ],
+  "path": "images/u_56b77e893a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Fotografie"
+  ],
+  "path": "images/u_d868eaad47.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1516117505818-7498c9a0f7b2": {
+  "labels": [
+   "LGBT+ History Tour"
+  ],
+  "path": "images/r_751f577912.webp",
+  "source": "wikimedia",
+  "query": "LGBT+ History Tour",
+  "file": "File:NINJA EuroTour • Madrid (ES) • 14 12 a 28 12 2021 (52028915817).jpg",
+  "status": "replaced",
+  "artist": "Fora do Eixo",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:NINJA_EuroTour_%E2%80%A2_Madrid_(ES)_%E2%80%A2_14_12_a_28_12_2021_(52028915817).jpg",
+  "review_no": 15
+ },
+ "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7": {
+  "labels": [
+   "Karaoke im Monster Ronson's"
+  ],
+  "path": "images/u_2fbb3770d3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "KitKatClub"
+  ],
+  "path": "images/u_7f68f9f78f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1516737347189-49ba81f8305c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1517176642928-dfc2da661b3f": {
+  "labels": [
+   "Paddleboarding auf dem Rummelsburger See"
+  ],
+  "path": "images/u_0a991fcf86.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4": {
+  "labels": [
+   "Strandbar Mitte besuchen"
+  ],
+  "path": "images/u_9c35f7ba2f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517344368193-41552b6ad3f5": {
+  "labels": [
+   "Kulinarische Radtour durch Neukölln"
+  ],
+  "path": "images/u_e8fe023c66.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66": {
+  "labels": [
+   "Spreepark Lost Place Führung"
+  ],
+  "path": "images/u_f8d52c16a2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c": {
+  "labels": [
+   "Filmvorführung im Freiluftkino"
+  ],
+  "path": "images/u_5d20042ee6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Freiluftkino Kreuzberg"
+  ],
+  "path": "images/u_533d4ae747.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Sport"
+  ],
+  "path": "images/u_2dd64cd455.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1517703271144-5e152a81983d": {
+  "labels": [
+   "Biergartenbesuch im Prater"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1518558195043-059ab7dd262e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Lostplaces"
+  ],
+  "path": "images/r_b0f2d0a03f.webp",
+  "source": "wikimedia",
+  "query": "Lostplaces",
+  "file": "File:Anderlfabrik Ostseite 2017-06.jpg",
+  "status": "replaced",
+  "artist": "Duke of W4",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Anderlfabrik_Ostseite_2017-06.jpg",
+  "review_no": 16
+ },
+ "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "ballett"
+  ],
+  "path": "images/u_a9138b3045.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1518944117945-e7f172e874f4?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1519214605650-76a613ee3245": {
+  "labels": [
+   "Historische Kneipentour in Kreuzberg"
+  ],
+  "path": "images/u_f5dc683a4c.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1519624014191-508652cbd7b5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Thai Park"
+  ],
+  "path": "images/u_910ca3b86e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1519840575840-5e1a5df13857": {
+  "labels": [
+   "Kreativmarkt Nowkoelln"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0": {
+  "labels": [
+   "Klavierabend im Konzerthaus"
+  ],
+  "path": "images/u_4617849efd.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1520716963369-9b24de966bd4": {
+  "labels": [
+   "Segway Tour durch Berlin-Mitte"
+  ],
+  "path": "images/r_7fa9f91341.webp",
+  "source": "wikimedia",
+  "query": "Segway Berlin-Mitte Berlin",
+  "file": "File:(20260726 111820714 HDR) Berlin.jpg",
+  "status": "replaced",
+  "artist": "Roy Zuo",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:(20260726_111820714_HDR)_Berlin.jpg",
+  "review_no": 17
+ },
+ "https://images.unsplash.com/photo-1520889905494-a6e902e3bc8e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "SUP auf dem Landwehrkanal"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1520985244272-adb8a254c249?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "stadttour"
+  ],
+  "path": "images/r_468b326177.webp",
+  "source": "wikimedia",
+  "query": "stadttour",
+  "file": "File:Stadtführung mit Hans Rhyner in Zürich am Start 02.jpg",
+  "status": "replaced",
+  "artist": "Lantina",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stadtf%C3%BChrung_mit_Hans_Rhyner_in_Z%C3%BCrich_am_Start_02.jpg",
+  "review_no": 18
+ },
+ "https://images.unsplash.com/photo-1522163182402-834f871fd851": {
+  "labels": [
+   "Kletterhalle Magic Mountain",
+   "Klettern in der Boulderhalle"
+  ],
+  "path": "images/u_7d496ac3e5.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1522163182402-834f871fd851?q=80&w=1000": {
+  "labels": [
+   "Kletterkurs für Anfänger"
+  ],
+  "path": "images/u_9b2e2b855f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1522163182402-834f871fd851?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "klettern",
+   "Bouldern im Kegel"
+  ],
+  "path": "images/u_11f45f23c6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1522163182402-834f871fd851?q=80&w=2593&auto=format&fit=crop": {
+  "labels": [
+   "Kletterwald im Jungfernheidepark"
+  ],
+  "path": "images/u_522d8337e2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1522661067900-ab829854a57f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Gemäldegalerie"
+  ],
+  "path": "images/u_2320a7ade7.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "fußball"
+  ],
+  "path": "images/u_57a37f243e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2": {
+  "labels": [
+   "Kräuterwanderung im Tiergarten"
+  ],
+  "path": "images/u_c5ddb02bce.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843": {
+  "labels": [
+   "Trödelmarkt in Neukölln besuchen"
+  ],
+  "path": "images/u_38f2779196.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b": {
+  "labels": [
+   "Silent Disco im Klunkerkranich"
+  ],
+  "path": "images/u_01d6dbd027.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1526495124232-a04e1849168c": {
+  "labels": [
+   "Fotospaziergang durch Kreuzberg"
+  ],
+  "path": "images/u_827bf53b4c.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1526633852335-c61fe2193b6a": {
+  "labels": [
+   "Buchlesung im Berliner Ensemble"
+  ],
+  "path": "images/r_36ad5a6d83.webp",
+  "source": "wikimedia",
+  "query": "Buchlesung im Berliner Ensemble",
+  "file": "File:Käthe Reichel 2006.jpg",
+  "status": "replaced",
+  "artist": "SpreeTom",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4the_Reichel_2006.jpg",
+  "review_no": 19
+ },
+ "https://images.unsplash.com/photo-1527224538127-2104bb71c51b": {
+  "labels": [
+   "Comedy Show im BKA-Theater"
+  ],
+  "path": "images/u_bae89075dd.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1528458876861-48ad2f062e69": {
+  "labels": [
+   "Klangbad-Meditation"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1528607929212-2636ec44253e": {
+  "labels": [
+   "Workshop für urbane Kräuter"
+  ],
+  "path": "images/u_7323290518.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "big ben london"
+  ],
+  "path": "images/u_6d4fe06de5.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1530531127452-9761b35a50c7": {
+  "labels": [
+   "Tanzworkshop für Berliner Swing"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1530649159659-c62275d15c1a?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Swing-Tanzkurse im Frannz Club"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1531055876916-18e801f9f15d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "zwinger",
+   "zwinger dresden",
+   "Zwinger"
+  ],
+  "path": "images/r_0e960c8dd4.webp",
+  "source": "wikimedia",
+  "query": "zwinger",
+  "file": "File:Münster, Zwinger -- 2017 -- 1872-8.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Zwinger_--_2017_--_1872-8.jpg",
+  "review_no": 20
+ },
+ "https://images.unsplash.com/photo-1531237848477-3f2636318a2a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "flohmarkt",
+   "Boxhagener Platz Flohmarkt"
+  ],
+  "path": "images/r_2e30329372.webp",
+  "source": "wikimedia",
+  "query": "flohmarkt",
+  "file": "File:Naschmarkt Flohmarkt 1.jpg",
+  "status": "replaced",
+  "artist": "Geolina163",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Naschmarkt_Flohmarkt_1.jpg",
+  "review_no": 21
+ },
+ "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "aussicht"
+  ],
+  "path": "images/u_ed798a9b56.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1531399645131-2a68cdc6278b?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Liquidrom"
+  ],
+  "path": "images/r_de0d0858b8.webp",
+  "source": "wikimedia",
+  "query": "Liquidrom",
+  "file": "File:Tempodrom, Berlín, Alemania, 2016-04-22, DD 01-03 HDR.JPG",
+  "status": "replaced",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tempodrom,_Berl%C3%ADn,_Alemania,_2016-04-22,_DD_01-03_HDR.JPG",
+  "review_no": 22
+ },
+ "https://images.unsplash.com/photo-1531986627054-53196208f1c7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "workshop",
+   "Kurse"
+  ],
+  "path": "images/r_e91c68c9f2.webp",
+  "source": "wikimedia",
+  "query": "workshop",
+  "file": "File:Cobbler repairing shoes in old workshop (Bazaar in Bitola, Macedonia, 2025).jpg",
+  "status": "replaced",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cobbler_repairing_shoes_in_old_workshop_(Bazaar_in_Bitola,_Macedonia,_2025).jpg",
+  "review_no": 23
+ },
+ "https://images.unsplash.com/photo-1532329683184-6ffd13057d1c?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Kulturbrauerei"
+  ],
+  "path": "images/u_b2082d6f37.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1533294455009-a77b7557d2d1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "wannsee",
+   "schwimmen am wannsee"
+  ],
+  "path": "images/u_4d73aec518.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1533378890784-6d7dda04f9a6?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Schwimmen am Wannsee"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1533658280853-e4a10c25a30d": {
+  "labels": [],
+  "path": "images/u_89998ea73e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1533669955142-6a73332af4db": {
+  "labels": [
+   "Lesung in der Buchhandlung Ocelot"
+  ],
+  "path": "images/u_7a4f49d4b3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1534143826428-594bea2fe5ef?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "potsdamer platz"
+  ],
+  "path": "images/r_42736fc7d8.webp",
+  "source": "wikimedia",
+  "query": "potsdamer platz",
+  "file": "File:Potsdamer Platz, Berlin, 160606, ako (1).jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz,_Berlin,_160606,_ako_(1).jpg",
+  "review_no": 24
+ },
+ "https://images.unsplash.com/photo-1534158914592-062992fbe900": {
+  "labels": [
+   "Ping Pong im Prinzessinnengarten"
+  ],
+  "path": "images/u_242ec5adae.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1534430224470-f52e596ced9f?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Urban Nation Museum"
+  ],
+  "path": "images/u_56a1ce6572.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "shop"
+  ],
+  "path": "images/u_e41cd62a62.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1535525153412-5a42439a210d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tanzkurs",
+   "Tanzen"
+  ],
+  "path": "images/u_8be135439f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1535958636474-b021ee887b13": {
+  "labels": [
+   "Berliner Craft Beer Verkostung"
+  ],
+  "path": "images/u_648f412153.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Berliner Unterwelten Tour"
+  ],
+  "path": "images/u_40e87a1eae.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Wellness"
+  ],
+  "path": "images/u_cae5c87ab2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1541625602330-2277a4c46182": {
+  "labels": [
+   "Fahrrad-Polo im Tempelhofer Feld"
+  ],
+  "path": "images/u_d67ec96c49.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "elbradweg",
+   "fahrrad tour",
+   "Elbradweg"
+  ],
+  "path": "images/u_5e37f9492b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1541697418880-9b438a19a681?q=80&w=2674&auto=format&fit=crop": {
+  "labels": [
+   "Mauerpark Karaoke"
+  ],
+  "path": "images/r_06fafe02c9.webp",
+  "source": "wikimedia",
+  "query": "Mauerpark Karaoke",
+  "file": "File:Mauerpark Karaoke Berlin.jpg",
+  "status": "replaced",
+  "artist": "Listening Eye",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mauerpark_Karaoke_Berlin.jpg",
+  "review_no": 25
+ },
+ "https://images.unsplash.com/photo-1541862499-2a2568446537": {
+  "labels": [
+   "Besuch im Tränenpalast Museum"
+  ],
+  "path": "images/r_aa12162fe3.webp",
+  "source": "wikimedia",
+  "query": "Tränenpalast Museum Berlin",
+  "file": "File:\"Tränenpalast\" in Berlin-Mitte, Friedrichstraße.jpg",
+  "status": "replaced",
+  "artist": "Neuköllner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Tr%C3%A4nenpalast%22_in_Berlin-Mitte,_Friedrichstra%C3%9Fe.jpg",
+  "review_no": 26
+ },
+ "https://images.unsplash.com/photo-1542061951-06327e730aac": {
+  "labels": [
+   "Sonnenuntergang auf der Admiralbrücke"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1542341375-8fd02bae39f3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "vatikanische museen"
+  ],
+  "path": "images/r_95c0a5f974.webp",
+  "source": "wikimedia",
+  "query": "vatikanische museen",
+  "file": "File:Two Bacchantes and a Bull (Vatican Museums) September 2015.1a.jpg",
+  "status": "replaced",
+  "artist": "Alvesgaspar",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_Bacchantes_and_a_Bull_(Vatican_Museums)_September_2015.1a.jpg",
+  "review_no": 27
+ },
+ "https://images.unsplash.com/photo-1542359649-31e03cd4d909": {
+  "labels": [
+   "Kanu-Tour auf der Spree"
+  ],
+  "path": "images/u_a68bacade3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1542359649-31e03cd4d909?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "strandbad wannsee"
+  ],
+  "path": "images/u_9954cdfd05.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Markthalle Neun"
+  ],
+  "path": "images/u_0753fa77ee.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1543072547-5bbac65a84a9?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Badeschiff Berlin"
+  ],
+  "path": "images/r_a0cb90c94c.webp",
+  "source": "wikimedia",
+  "query": "Badeschiff Berlin",
+  "file": "File:Badeschiff Berlin Sunset.jpg",
+  "status": "replaced",
+  "artist": "foldscheap",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Badeschiff_Berlin_Sunset.jpg",
+  "review_no": 28
+ },
+ "https://images.unsplash.com/photo-1543968996-ee822b8176ba?q=80&w=2528&auto=format&fit=crop": {
+  "labels": [
+   "Grunewald"
+  ],
+  "path": "images/u_d369531060.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1544342384-312192654f3b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "museum berlin"
+  ],
+  "path": "images/r_facdb673f1.webp",
+  "source": "wikimedia",
+  "query": "museum berlin",
+  "file": "File:Deutsches Historisches Museum, Berlin-Mitte, 170128, ako.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Deutsches_Historisches_Museum,_Berlin-Mitte,_170128,_ako.jpg",
+  "review_no": 29
+ },
+ "https://images.unsplash.com/photo-1544367567-0f2fcb0e00d0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "yoga"
+  ],
+  "path": "images/r_31ebc8ea7c.webp",
+  "source": "wikimedia",
+  "query": "yoga",
+  "file": "File:Ambigram Body Yoga, mirror symmetry.png",
+  "status": "replaced",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ambigram_Body_Yoga,_mirror_symmetry.png",
+  "review_no": 30
+ },
+ "https://images.unsplash.com/photo-1544551763-92ab472cad5f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "ruderboot mieten"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1545062080-a71640eb6e8f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tanzkurs"
+  ],
+  "path": "images/r_07f0f0a878.webp",
+  "source": "wikimedia",
+  "query": "tanzkurs",
+  "file": "File:\"Untitled\" (Go-Go Dancing Platform), Felix Gonzalez-Torres, MACBA 2.png",
+  "status": "replaced",
+  "artist": "MACBA Barcelona Oficial (Museu d'Art Contemporani de Barcelona / Barcelona Museum of Contemporary Art)",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Go-Go_Dancing_Platform),_Felix_Gonzalez-Torres,_MACBA_2.png",
+  "review_no": 31
+ },
+ "https://images.unsplash.com/photo-1545128485-c400ce7b23d0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "nachtleben"
+  ],
+  "path": "images/r_c0b19935f2.webp",
+  "source": "wikimedia",
+  "query": "nachtleben",
+  "file": "File:Yerevan, City festival, Open air concert, Nightlife, Armenia.jpg",
+  "status": "replaced",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yerevan,_City_festival,_Open_air_concert,_Nightlife,_Armenia.jpg",
+  "review_no": 32
+ },
+ "https://images.unsplash.com/photo-1545205597-3d9d02c29597": {
+  "labels": [
+   "Paddleboard Yoga auf dem Müggelsee"
+  ],
+  "path": "images/u_da9fdcd099.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1545205597-3d9d02c29597?q=80&w=1000": {
+  "labels": [
+   "Outdoor Yoga im Park"
+  ],
+  "path": "images/u_806d6e6a8d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1545205597-3d9d02c29597?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "yoga"
+  ],
+  "path": "images/u_14f7f57621.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1545389336-cf090694435e": {
+  "labels": [
+   "Yoga im Volkspark Friedrichshain"
+  ],
+  "path": "images/u_4f51d8797b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1547157284-6d85325839a9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "eastside gallery"
+  ],
+  "path": "images/r_2ec9765386.webp",
+  "source": "wikimedia",
+  "query": "eastside gallery",
+  "file": "File:Linwood Community Centre and Art Gallery.jpg",
+  "status": "replaced",
+  "artist": "Ann (Helen) Devereux",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Linwood_Community_Centre_and_Art_Gallery.jpg",
+  "review_no": 33
+ },
+ "https://images.unsplash.com/photo-1547434112-1b006a1e264a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Ballhaus Berlin"
+  ],
+  "path": "images/r_ea2c7db0c6.webp",
+  "source": "wikimedia",
+  "query": "Ballhaus Berlin",
+  "file": "File:Ballhaus Wedding, Berlin, Wriezener Straße 6, Bild 5.jpg",
+  "status": "replaced",
+  "artist": "Neuköllner",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ballhaus_Wedding,_Berlin,_Wriezener_Stra%C3%9Fe_6,_Bild_5.jpg",
+  "review_no": 34
+ },
+ "https://images.unsplash.com/photo-1547434112-1b006a1e264a?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Clärchens Ballhaus"
+  ],
+  "path": "images/r_206175d6d7.webp",
+  "source": "wikimedia",
+  "query": "Clärchens Ballhaus",
+  "file": "File:Hinterhof Clärchens Ballhaus.jpg",
+  "status": "replaced",
+  "artist": "Clärchens Ballhaus",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hinterhof_Cl%C3%A4rchens_Ballhaus.jpg",
+  "review_no": 35
+ },
+ "https://images.unsplash.com/photo-1547447134-cd3f5c716030": {
+  "labels": [
+   "Roller-Skating im Tempelhof"
+  ],
+  "path": "images/u_00ab3c5604.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1547517443-3cf4bf7cd1c0?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Treptower Park"
+  ],
+  "path": "images/r_220d376f8d.webp",
+  "source": "wikimedia",
+  "query": "Treptower Park",
+  "file": "File:Berlin S-Bahn Bhf Treptower Park (S41 1258).jpg",
+  "status": "replaced",
+  "artist": "Michael.F.H.Barth",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_S-Bahn_Bhf_Treptower_Park_(S41_1258).jpg",
+  "review_no": 36
+ },
+ "https://images.unsplash.com/photo-1548094891-c4ba474efd16": {
+  "labels": [
+   "Kunstworkshop im Urban Spree"
+  ],
+  "path": "images/u_1cac7e5ecb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1549007994-cb92caebd54b": {
+  "labels": [
+   "Manufakturbesichtigung bei Sawade"
+  ],
+  "path": "images/u_c0075e90dd.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3": {
+  "labels": [
+   "Vintage-Möbel Shopping im Mauerpark"
+  ],
+  "path": "images/u_6bc8f01326.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1551195441-374e7f6018e9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "urban nation",
+   "Street Art Tour Kreuzberg"
+  ],
+  "path": "images/r_07a60be626.webp",
+  "source": "wikimedia",
+  "query": "urban nation",
+  "file": "File:Urban Nation Museum Berlin.jpg",
+  "status": "replaced",
+  "artist": "Singlespeedfahrer",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Urban_Nation_Museum_Berlin.jpg",
+  "review_no": 37
+ },
+ "https://images.unsplash.com/photo-1551632811-561732d1e306": {
+  "labels": [],
+  "path": "images/u_edbb0cc680.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "wandern"
+  ],
+  "path": "images/u_f6d2bb706a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1551798507-629020c81463": {
+  "labels": [
+   "Techno-Brunch im Sisyphos"
+  ],
+  "path": "images/u_301a195312.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1551801841-ecad875a5142": {
+  "labels": [
+   "Berliner Unterwelten Tour"
+  ],
+  "path": "images/u_c37c98c917.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1551879400-111a9087cd86": {
+  "labels": [
+   "Festival of Lights"
+  ],
+  "path": "images/u_3359b1e2ea.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1552729434-f7696a5fba74": {
+  "labels": [
+   "Besuch der Pfaueninsel"
+  ],
+  "path": "images/r_1567a577c1.webp",
+  "source": "wikimedia",
+  "query": "Pfaueninsel Berlin",
+  "file": "File:Pfaueninsel (ship, 1968) 01.jpg",
+  "status": "replaced",
+  "artist": "Georgfotoart",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pfaueninsel_(ship,_1968)_01.jpg",
+  "review_no": 38
+ },
+ "https://images.unsplash.com/photo-1552832230-c0197dd311b5": {
+  "labels": [
+   "Historischer Spaziergang durch Nikolaiviertel"
+  ],
+  "path": "images/u_9145862967.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "colosseum rom"
+  ],
+  "path": "images/u_162ccafb7a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1553005746-57d6e3268a12?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Beach Volleyball Arena"
+  ],
+  "path": "images/r_a16378dae8.webp",
+  "source": "wikimedia",
+  "query": "Beach Volleyball Arena",
+  "file": "File:\"The Rings\", Olympic women's beach volleyball, Beach Volleyball Arena, Rio de Janeiro, Brazil.jpg",
+  "status": "replaced",
+  "artist": "Rafael Henrique Serra",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%22The_Rings%22,_Olympic_women%27s_beach_volleyball,_Beach_Volleyball_Arena,_Rio_de_Janeiro,_Brazil.jpg",
+  "review_no": 39
+ },
+ "https://images.unsplash.com/photo-1553012781-eaee8fc00961?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Tierpark Berlin"
+  ],
+  "path": "images/r_ba6258a28c.webp",
+  "source": "wikimedia",
+  "query": "Tierpark Berlin",
+  "file": "File:Tierpark Berlin - Main entry.jpg",
+  "status": "replaced",
+  "artist": "Agadez",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tierpark_Berlin_-_Main_entry.jpg",
+  "review_no": 40
+ },
+ "https://images.unsplash.com/photo-1553269158-2319027df001": {
+  "labels": [
+   "Berliner Unterwelten Tour"
+  ],
+  "path": "images/r_7b0c4240b6.webp",
+  "source": "wikimedia",
+  "query": "Berliner Unterwelten Tour",
+  "file": "File:Berlin AEG-Tunnel lub 2023-06-24 img03.jpg",
+  "status": "replaced",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_AEG-Tunnel_lub_2023-06-24_img03.jpg",
+  "review_no": 41
+ },
+ "https://images.unsplash.com/photo-1553611260-4607734e57b1": {
+  "labels": [
+   "Thai Park Besuchen"
+  ],
+  "path": "images/r_dbe59f9eef.webp",
+  "source": "wikimedia",
+  "query": "Thai Park Berlin",
+  "file": "File:Thai Park, Berlin - panoramio.jpg",
+  "status": "replaced",
+  "artist": "el legowo",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Thai_Park,_Berlin_-_panoramio.jpg",
+  "review_no": 42
+ },
+ "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "brauhaus",
+   "deutsches restaurant",
+   "Brauhaus Tour"
+  ],
+  "path": "images/u_ce2a195fd3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1554629947-334ff61d85dc": {
+  "labels": [],
+  "path": "images/u_2168756f0d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1554865583-57f2a1b910be?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Thermen am Europa Center"
+  ],
+  "path": "images/r_887b1a43e8.webp",
+  "source": "wikimedia",
+  "query": "Thermen am Europa Center",
+  "file": "File:Parkhaus-Nuernberger-Str-Berlin-Charlottenburg-04-2018.jpg",
+  "status": "replaced",
+  "artist": "Gunnar Klack",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Parkhaus-Nuernberger-Str-Berlin-Charlottenburg-04-2018.jpg",
+  "review_no": 43
+ },
+ "https://images.unsplash.com/photo-1555041469-a586c61ea9bc": {
+  "labels": [
+   "Berliner Nachtmarkt"
+  ],
+  "path": "images/u_c3c223e8fb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Markthalle Neun"
+  ],
+  "path": "images/u_e0814a08a5.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1555489408-7a817388a7e1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "ostsee strand"
+  ],
+  "path": "images/r_6f61115c44.webp",
+  "source": "wikimedia",
+  "query": "ostsee strand",
+  "file": "File:Südhof und Hauptgebäude.JPG",
+  "status": "replaced",
+  "artist": "Muller168",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:S%C3%BCdhof_und_Hauptgeb%C3%A4ude.JPG",
+  "review_no": 44
+ },
+ "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Bikini Berlin"
+  ],
+  "path": "images/u_1b25c2fe75.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1555658636-6e4a36218be7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Berliner Brauereitour"
+  ],
+  "path": "images/u_e749e3fe06.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1000": {
+  "labels": [
+   "Street Food Festival"
+  ],
+  "path": "images/u_a34feaabda.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1555939594-58d7d2561ad1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "street food"
+  ],
+  "path": "images/r_92235ca900.webp",
+  "source": "wikimedia",
+  "query": "street food",
+  "file": "File:Street food in Wa 7.png",
+  "status": "replaced",
+  "artist": "Isaac Gyamfi Assumeng",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Street_food_in_Wa_7.png",
+  "review_no": 45
+ },
+ "https://images.unsplash.com/photo-1555993539-1732b0258235?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "akropolis athen"
+  ],
+  "path": "images/u_a8f84bfeed.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1556230493-205779d7fdda": {
+  "labels": [
+   "Berliner Unterwelten Tour"
+  ],
+  "path": "images/r_73e7e9786a.webp",
+  "source": "wikimedia",
+  "query": "Berliner Unterwelten Tour",
+  "file": "File:Berlin AEG-Tunnel lub 2023-06-24 img03.jpg",
+  "status": "replaced",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_AEG-Tunnel_lub_2023-06-24_img03.jpg",
+  "review_no": 46
+ },
+ "https://images.unsplash.com/photo-1556290160-d006153eb630": {
+  "labels": [
+   "Führung durch Olympiastadion"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1556910103-1c02745aae4d": {
+  "labels": [
+   "Kochkurs für Berliner Spezialitäten"
+  ],
+  "path": "images/u_1439c70e0e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1558539325-7767efcd3151": {
+  "labels": [
+   "Führung durch die Hackeschen Höfe"
+  ],
+  "path": "images/r_8124041793.webp",
+  "source": "wikimedia",
+  "query": "Führung Hackeschen Berlin",
+  "file": "File:L08 754 Berliner Allee, Haltestelle Weißer See.jpg",
+  "status": "replaced",
+  "artist": "Falk2",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:L08_754_Berliner_Allee,_Haltestelle_Wei%C3%9Fer_See.jpg",
+  "review_no": 47
+ },
+ "https://images.unsplash.com/photo-1558693168-c370615b54e0?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Botanischer Garten"
+  ],
+  "path": "images/u_d081565a8f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1558696224-9e70dd3f78fe?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tiergarten",
+   "Spaziergang im Tiergarten"
+  ],
+  "path": "images/r_775cfdfb28.webp",
+  "source": "wikimedia",
+  "query": "tiergarten",
+  "file": "File:Potsdamer Platz vom Reichstag aus 2005.jpg",
+  "status": "replaced",
+  "artist": "H005",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz_vom_Reichstag_aus_2005.jpg",
+  "review_no": 48
+ },
+ "https://images.unsplash.com/photo-1558767979-7c17bae00da5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "mauerpark"
+  ],
+  "path": "images/r_7958f1c636.webp",
+  "source": "wikimedia",
+  "query": "mauerpark",
+  "file": "File:140810 Berlin Mauerpark.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:140810_Berlin_Mauerpark.jpg",
+  "review_no": 49
+ },
+ "https://images.unsplash.com/photo-1559060014-161c449e68c9?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "GRIPS Theater"
+  ],
+  "path": "images/r_38978a3236.webp",
+  "source": "wikimedia",
+  "query": "GRIPS Theater",
+  "file": "File:Grips-theater.berlin-hansaplatz.II.JPG",
+  "status": "replaced",
+  "artist": "De-okin (talk) 23:48, 10 August 2008 (UTC)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grips-theater.berlin-hansaplatz.II.JPG",
+  "review_no": 50
+ },
+ "https://images.unsplash.com/photo-1559131397-e8754498c456?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "berliner dom",
+   "Berliner Dom"
+  ],
+  "path": "images/r_6c29691b9e.webp",
+  "source": "wikimedia",
+  "query": "berliner dom",
+  "file": "File:Berliner Dom, Nacht, 160316, ako.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Berliner_Dom,_Nacht,_160316,_ako.jpg",
+  "review_no": 51
+ },
+ "https://images.unsplash.com/photo-1559294152-9a78cbb35870": {
+  "labels": [
+   "Fahrradtour entlang der East Side Gallery"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1559526324-593bc073d938?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "path": "images/u_7ce599ee3a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1560249956-c99d8c16d934?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "friedrichstadt-palast"
+  ],
+  "path": "images/r_1b030fce08.webp",
+  "source": "wikimedia",
+  "query": "friedrichstadt-palast",
+  "file": "File:Friedrichstadt-palast Foyer.JPG",
+  "status": "replaced",
+  "artist": "FriedrichstadtPalast",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Friedrichstadt-palast_Foyer.JPG",
+  "review_no": 52
+ },
+ "https://images.unsplash.com/photo-1560262829-8b6b24306a23?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kleinmarkthalle frankfurt"
+  ],
+  "path": "images/r_dcb774bdd8.webp",
+  "source": "wikimedia",
+  "query": "kleinmarkthalle frankfurt",
+  "file": "File:Kleinmarkthalle, Frankfurt, Interior view 20190914 1.jpg",
+  "status": "replaced",
+  "artist": "DXR",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kleinmarkthalle,_Frankfurt,_Interior_view_20190914_1.jpg",
+  "review_no": 53
+ },
+ "https://images.unsplash.com/photo-1560565544-df8563efcf96?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "palmengarten",
+   "palmengarten frankfurt",
+   "Palmengarten"
+  ],
+  "path": "images/r_a45d52a7b3.webp",
+  "source": "wikimedia",
+  "query": "palmengarten",
+  "file": "File:Palmengarten Frankfurt in May 2026 07.jpg",
+  "status": "replaced",
+  "artist": "Sdkb",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Palmengarten_Frankfurt_in_May_2026_07.jpg",
+  "review_no": 54
+ },
+ "https://images.unsplash.com/photo-1560930950-5cc20e80e392": {
+  "labels": [
+   "Fernsehturm Sunset Tour"
+  ],
+  "path": "images/u_92c49f53af.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1560930950-5cc20e80e392?q=80&w=1000": {
+  "labels": [
+   "Spaziergang im Tiergarten"
+  ],
+  "path": "images/u_3e7ea87565.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1560961911-ba7ef651a56c?q=80&w=2674&auto=format&fit=crop": {
+  "labels": [
+   "Legoland Discovery Centre Berlin"
+  ],
+  "path": "images/u_31b566c4f1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1560969184-10fe8719e047?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "berlin",
+   "alexanderplatz"
+  ],
+  "path": "images/u_cb76769b6a.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1561112078-7d24e04c3407?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "alexander",
+   "alexanderplatz"
+  ],
+  "path": "images/u_160a220e26.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1561463947-877817a11f63": {
+  "labels": [
+   "Schwimmen im Badeschiff"
+  ],
+  "path": "images/r_ad1840243c.webp",
+  "source": "wikimedia",
+  "query": "Schwimmen im Badeschiff",
+  "file": "File:Re-publica 22 - Tag 1 (52132337974).jpg",
+  "status": "replaced",
+  "artist": "Jan Zappner  / re:publica",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Re-publica_22_-_Tag_1_(52132337974).jpg",
+  "review_no": 55
+ },
+ "https://images.unsplash.com/photo-1561489396-886149abd625?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "pyrenäen"
+  ],
+  "path": "images/r_ec5107861b.webp",
+  "source": "wikimedia",
+  "query": "pyrenäen",
+  "file": "File:2019 - Parc national des Pyrenees - Vallée de Gavarnie.jpg",
+  "status": "replaced",
+  "artist": "Moahim",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2019_-_Parc_national_des_Pyrenees_-_Vall%C3%A9e_de_Gavarnie.jpg",
+  "review_no": 56
+ },
+ "https://images.unsplash.com/photo-1562502622-1bec2bf35078?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "potsdamer",
+   "potsdamer platz"
+  ],
+  "path": "images/r_7fc3677cc5.webp",
+  "source": "wikimedia",
+  "query": "potsdamer",
+  "file": "File:Potsdamer Platz, Berlin, 160606, ako (1).jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz,_Berlin,_160606,_ako_(1).jpg",
+  "review_no": 57
+ },
+ "https://images.unsplash.com/photo-1563208085-648526fc0a70": {
+  "labels": [
+   "Gläserne Manufaktur Besuch"
+  ],
+  "path": "images/u_f5bcd0a56d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1563841930606-67e2bce48b78": {
+  "labels": [
+   "Untergrundkonzert in einer Lost Place Location"
+  ],
+  "path": "images/u_37bc10df95.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1563897351057-3424e6e6779b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "prado madrid"
+  ],
+  "path": "images/r_c84cff37aa.webp",
+  "source": "wikimedia",
+  "query": "prado madrid",
+  "file": "File:El Descendimiento, by Rogier van der Weyden, from Prado in Google Earth.jpg",
+  "status": "replaced",
+  "artist": "Rogier van der Weyden",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg",
+  "review_no": 58
+ },
+ "https://images.unsplash.com/photo-1564238158887-148c0050f955?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "grunewald"
+  ],
+  "path": "images/r_7428fa998a.webp",
+  "source": "wikimedia",
+  "query": "grunewald",
+  "file": "File:Grunewald Tower Havel view Sep12.jpg",
+  "status": "replaced",
+  "artist": "A.Savin",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Grunewald_Tower_Havel_view_Sep12.jpg",
+  "review_no": 59
+ },
+ "https://images.unsplash.com/photo-1564260975755-0fc2a9eeb864?q=80&w=1000": {
+  "labels": [
+   "Hafenrundfahrt"
+  ],
+  "path": "images/r_c8af731439.webp",
+  "source": "wikimedia",
+  "query": "Hafenrundfahrt",
+  "file": "File:Hafenrundfahrt zur Humboldttour 04.jpg",
+  "status": "replaced",
+  "artist": "Burkhard Mücke",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hafenrundfahrt_zur_Humboldttour_04.jpg",
+  "review_no": 60
+ },
+ "https://images.unsplash.com/photo-1564260975755-0fc2a9eeb864?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Miniatur Wunderland"
+  ],
+  "path": "images/r_493338ceb4.webp",
+  "source": "wikimedia",
+  "query": "Miniatur Wunderland",
+  "file": "File:Hamburg, Speicherstadt, Block D+L -- 2023 -- 6577.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburg,_Speicherstadt,_Block_D%2BL_--_2023_--_6577.jpg",
+  "review_no": 61
+ },
+ "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "pergamonmuseum"
+  ],
+  "path": "images/u_fe1a59acc7.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1564516477640-1c805582335e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Checkpoint Charlie"
+  ],
+  "path": "images/r_fec8296e52.webp",
+  "source": "wikimedia",
+  "query": "Checkpoint Charlie",
+  "file": "File:Checkpoint Charlie memorial, Berlin.jpg",
+  "status": "replaced",
+  "artist": "Christian David",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Checkpoint_Charlie_memorial,_Berlin.jpg",
+  "review_no": 62
+ },
+ "https://images.unsplash.com/photo-1564982648165-d0a642b3dbc2": {
+  "labels": [
+   "Skaten im Gleisdreieckpark"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1564986339599-57211c8d3d70?q=80&w=1000": {
+  "labels": [
+   "Botanischer Garten"
+  ],
+  "path": "images/r_8a200a7b60.webp",
+  "source": "wikimedia",
+  "query": "Botanischer Garten",
+  "file": "File:Nippocryptus vittatorius - botanischer Garten Schönbrunn.jpg",
+  "status": "replaced",
+  "artist": "spacebirdy(also known as geimfyglið (:&gt; )=| made with Sternenlaus-spirit)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nippocryptus_vittatorius_-_botanischer_Garten_Sch%C3%B6nbrunn.jpg",
+  "review_no": 63
+ },
+ "https://images.unsplash.com/photo-1565099824688-ab1913c8c6cc?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "louvre paris"
+  ],
+  "path": "images/r_2e22cc221a.webp",
+  "source": "wikimedia",
+  "query": "louvre paris",
+  "file": "File:Cour Napoléon at night - Louvre.jpg",
+  "status": "replaced",
+  "artist": "Benh LIEU SONG",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
+  "review_no": 64
+ },
+ "https://images.unsplash.com/photo-1565299507177-b0ac66763828": {
+  "labels": [
+   "Sonntagsbrunch im Café am Neuen See"
+  ],
+  "path": "images/u_77cdd83f31.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1565561282387-991a78868838": {
+  "labels": [
+   "Töpferkurs im Keramik-Studio"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1565675007565-3a7e38b1f4b8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kochkurs"
+  ],
+  "path": "images/r_ee8a929b12.webp",
+  "source": "wikimedia",
+  "query": "kochkurs",
+  "file": "File:Deutsch Kochkurs 3.jpg",
+  "status": "replaced",
+  "artist": "Thirunavukkarasye-Raveendran",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Deutsch_Kochkurs_3.jpg",
+  "review_no": 65
+ },
+ "https://images.unsplash.com/photo-1566127444968-e5053a5de309?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "neues museum",
+   "Museum"
+  ],
+  "path": "images/r_2c007bc217.webp",
+  "source": "wikimedia",
+  "query": "neues museum",
+  "file": "File:Window with Corinthian columns of the Neues Museum in Berlin.jpg",
+  "status": "replaced",
+  "artist": "Neoclassicism Enthusiast",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg",
+  "review_no": 66
+ },
+ "https://images.unsplash.com/photo-1566131807516-a2fb186d6e07": {
+  "labels": [
+   "Führung durch das Reichstagsgebäude"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1566404791232-af9fe8edb2d6?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "fernsehturm",
+   "Fernsehturm Berlin"
+  ],
+  "path": "images/r_38669b1cb1.webp",
+  "source": "wikimedia",
+  "query": "fernsehturm",
+  "file": "File:Fernsehturm, Berlín, Alemania, 2016-04-21, DD 40-42 HDR.jpg",
+  "status": "replaced",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fernsehturm,_Berl%C3%ADn,_Alemania,_2016-04-21,_DD_40-42_HDR.jpg",
+  "review_no": 67
+ },
+ "https://images.unsplash.com/photo-1566408829109-fb96070dafae?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Topographie des Terrors"
+  ],
+  "path": "images/r_69bf1adaee.webp",
+  "source": "wikimedia",
+  "query": "Topographie des Terrors",
+  "file": "File:Memorial to the Murdered Jews of Europe - underground.JPG",
+  "status": "replaced",
+  "artist": "Pudelek (Marcin Szala)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_Murdered_Jews_of_Europe_-_underground.JPG",
+  "review_no": 68
+ },
+ "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2": {
+  "labels": [
+   "Cocktailkurs in der Becketts Kopf Bar"
+  ],
+  "path": "images/u_df5d4c0ef1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1566598633643-95acba9a1209?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "pinakothek münchen",
+   "Städel Museum"
+  ],
+  "path": "images/r_84725b5464.webp",
+  "source": "wikimedia",
+  "query": "pinakothek münchen",
+  "file": "File:Back of Alte Pinakothek in Munich.jpg",
+  "status": "replaced",
+  "artist": "AuHaidhausen",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Back_of_Alte_Pinakothek_in_Munich.jpg",
+  "review_no": 69
+ },
+ "https://images.unsplash.com/photo-1566932769119-7a280b44857b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "deutsches museum",
+   "deutsches museum münchen",
+   "Deutsches Museum"
+  ],
+  "path": "images/r_dcc0b03cef.webp",
+  "source": "wikimedia",
+  "query": "deutsches museum",
+  "file": "File:Aerial image of the Deutsches Museum Munich.jpg",
+  "status": "replaced",
+  "artist": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Deutsches_Museum_Munich.jpg",
+  "review_no": 70
+ },
+ "https://images.unsplash.com/photo-1566981731417-d4c8e17a9e82": {
+  "labels": [
+   "Ballhaus Berlin Tanzabend"
+  ],
+  "path": "images/u_c7e3165ca9.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1566981731927-12ccbe8b97bf": {
+  "labels": [
+   "Berliner Philharmoniker Open Air"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1567360425618-1594923da6a3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Kunsthaus ACUD"
+  ],
+  "path": "images/r_6d98d16ec7.webp",
+  "source": "wikimedia",
+  "query": "Kunsthaus ACUD",
+  "file": "File:Kunsthaus ACUD Berlin 2007.jpg",
+  "status": "replaced",
+  "artist": "Jacob Bøtter",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kunsthaus_ACUD_Berlin_2007.jpg",
+  "review_no": 71
+ },
+ "https://images.unsplash.com/photo-1567599672391-17b31d92e431?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tempelhofer feld",
+   "Flughafen Tempelhof"
+  ],
+  "path": "images/u_e05514da70.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1567599672391-17b31d92e431?q=80&w=2592&auto=format&fit=crop": {
+  "labels": [
+   "Tempelhofer Feld"
+  ],
+  "path": "images/u_751ef5a0bc.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1567796254624-4084d9e708e2?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "chiemsee"
+  ],
+  "path": "images/r_872065b5e1.webp",
+  "source": "wikimedia",
+  "query": "chiemsee",
+  "file": "File:Aerial image of the Chiemsee municipality.jpg",
+  "status": "replaced",
+  "artist": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Chiemsee_municipality.jpg",
+  "review_no": 72
+ },
+ "https://images.unsplash.com/photo-1567847137076-b38760c551f7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "starnberger see"
+  ],
+  "path": "images/r_1549652a23.webp",
+  "source": "wikimedia",
+  "query": "starnberger see",
+  "file": "File:2013-10-02 D300-1147 Achim-Lammerts Starnberger-See-Tutzing.jpg",
+  "status": "replaced",
+  "artist": "Achim Lammerts (Syntaxys)",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2013-10-02_D300-1147_Achim-Lammerts_Starnberger-See-Tutzing.jpg",
+  "review_no": 73
+ },
+ "https://images.unsplash.com/photo-1568133929238-d5c88191f32f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "alte nationalgalerie"
+  ],
+  "path": "images/r_65f9b74c9b.webp",
+  "source": "wikimedia",
+  "query": "alte nationalgalerie",
+  "file": "File:Alte Nationalgalerie at night (MK).jpg",
+  "status": "replaced",
+  "artist": "Mathias Krumbholz",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Alte_Nationalgalerie_at_night_(MK).jpg",
+  "review_no": 74
+ },
+ "https://images.unsplash.com/photo-1568146598584-d8c6ef3b373f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "neuschwanstein"
+  ],
+  "path": "images/r_dd43ade225.webp",
+  "source": "wikimedia",
+  "query": "neuschwanstein",
+  "file": "File:Neuschwanstein Castle 2024-02.jpg",
+  "status": "replaced",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg",
+  "review_no": 75
+ },
+ "https://images.unsplash.com/photo-1569529465841-dfecdab7503b": {
+  "labels": [
+   "Traditionelle Destillerie Führung"
+  ],
+  "path": "images/u_8bcc400232.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1569949279386-12029ba44549?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "führung",
+   "Erlebnis"
+  ],
+  "path": "images/r_5184073d0f.webp",
+  "source": "wikimedia",
+  "query": "führung",
+  "file": "File:WikiBär Führung Olympiapark.jpg",
+  "status": "replaced",
+  "artist": "Fridolin freudenfett",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:WikiB%C3%A4r_F%C3%BChrung_Olympiapark.jpg",
+  "review_no": 76
+ },
+ "https://images.unsplash.com/photo-1570041574733-6abec38a1dd7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Gendarmenmarkt"
+  ],
+  "path": "images/r_c32c497dff.webp",
+  "source": "wikimedia",
+  "query": "Gendarmenmarkt",
+  "file": "File:View of the Gendarmenmarkt and Deutscher Dom (German Cathedral) from the Top of Französischer Dom (French Cathedral).JPG",
+  "status": "replaced",
+  "artist": "Ввласенко",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Franz%C3%B6sischer_Dom_(French_Cathedral).JPG",
+  "review_no": 77
+ },
+ "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b": {
+  "labels": [
+   "Technofitness im Cassiopeia"
+  ],
+  "path": "images/u_7145723f66.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Klunkerkranich"
+  ],
+  "path": "images/u_060d7dd120.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1572529173175-018c8826ae11?q=80&w=2671&auto=format&fit=crop": {
+  "labels": [
+   "Deutsches Historisches Museum"
+  ],
+  "path": "images/r_7a003c22ff.webp",
+  "source": "wikimedia",
+  "query": "Deutsches Historisches Museum",
+  "file": "File:Deutsches Historisches Museum, Berlin-Mitte, 170128, ako.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Deutsches_Historisches_Museum,_Berlin-Mitte,_170128,_ako.jpg",
+  "review_no": 78
+ },
+ "https://images.unsplash.com/photo-1573158026303-df15dd6b3a54?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kölner dom",
+   "Kölner Dom"
+  ],
+  "path": "images/r_420f0d625d.webp",
+  "source": "wikimedia",
+  "query": "kölner dom",
+  "file": "File:Kranhäuser Cologne, April 2018 -01.jpg",
+  "status": "replaced",
+  "artist": "Martin Falbisoner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg",
+  "review_no": 79
+ },
+ "https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Helmut Newton Stiftung"
+  ],
+  "path": "images/u_14509bfacb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1574205347052-020fb0ffc321": {
+  "labels": [
+   "Straßenkunst-Tour in Friedrichshain"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1574507446559-8cb37f5ce38a": {
+  "labels": [
+   "Besuch des Knoblauchhauses"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1574784619681-02556d73682d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "british museum london"
+  ],
+  "path": "images/r_0b0d366e7a.webp",
+  "source": "wikimedia",
+  "query": "british museum london",
+  "file": "File:Natural History Museum HDR.jpg",
+  "status": "replaced",
+  "artist": "Mdbeckwith",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_HDR.jpg",
+  "review_no": 80
+ },
+ "https://images.unsplash.com/photo-1575456100105-01988978efce": {
+  "labels": [
+   "Bootsverleih im Tiergarten"
+  ],
+  "path": "images/r_175d5887f0.webp",
+  "source": "wikimedia",
+  "query": "Bootsverleih Tiergarten Berlin",
+  "file": "File:Bundesarchiv B 145 Bild-P014724, Berlin, Tiergarten.jpg",
+  "status": "replaced",
+  "artist": "Unknown authorUnknown author",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-P014724,_Berlin,_Tiergarten.jpg",
+  "review_no": 81
+ },
+ "https://images.unsplash.com/photo-1576526736842-322e44580b1f": {
+  "labels": [
+   "Paddeln auf dem Schlachtensee"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1576633587382-13ddf37b1d8c": {
+  "labels": [
+   "Workshop im Buchbinderei-Atelier"
+  ],
+  "path": "images/r_dbb6b60adb.webp",
+  "source": "wikimedia",
+  "query": "Workshop Buchbinderei-Atelier",
+  "file": "File:Bookbindery (37949881).jpg",
+  "status": "replaced",
+  "artist": "Ferrous Büller from Portland, Oregon, United States",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bookbindery_(37949881).jpg",
+  "review_no": 82
+ },
+ "https://images.unsplash.com/photo-1577058005446-f87f3a389dec?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Sammlung Boros"
+  ],
+  "path": "images/r_97cce754d6.webp",
+  "source": "wikimedia",
+  "query": "Sammlung Boros",
+  "file": "File:Le bunker de la fondation Boros (Berlin) (23504580538).jpg",
+  "status": "replaced",
+  "artist": "Jean-Pierre Dalbéra from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg",
+  "review_no": 83
+ },
+ "https://images.unsplash.com/photo-1577193120752-738286a0743a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Miniatur Wunderland"
+  ],
+  "path": "images/r_2fb60189f2.webp",
+  "source": "wikimedia",
+  "query": "Miniatur Wunderland",
+  "file": "File:Hamburg, Speicherstadt, Block D+L -- 2023 -- 6577.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburg,_Speicherstadt,_Block_D%2BL_--_2023_--_6577.jpg",
+  "review_no": 84
+ },
+ "https://images.unsplash.com/photo-1577720643272-265e7b52eca3?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Berlinische Galerie"
+  ],
+  "path": "images/r_ba154f2229.webp",
+  "source": "wikimedia",
+  "query": "Berlinische Galerie",
+  "file": "File:Berlinische Galerie, Außenansicht.jpg",
+  "status": "replaced",
+  "artist": "Berlinische Galerie",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlinische_Galerie,_Au%C3%9Fenansicht.jpg",
+  "review_no": 85
+ },
+ "https://images.unsplash.com/photo-1578049617513-7c912a4589a8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "semperoper"
+  ],
+  "path": "images/r_b21b3d504a.webp",
+  "source": "wikimedia",
+  "query": "semperoper",
+  "file": "File:Semperoper at night.jpg",
+  "status": "replaced",
+  "artist": "Sebastian Terfloth User:Sese_Ingolstadt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Semperoper_at_night.jpg",
+  "review_no": 86
+ },
+ "https://images.unsplash.com/photo-1578049617513-7f360e8bb4d8?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "semperoper dresden",
+   "Semperoper Führung"
+  ],
+  "path": "images/r_72984f89eb.webp",
+  "source": "wikimedia",
+  "query": "semperoper dresden",
+  "file": "File:Semperoper at night.jpg",
+  "status": "replaced",
+  "artist": "Sebastian Terfloth User:Sese_Ingolstadt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Semperoper_at_night.jpg",
+  "review_no": 87
+ },
+ "https://images.unsplash.com/photo-1578344127918-ecf8f07504b9?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Kölner Dom"
+  ],
+  "path": "images/r_d658f766f2.webp",
+  "source": "wikimedia",
+  "query": "Kölner Dom",
+  "file": "File:Kranhäuser Cologne, April 2018 -01.jpg",
+  "status": "replaced",
+  "artist": "Martin Falbisoner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg",
+  "review_no": 88
+ },
+ "https://images.unsplash.com/photo-1579621970590-9d624316904b?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "bezahlt"
+  ],
+  "path": "images/u_2f4272f429.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "gemäldegalerie"
+  ],
+  "path": "images/u_51fd3549b1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1580136579312-94651dfd596d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "käthe kollwitz museum",
+   "berlinische galerie"
+  ],
+  "path": "images/u_005f6de66c.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa": {
+  "labels": [
+   "Makerspace Workshop im Haus der Materialisierung"
+  ],
+  "path": "images/u_0139c0e8d9.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1581094271901-8022df4466f9": {
+  "labels": [
+   "Workshop im FabLab Berlin"
+  ],
+  "path": "images/u_3f69b17d28.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1581301652333-094fde7fa73d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "unterwelten"
+  ],
+  "path": "images/r_89134138a2.webp",
+  "source": "wikimedia",
+  "query": "unterwelten",
+  "file": "File:U-Bahnhof Gesundbrunnen - Eingang mit Schriftzug und Logo 'Berliner Unterwelten e.V.'.jpg",
+  "status": "replaced",
+  "artist": "Video2005",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg",
+  "review_no": 89
+ },
+ "https://images.unsplash.com/photo-1581417478175-a9ef18f210c2": {
+  "labels": [
+   "Underground Techno-Party"
+  ],
+  "path": "images/u_7d1bbbbf77.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1581736084310-b187f7ab4695": {
+  "labels": [
+   "Improvisationstheater Workshop"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "sammlung boros",
+   "Kultur"
+  ],
+  "path": "images/u_2a40770272.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1582080653326-259ba36bfbdb?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Silent Green"
+  ],
+  "path": "images/r_67728c98e1.webp",
+  "source": "wikimedia",
+  "query": "Silent Green",
+  "file": "File:CAN and Me @ SilentGreen Kuppelhalle 01 - CTM Festival - photographer Udo Siegfriedt 2023.jpg",
+  "status": "replaced",
+  "artist": "CTM Festival",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CAN_and_Me_@_SilentGreen_Kuppelhalle_01_-_CTM_Festival_-_photographer_Udo_Siegfriedt_2023.jpg",
+  "review_no": 90
+ },
+ "https://images.unsplash.com/photo-1582120031320-bb3feb596198": {
+  "labels": [
+   "Radtour auf dem Mauerweg"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?q=80&w=1000": {
+  "labels": [
+   "Besuch des Deutschen Museums"
+  ],
+  "path": "images/u_79873e3187.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "jüdisches museum"
+  ],
+  "path": "images/u_d3b907d57d.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1582653291997-079a1c04e5a1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "café berlin"
+  ],
+  "path": "images/u_19658bb217.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1582711012124-a56cf82307a0": {
+  "labels": [
+   "Museum für Naturkunde besuchen"
+  ],
+  "path": "images/u_d241f3215f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1583002083769-0bdb6149e5b5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "elbphilharmonie",
+   "elbphilharmonie hamburg",
+   "elbphilharmonie plaza"
+  ],
+  "path": "images/r_23fae6d9c5.webp",
+  "source": "wikimedia",
+  "query": "elbphilharmonie",
+  "file": "File:Elbphilharmonie Eastside View With Sandtorkai Quay Magellan Terraces Sandtorpark 2022-06-04 16-32.jpg",
+  "status": "replaced",
+  "artist": "Axel Tschentscher",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Elbphilharmonie_Eastside_View_With_Sandtorkai_Quay_Magellan_Terraces_Sandtorpark_2022-06-04_16-32.jpg",
+  "review_no": 91
+ },
+ "https://images.unsplash.com/photo-1583330620420-2fc3b0a94058?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Stasi-Museum"
+  ],
+  "path": "images/r_cbce17654c.webp",
+  "source": "wikimedia",
+  "query": "Stasi-Museum",
+  "file": "File:Sede Stasi Museum.JPG",
+  "status": "replaced",
+  "artist": "Prof.Quatermass",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sede_Stasi_Museum.JPG",
+  "review_no": 92
+ },
+ "https://images.unsplash.com/photo-1583425722128-4c2c7c37f8e9?q=80&w=1000": {
+  "labels": [
+   "Historische Stadtführung"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1583425722128-4c2c7c37f8e9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "stadtführung"
+  ],
+  "path": "images/r_947db6c035.webp",
+  "source": "wikimedia",
+  "query": "stadtführung",
+  "file": "File:LokaliCon 2026, Stadtführung durch Fürth-1283.jpg",
+  "status": "replaced",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:LokaliCon_2026,_Stadtf%C3%BChrung_durch_F%C3%BCrth-1283.jpg",
+  "review_no": 93
+ },
+ "https://images.unsplash.com/photo-1583779457094-ab6f9164a3c9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "sagrada familia"
+  ],
+  "path": "images/r_fbdc766462.webp",
+  "source": "wikimedia",
+  "query": "sagrada familia",
+  "file": "File:Sagrada Familia March 2015-10a.jpg",
+  "status": "replaced",
+  "artist": "Alvesgaspar",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia_March_2015-10a.jpg",
+  "review_no": 94
+ },
+ "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Vabali Spa"
+  ],
+  "path": "images/u_725bafbdce.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1584532763000-af9fab44f9d1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "ddr museum"
+  ],
+  "path": "images/r_f14234b1d4.webp",
+  "source": "wikimedia",
+  "query": "ddr museum",
+  "file": "File:20220811 DDR-Museum 02.jpg",
+  "status": "replaced",
+  "artist": "Flocci Nivis",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20220811_DDR-Museum_02.jpg",
+  "review_no": 95
+ },
+ "https://images.unsplash.com/photo-1584552966182-d47a1dfbe12c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "bundestag",
+   "reichstag",
+   "deutsches historisches museum"
+  ],
+  "path": "images/r_db1a586512.webp",
+  "source": "wikimedia",
+  "query": "bundestag",
+  "file": "File:Reichstagsgebäude von Westen.jpg",
+  "status": "replaced",
+  "artist": "Jörg Braukmann",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+  "review_no": 96
+ },
+ "https://images.unsplash.com/photo-1584552966182-d47a1dfbe12c?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Gedenkstätte Berliner Mauer"
+  ],
+  "path": "images/r_3184c3e55f.webp",
+  "source": "wikimedia",
+  "query": "Gedenkstätte Berliner Mauer",
+  "file": "File:Besucherzentrum Gedenkstätte Berliner Mauer.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Besucherzentrum_Gedenkst%C3%A4tte_Berliner_Mauer.jpg",
+  "review_no": 97
+ },
+ "https://images.unsplash.com/photo-1584599999996-7bc38b60a93f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Berliner Unterwelten Tour"
+  ],
+  "path": "images/r_462b43bc0d.webp",
+  "source": "wikimedia",
+  "query": "Berliner Unterwelten Tour",
+  "file": "File:Berlin AEG-Tunnel lub 2023-06-24 img03.jpg",
+  "status": "replaced",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_AEG-Tunnel_lub_2023-06-24_img03.jpg",
+  "review_no": 98
+ },
+ "https://images.unsplash.com/photo-1584811644165-33078f55eb9a": {
+  "labels": [
+   "Besuch des Stasi-Museums"
+  ],
+  "path": "images/r_dbab24b29e.webp",
+  "source": "wikimedia",
+  "query": "des Stasi-Museums Berlin",
+  "file": "File:Erkennungsmarke Deutsches Spionagemuseum Berlin, CC BY-SA 4.0.jpg",
+  "status": "replaced",
+  "artist": "Deutsches Spionagemuseum Berlin, CC BY-SA 4.0",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Erkennungsmarke_Deutsches_Spionagemuseum_Berlin,_CC_BY-SA_4.0.jpg",
+  "review_no": 99
+ },
+ "https://images.unsplash.com/photo-1585001644052-fbb466de340f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "englischer garten",
+   "englischer garten münchen",
+   "englischer garten tour"
+  ],
+  "path": "images/r_15db536d24.webp",
+  "source": "wikimedia",
+  "query": "englischer garten",
+  "file": "File:Monopteros in Englischer Garten, Munich.JPG",
+  "status": "replaced",
+  "artist": "High Contrast",
+  "license": "CC BY 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Monopteros_in_Englischer_Garten,_Munich.JPG",
+  "review_no": 100
+ },
+ "https://images.unsplash.com/photo-1585478259715-a703ae5a6d33": {
+  "labels": [
+   "Workshop für traditionelles Brotbacken"
+  ],
+  "path": "images/r_fe6b291278.webp",
+  "source": "wikimedia",
+  "query": "Workshop für Berlin",
+  "file": "File:Berlin-Marzahn-Landsberger-Allee-378-Institut-Prueffeld-fuer-Hochleistungstechnik-Werkstattgebaeude.jpg",
+  "status": "replaced",
+  "artist": "Bildarbeiter",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Marzahn-Landsberger-Allee-378-Institut-Prueffeld-fuer-Hochleistungstechnik-Werkstattgebaeude.jpg",
+  "review_no": 101
+ },
+ "https://images.unsplash.com/photo-1588414512045-a232a0ed22a8": {
+  "labels": [
+   "Berliner Schnauze Comedy Tour"
+  ],
+  "path": "images/r_22a74f8f68.webp",
+  "source": "wikimedia",
+  "query": "Berliner Schnauze Berlin",
+  "file": "File:Brooks Ghost 14 GTX.jpg",
+  "status": "replaced",
+  "artist": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brooks_Ghost_14_GTX.jpg",
+  "review_no": 102
+ },
+ "https://images.unsplash.com/photo-1588635631677-f67e2201ce49?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "flora",
+   "botanischer garten",
+   "Botanischer Garten Berlin"
+  ],
+  "path": "images/r_063ddd0219.webp",
+  "source": "wikimedia",
+  "query": "flora",
+  "file": "File:North Avenue in downtown Flora.jpg",
+  "status": "replaced",
+  "artist": "Nyttend",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Avenue_in_downtown_Flora.jpg",
+  "review_no": 103
+ },
+ "https://images.unsplash.com/photo-1589095601897-8f1c2b2cbf62?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kurfürstendamm"
+  ],
+  "path": "images/r_c7f0dfe043.webp",
+  "source": "wikimedia",
+  "query": "kurfürstendamm",
+  "file": "File:Kurfürstendamm 2003.JPG",
+  "status": "replaced",
+  "artist": "User Aazarus on de.wikipedia",
+  "license": "CC BY-SA 2.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Kurf%C3%BCrstendamm_2003.JPG",
+  "review_no": 104
+ },
+ "https://images.unsplash.com/photo-1589197352584-10df3ec3f459?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Bauhaus-Archiv"
+  ],
+  "path": "images/r_59574b8fc1.webp",
+  "source": "wikimedia",
+  "query": "Bauhaus-Archiv",
+  "file": "File:Bauhaus archiv berlijn.JPG",
+  "status": "replaced",
+  "artist": "Max Hermus at Dutch Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bauhaus_archiv_berlijn.JPG",
+  "review_no": 105
+ },
+ "https://images.unsplash.com/photo-1589335896837-869f2c7589be": {
+  "labels": [
+   "Holzmarkt Spaziergang"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1589384267710-7a170981ca78?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Deutsches Technikmuseum"
+  ],
+  "path": "images/u_db67f2e3c9.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1589460018691-0d4afe82bc4d?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Badeschiff Berlin"
+  ],
+  "path": "images/r_66065eb9d6.webp",
+  "source": "wikimedia",
+  "query": "Badeschiff Berlin",
+  "file": "File:Badeschiff Berlin Sunset.jpg",
+  "status": "replaced",
+  "artist": "foldscheap",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Badeschiff_Berlin_Sunset.jpg",
+  "review_no": 106
+ },
+ "https://images.unsplash.com/photo-1589658942311-a54491beb9d1?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Shopping"
+  ],
+  "path": "images/r_505ccb2363.webp",
+  "source": "wikimedia",
+  "query": "Shopping",
+  "file": "File:Large interior view of Plaza Singapura Shopping mall Orchard Road Singapore.jpg",
+  "status": "replaced",
+  "artist": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Large_interior_view_of_Plaza_Singapura_Shopping_mall_Orchard_Road_Singapore.jpg",
+  "review_no": 107
+ },
+ "https://images.unsplash.com/photo-1590075865003-e48277faa558": {
+  "labels": [
+   "Besuch der Domäne Dahlem"
+  ],
+  "path": "images/u_e4fe0d21b0.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1590452224879-867e8012a828": {
+  "labels": [
+   "Urban Gardening Workshop"
+  ],
+  "path": "images/u_7b30030977.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1590520181026-4c1df469bbf7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1590593162201-56328e233521?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "nordsee strand"
+  ],
+  "path": "images/r_cff73f67da.webp",
+  "source": "wikimedia",
+  "query": "nordsee strand",
+  "file": "File:Zoutelande (NL), Strand, Blick auf die Nordsee -- 2022 -- 4984.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zoutelande_(NL),_Strand,_Blick_auf_die_Nordsee_--_2022_--_4984.jpg",
+  "review_no": 108
+ },
+ "https://images.unsplash.com/photo-1591234309882-61a8003bee0a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Bergmannkiez"
+  ],
+  "path": "images/r_a7db6f0a59.webp",
+  "source": "wikimedia",
+  "query": "Bergmannkiez",
+  "file": "File:Friesen Backstube & Café im Bergmannkiez Berlin-Kreuzberg (2014).jpg",
+  "status": "replaced",
+  "artist": "JoachimKohler-HB",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Friesen_Backstube_%26_Caf%C3%A9_im_Bergmannkiez_Berlin-Kreuzberg_(2014).jpg",
+  "review_no": 109
+ },
+ "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Prinzessinnengarten"
+  ],
+  "path": "images/u_5eae58ffe1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d": {
+  "labels": [
+   "VR-Gaming im Virtual Reality Lounge"
+  ],
+  "path": "images/u_d763070ceb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1592491268191-37233518489f": {
+  "labels": [
+   "Minigolf im Sputnik"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1593206838867-4ddf8cefc986?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tiergarten"
+  ],
+  "path": "images/r_b364f6d36f.webp",
+  "source": "wikimedia",
+  "query": "tiergarten",
+  "file": "File:Potsdamer Platz vom Reichstag aus 2005.jpg",
+  "status": "replaced",
+  "artist": "H005",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz_vom_Reichstag_aus_2005.jpg",
+  "review_no": 110
+ },
+ "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1": {
+  "labels": [
+   "Berliner Philharmoniker Open Air"
+  ],
+  "path": "images/u_5238207900.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1594144393564-52a82b7cd6cd": {
+  "labels": [
+   "Besuch der Berlinischen Galerie"
+  ],
+  "path": "images/r_88de7607e0.webp",
+  "source": "wikimedia",
+  "query": "Berlinischen Galerie Berlin",
+  "file": "File:Kuehn Malvezzi Markierung Glaslager vor der Berlinischen Galerie.jpg",
+  "status": "replaced",
+  "artist": "Assenmacher",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kuehn_Malvezzi_Markierung_Glaslager_vor_der_Berlinischen_Galerie.jpg",
+  "review_no": 111
+ },
+ "https://images.unsplash.com/photo-1594747458324-d48e0483f2a3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Sammlung Boros"
+  ],
+  "path": "images/r_93312f4c00.webp",
+  "source": "wikimedia",
+  "query": "Sammlung Boros",
+  "file": "File:Le bunker de la fondation Boros (Berlin) (23504580538).jpg",
+  "status": "replaced",
+  "artist": "Jean-Pierre Dalbéra from Paris, France",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg",
+  "review_no": 112
+ },
+ "https://images.unsplash.com/photo-1594794312531-9edb4161920f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "hamburger bahnhof",
+   "kunstausstellung im hamburger bahnhof",
+   "Kunst"
+  ],
+  "path": "images/r_22c4b2e566.webp",
+  "source": "wikimedia",
+  "query": "hamburger bahnhof",
+  "file": "File:Hamburger Bahnhof, Berlin.jpg",
+  "status": "replaced",
+  "artist": "Fluffigkatt",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburger_Bahnhof,_Berlin.jpg",
+  "review_no": 113
+ },
+ "https://images.unsplash.com/photo-1595356700395-6f14b5ea056f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1595435742656-d66d7384c865": {
+  "labels": [
+   "Markthalle Neun Wochenmarkt"
+  ],
+  "path": "images/r_7f91cbdca6.webp",
+  "source": "wikimedia",
+  "query": "Markthalle Neun Berlin",
+  "file": "File:Markthalle Neun 08.02.2015 16-33-23.JPG",
+  "status": "replaced",
+  "artist": "Dirk Ingo Franke",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Markthalle_Neun_08.02.2015_16-33-23.JPG",
+  "review_no": 114
+ },
+ "https://images.unsplash.com/photo-1595867818082-083862f3d630": {
+  "labels": [
+   "Kiezspaziergang durch Friedrichshain"
+  ],
+  "path": "images/u_c1f6b27624.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1595867818082-083862f3d630?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "marienplatz münchen"
+  ],
+  "path": "images/u_843ac4fb5e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1596394723269-b2cbcce04c22?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "tretboot mieten"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1596627118111-509c12e2d449?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "mittelmeer strand"
+  ],
+  "path": "images/r_a6d31602a1.webp",
+  "source": "wikimedia",
+  "query": "mittelmeer strand",
+  "file": "File:Naturbelassener Mittelmeer Strand von 4 km östlich Side - Sorgun - Titreyengöl - panoramio.jpg",
+  "status": "replaced",
+  "artist": "Gottfried Hoffmann -…",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Naturbelassener_Mittelmeer_Strand_von_4_km_%C3%B6stlich_Side_-_Sorgun_-_Titreyeng%C3%B6l_-_panoramio.jpg",
+  "review_no": 115
+ },
+ "https://images.unsplash.com/photo-1597113366853-fea190b6cd82?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Familie"
+  ],
+  "path": "images/u_726e55dd18.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1597675784028-a11071f8165a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "berliner mauer",
+   "Gedenkstätte Berliner Mauer"
+  ],
+  "path": "images/r_1fa2aad173.webp",
+  "source": "wikimedia",
+  "query": "berliner mauer",
+  "file": "File:Besucherzentrum Gedenkstätte Berliner Mauer.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Besucherzentrum_Gedenkst%C3%A4tte_Berliner_Mauer.jpg",
+  "review_no": 116
+ },
+ "https://images.unsplash.com/photo-1597906094826-3b2af6428778": {
+  "labels": [
+   "Besuch der Gedenkstätte Berliner Mauer"
+  ],
+  "path": "images/r_2983b290c1.webp",
+  "source": "wikimedia",
+  "query": "Gedenkstätte Berliner Mauer Berlin",
+  "file": "File:Besucherzentrum Gedenkstätte Berliner Mauer.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Besucherzentrum_Gedenkst%C3%A4tte_Berliner_Mauer.jpg",
+  "review_no": 117
+ },
+ "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04": {
+  "labels": [
+   "Workshop für elektronische Musik"
+  ],
+  "path": "images/u_a5943ae7a2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1599413828525-798027d8541a?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Tränenpalast"
+  ],
+  "path": "images/r_6cdc3eaca2.webp",
+  "source": "wikimedia",
+  "query": "Tränenpalast",
+  "file": "File:\"Tränenpalast\" in Berlin-Mitte, Friedrichstraße.jpg",
+  "status": "replaced",
+  "artist": "Neuköllner",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Tr%C3%A4nenpalast%22_in_Berlin-Mitte,_Friedrichstra%C3%9Fe.jpg",
+  "review_no": 118
+ },
+ "https://images.unsplash.com/photo-1599578705716-8d3d9246f53b": {
+  "labels": [
+   "Poetry Slam im Lido"
+  ],
+  "path": "images/u_035fbe7fd8.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1599584964040-86823a641de4": {
+  "labels": [
+   "Offene Probe des Rundfunkchors"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "brandenburger tor",
+   "Sehenswürdigkeiten",
+   "Brandenburger Tor"
+  ],
+  "path": "images/u_d7cea4aba3.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1599982890963-3aabd60064d2?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Deutsches Museum"
+  ],
+  "path": "images/u_d69c3c036f.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1599989850406-3c8de3eaac65?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Café am Neuen See"
+  ],
+  "path": "images/u_88acfd81e9.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1600190184058-4c1df469bbf7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "schokoladenmuseum köln",
+   "Schokoladenmuseum"
+  ],
+  "path": "images/r_e3a381a2d2.webp",
+  "source": "wikimedia",
+  "query": "schokoladenmuseum köln",
+  "file": "File:Köln, Schokoladenmuseum -- 2014 -- 1818.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6ln,_Schokoladenmuseum_--_2014_--_1818.jpg",
+  "review_no": 119
+ },
+ "https://images.unsplash.com/photo-1600713198455-d7e3bc5fedce?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "biergarten",
+   "biergarten am chinesischen turm",
+   "Biergarten am Chinesischen Turm"
+  ],
+  "path": "images/r_fd7efb4862.webp",
+  "source": "wikimedia",
+  "query": "biergarten",
+  "file": "File:Biergarten at Night 2.JPG",
+  "status": "replaced",
+  "artist": "Martin Falbisoner",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Biergarten_at_Night_2.JPG",
+  "review_no": 120
+ },
+ "https://images.unsplash.com/photo-1600788886242-5c96aabe3757?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Gastronomie"
+  ],
+  "path": "images/u_3dcdfb5f91.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1602557038227-0e14e01f3742": {
+  "labels": [
+   "Kunsthaus ACUD besichtigen"
+  ],
+  "path": "images/r_949afa16e5.webp",
+  "source": "wikimedia",
+  "query": "Kunsthaus ACUD Berlin",
+  "file": "File:Kunsthaus ACUD Berlin 2007.jpg",
+  "status": "replaced",
+  "artist": "Jacob Bøtter",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kunsthaus_ACUD_Berlin_2007.jpg",
+  "review_no": 121
+ },
+ "https://images.unsplash.com/photo-1603048588665-709ce4caba67": {
+  "labels": [
+   "Vinyl Shoppen im Bikini Berlin"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1604187351574-c75ca79f5807": {
+  "labels": [
+   "Upcycling Workshop"
+  ],
+  "path": "images/u_e6f6f9cde6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1604431696980-07e518369a4d": {
+  "labels": [
+   "Yoga am Landwehrkanal"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1604437668441-3df1d134d320": {
+  "labels": [
+   "Workshop für fermentierte Lebensmittel"
+  ],
+  "path": "images/r_50e66aec16.webp",
+  "source": "wikimedia",
+  "query": "Workshop für Berlin",
+  "file": "File:Berlin-Marzahn-Landsberger-Allee-378-Institut-Prueffeld-fuer-Hochleistungstechnik-Werkstattgebaeude.jpg",
+  "status": "replaced",
+  "artist": "Bildarbeiter",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Marzahn-Landsberger-Allee-378-Institut-Prueffeld-fuer-Hochleistungstechnik-Werkstattgebaeude.jpg",
+  "review_no": 122
+ },
+ "https://images.unsplash.com/photo-1605186620429-1cac9fcd8946?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "rheinboulevard",
+   "maintower",
+   "Rheinboulevard"
+  ],
+  "path": "images/r_2f5e17c6f2.webp",
+  "source": "wikimedia",
+  "query": "rheinboulevard",
+  "file": "File:Rheinboulevard mit Freitreppe in Köln-Deutz nach Teileröffnung-8227.jpg",
+  "status": "replaced",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rheinboulevard_mit_Freitreppe_in_K%C3%B6ln-Deutz_nach_Teiler%C3%B6ffnung-8227.jpg",
+  "review_no": 123
+ },
+ "https://images.unsplash.com/photo-1605469237567-a83453c27fcc": {
+  "labels": [
+   "Besuch des DDR Museums"
+  ],
+  "path": "images/r_291c64cdec.webp",
+  "source": "wikimedia",
+  "query": "Besuch des DDR Museums",
+  "file": "File:Bundesarchiv Bild 183-F0523-0001-001, Berlin, Unter den Linden, Museum für Deutsche Geschichte.jpg",
+  "status": "replaced",
+  "artist": "Stöhr",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-F0523-0001-001,_Berlin,_Unter_den_Linden,_Museum_f%C3%BCr_Deutsche_Geschichte.jpg",
+  "review_no": 124
+ },
+ "https://images.unsplash.com/photo-1605533608059-2789d50d9083?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "DDR Museum"
+  ],
+  "path": "images/r_137464c4b1.webp",
+  "source": "wikimedia",
+  "query": "DDR Museum",
+  "file": "File:20220811 DDR-Museum 02.jpg",
+  "status": "replaced",
+  "artist": "Flocci Nivis",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20220811_DDR-Museum_02.jpg",
+  "review_no": 125
+ },
+ "https://images.unsplash.com/photo-1605810230434-7631ac76ec81": {
+  "labels": [
+   "Ausstellung im Urban Nation Museum"
+  ],
+  "path": "images/u_9cfa1f27e6.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1605954910676-4593693bdb19?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "mauerpark"
+  ],
+  "path": "images/r_0023c2ca38.webp",
+  "source": "wikimedia",
+  "query": "mauerpark",
+  "file": "File:140810 Berlin Mauerpark.jpg",
+  "status": "replaced",
+  "artist": "Ansgar Koreng",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:140810_Berlin_Mauerpark.jpg",
+  "review_no": 126
+ },
+ "https://images.unsplash.com/photo-1606075919627-35a2366e97fc?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Neue Nationalgalerie"
+  ],
+  "path": "images/r_6e4e34ec52.webp",
+  "source": "wikimedia",
+  "query": "Neue Nationalgalerie",
+  "file": "File:Neue Nationalgalerie 2022.jpg",
+  "status": "replaced",
+  "artist": "Evgenii Salganik",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_2022.jpg",
+  "review_no": 127
+ },
+ "https://images.unsplash.com/photo-1606168512150-71220db85a22": {
+  "labels": [
+   "Kanufahren durch Alt-Spandau"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1607250886762-948dcea19109?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1607346704322-c3413e32abc9": {
+  "labels": [
+   "Spieleabend im Meltdown eSports Bar"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f": {
+  "labels": [
+   "Graffiti-Workshop in Kreuzberg"
+  ],
+  "path": "images/u_938e4db6a4.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1608040710261-b2570751eb84": {
+  "labels": [
+   "Pilzsuche im Grunewald"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1608060349380-9fa7bee1aa72?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Mauerpark Flohmarkt"
+  ],
+  "path": "images/u_5514ab7309.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1609620348316-a780cf8238c4": {
+  "labels": [
+   "Lichterfahrt auf der Spree"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1609741199878-3e8ebf48af03?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Legoland Discovery Centre Berlin"
+  ],
+  "path": "images/r_d932f7652e.webp",
+  "source": "wikimedia",
+  "query": "Legoland Discovery Centre Berlin",
+  "file": "File:Entrance to Legoland Discovery Centre Berlin.jpg",
+  "status": "replaced",
+  "artist": "cjdc profile",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_Legoland_Discovery_Centre_Berlin.jpg",
+  "review_no": 128
+ },
+ "https://images.unsplash.com/photo-1610316868416-cf830bd0dba6?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Pergamonmuseum"
+  ],
+  "path": "images/r_0f7e688876.webp",
+  "source": "wikimedia",
+  "query": "Pergamonmuseum",
+  "file": "File:Pergamonmuseum Front.jpg",
+  "status": "replaced",
+  "artist": "Raimond Spekking",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pergamonmuseum_Front.jpg",
+  "review_no": 129
+ },
+ "https://images.unsplash.com/photo-1610647752706-3bb12202b35c": {
+  "labels": [
+   "Winterbaden im Plötzensee"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1610708664767-44f389b8810d?q=80&w=2670&auto=format&fit=crop": {
+  "labels": [
+   "Meridian Spa Berlin"
+  ],
+  "path": "images/r_5e82bd8837.webp",
+  "source": "wikimedia",
+  "query": "Meridian Spa",
+  "file": "File:2000 Peugeot 306 Meridian 1.6.jpg",
+  "status": "replaced",
+  "artist": "Vauxford",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Peugeot_306_Meridian_1.6.jpg",
+  "review_no": 130
+ },
+ "https://images.unsplash.com/photo-1610890557552-3a65537288c7?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "komische oper"
+  ],
+  "path": "images/r_0666d1acf8.webp",
+  "source": "wikimedia",
+  "query": "komische oper",
+  "file": "File:Berlin, Mitte, Behrenstraße, Komische Oper 02.jpg",
+  "status": "replaced",
+  "artist": "Jörg Zägel",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Behrenstra%C3%9Fe,_Komische_Oper_02.jpg",
+  "review_no": 131
+ },
+ "https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "path": "images/u_3716d7ca13.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1611523654957-19b28c81e290?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Berghain"
+  ],
+  "path": "images/r_aa80e30961.webp",
+  "source": "wikimedia",
+  "query": "Berghain",
+  "file": "File:1 Berlin Berghain NYE 01.jpg",
+  "status": "replaced",
+  "artist": "Lear 21",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:1_Berlin_Berghain_NYE_01.jpg",
+  "review_no": 132
+ },
+ "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1": {
+  "labels": [
+   "Beachvolleyball am Gleisdreieckpark"
+  ],
+  "path": "images/u_bb047fd7cb.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?q=80&w=2607&auto=format&fit=crop": {
+  "labels": [
+   "Beachvolleyball im Monbijoupark"
+  ],
+  "path": "images/u_50255e9b2b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1613254762943-437409d266d4": {
+  "labels": [
+   "Besuch des Jüdischen Museums"
+  ],
+  "path": "images/r_5ba4e193b4.webp",
+  "source": "wikimedia",
+  "query": "Besuch des Jüdischen Museums",
+  "file": "File:Sefer Seder Tefillot Hanaschim.jpg",
+  "status": "replaced",
+  "artist": "LGLou",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sefer_Seder_Tefillot_Hanaschim.jpg",
+  "review_no": 133
+ },
+ "https://images.unsplash.com/photo-1613294326794-e7c74fe886e2?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "olympiapark",
+   "Olympiapark Rundgang"
+  ],
+  "path": "images/u_2c22780d5e.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1614850715573-a6a90f4873a2?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Teufelsberg"
+  ],
+  "path": "images/r_3d1d41c0fa.webp",
+  "source": "wikimedia",
+  "query": "Teufelsberg",
+  "file": "File:2013 Pfälzerwald 351 Teufelsberg Lambertskopf.JPG",
+  "status": "replaced",
+  "artist": "Steffen 962",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:2013_Pf%C3%A4lzerwald_351_Teufelsberg_Lambertskopf.JPG",
+  "review_no": 134
+ },
+ "https://images.unsplash.com/photo-1616414627817-42b4d91bcde9": {
+  "labels": [
+   "Nachtfotografie-Workshop"
+  ],
+  "path": "images/r_8ddfeaf526.webp",
+  "source": "wikimedia",
+  "query": "Nachtfotografie-Workshop",
+  "file": "File:Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Bunker 26 -- 2024 -- 5546-50.jpg",
+  "status": "replaced",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Bunker_26_--_2024_--_5546-50.jpg",
+  "review_no": 135
+ },
+ "https://images.unsplash.com/photo-1617120509161-9e3718e8c9d7?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "DDR Museum"
+  ],
+  "path": "images/r_6e8f32548e.webp",
+  "source": "wikimedia",
+  "query": "DDR Museum",
+  "file": "File:20220811 DDR-Museum 02.jpg",
+  "status": "replaced",
+  "artist": "Flocci Nivis",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20220811_DDR-Museum_02.jpg",
+  "review_no": 136
+ },
+ "https://images.unsplash.com/photo-1617854818583-09e7f077a156": {
+  "labels": [],
+  "path": "images/u_39155944b0.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1617897903246-719242758050": {
+  "labels": [
+   "Naturkosmetik Workshop"
+  ],
+  "path": "images/u_e381f67bdf.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1618773928676-56d1aaa3f6ca?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Hufeisensiedlung"
+  ],
+  "path": "images/r_4cf5894bd7.webp",
+  "source": "wikimedia",
+  "query": "Hufeisensiedlung",
+  "file": "File:Hufeisensiedlung Tueren Details divStrassen 2011.jpg",
+  "status": "replaced",
+  "artist": "BenBuschfeld",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hufeisensiedlung_Tueren_Details_divStrassen_2011.jpg",
+  "review_no": 137
+ },
+ "https://images.unsplash.com/photo-1620564518589-494bebec33e3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "hafenrundfahrt",
+   "Hafenrundfahrt"
+  ],
+  "path": "images/r_7e613e34ad.webp",
+  "source": "wikimedia",
+  "query": "hafenrundfahrt",
+  "file": "File:Hafenrundfahrt zur Humboldttour 04.jpg",
+  "status": "replaced",
+  "artist": "Burkhard Mücke",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hafenrundfahrt_zur_Humboldttour_04.jpg",
+  "review_no": 138
+ },
+ "https://images.unsplash.com/photo-1620578540011-5e396f149845": {
+  "labels": [
+   "Sonnenaufgang am Tempelhofer Feld"
+  ],
+  "path": "images/r_12a73a821f.webp",
+  "source": "wikimedia",
+  "query": "Sonnenaufgang am Tempelhofer Feld",
+  "file": "File:Sonnenaufgang Tempelhofer Feld.jpg",
+  "status": "replaced",
+  "artist": "Lukas Beck",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sonnenaufgang_Tempelhofer_Feld.jpg",
+  "review_no": 139
+ },
+ "https://images.unsplash.com/photo-1621055876066-5a7f72258d7c?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Spreepark"
+  ],
+  "path": "images/r_c1d04e96a8.webp",
+  "source": "wikimedia",
+  "query": "Spreepark",
+  "file": "File:Kulturpark Plänterwald Spreepark 25.6.91.jpg",
+  "status": "replaced",
+  "artist": "Gerd Danigel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kulturpark_Pl%C3%A4nterwald_Spreepark_25.6.91.jpg",
+  "review_no": 140
+ },
+ "https://images.unsplash.com/photo-1622398925373-3f91b1e275f5?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "kostenlos"
+  ],
+  "path": "images/u_d5af1248a8.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1623165305776-16bd93efa800": {
+  "labels": [
+   "Tagesausflug zur Pfaueninsel"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1625478547234-78e0e456dfb7?q=80&w=2574&auto=format&fit=crop": {
+  "labels": [
+   "Curry 36"
+  ],
+  "path": "images/r_d9cd292754.webp",
+  "source": "wikimedia",
+  "query": "Curry 36",
+  "file": "File:Berlin-Curry 36.jpg",
+  "status": "replaced",
+  "artist": "Er nun wieder",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Curry_36.jpg",
+  "review_no": 141
+ },
+ "https://images.unsplash.com/photo-1625505826533-5c80aca7d8dd?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Viktoria Park"
+  ],
+  "path": "images/r_90f846345c.webp",
+  "source": "wikimedia",
+  "query": "Viktoria Park",
+  "file": "File:Victoria Åberg Puisto.jpg",
+  "status": "replaced",
+  "artist": "Victoria Åberg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Victoria_%C3%85berg_Puisto.jpg",
+  "review_no": 142
+ },
+ "https://images.unsplash.com/photo-1625914557712-bdaa86a0bea5": {
+  "labels": [
+   "Nachtflohmarkt Neukölln"
+  ],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1626050954398-4afddb999592": {
+  "labels": [
+   "Digital Art Exhibition"
+  ],
+  "path": "images/r_5538c6330b.webp",
+  "source": "wikimedia",
+  "query": "Digital Art Exhibition",
+  "file": "File:Frederic Edwin Church - Aurora Borealis - Google Art Project.jpg",
+  "status": "replaced",
+  "artist": "Frederic Edwin Church",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Aurora_Borealis_-_Google_Art_Project.jpg",
+  "review_no": 143
+ },
+ "https://images.unsplash.com/photo-1626178793926-22b28830aa30": {
+  "labels": [
+   "Besuch des Designpanoptikums"
+  ],
+  "path": "images/u_220a83dde2.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1626807236036-9ca1d75c3449": {
+  "labels": [
+   "Besuch des Futurium"
+  ],
+  "path": "images/r_d09c86e653.webp",
+  "source": "wikimedia",
+  "query": "des Futurium Berlin",
+  "file": "File:Futurium Ostfassade.jpg",
+  "status": "replaced",
+  "artist": "Boonekamp",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Futurium_Ostfassade.jpg",
+  "review_no": 144
+ },
+ "https://images.unsplash.com/photo-1626844131035-cad7de298d03": {
+  "labels": [
+   "Currywurst Museum Besuch"
+  ],
+  "path": "images/r_ef0d415439.webp",
+  "source": "wikimedia",
+  "query": "Currywurst Museum Berlin",
+  "file": "File:Berlin-Mitte Deutsches Currywurst Museum.jpg",
+  "status": "replaced",
+  "artist": "Assenmacher",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Mitte_Deutsches_Currywurst_Museum.jpg",
+  "review_no": 145
+ },
+ "https://images.unsplash.com/photo-1627491439254-59909231bc05?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "treptower park"
+  ],
+  "path": "images/r_765fddf2e0.webp",
+  "source": "wikimedia",
+  "query": "treptower park",
+  "file": "File:Berlin S-Bahn Bhf Treptower Park (S41 1258).jpg",
+  "status": "replaced",
+  "artist": "Michael.F.H.Barth",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_S-Bahn_Bhf_Treptower_Park_(S41_1258).jpg",
+  "review_no": 146
+ },
+ "https://images.unsplash.com/photo-1628624747186-a941c476b7ef": {
+  "labels": [
+   "Urban Gardening Workshop"
+  ],
+  "path": "images/u_31b11974b1.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Volkspark Friedrichshain"
+  ],
+  "path": "images/u_69461433ff.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1628694647734-bf4aedeede1e?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "viktualienmarkt",
+   "viktualienmarkt münchen",
+   "Viktualienmarkt"
+  ],
+  "path": "images/u_46c4f93a9b.webp",
+  "source": "unsplash",
+  "status": "ok"
+ },
+ "https://images.unsplash.com/photo-1629063654090-1a51a59de8de?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Schloss Charlottenburg"
+  ],
+  "path": "images/r_158ed3c007.webp",
+  "source": "wikimedia",
+  "query": "Schloss Charlottenburg",
+  "file": "File:Schloss Charlottenburg nachts (Zuschnitt).jpg",
+  "status": "replaced",
+  "artist": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0 de",
+  "page": "https://commons.wikimedia.org/wiki/File:Schloss_Charlottenburg_nachts_(Zuschnitt).jpg",
+  "review_no": 147
+ },
+ "https://images.unsplash.com/photo-1630497952990-541b0e5918df?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Molecule Man"
+  ],
+  "path": "images/r_0bf3036d10.webp",
+  "source": "wikimedia",
+  "query": "Molecule Man",
+  "file": "File:Molecule Man (1).jpg",
+  "status": "replaced",
+  "artist": "Avi1111 dr. avishai teicher",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Molecule_Man_(1).jpg",
+  "review_no": 148
+ },
+ "https://images.unsplash.com/photo-1631214524020-7e32e600e1c3?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [
+   "Karl-Marx-Allee"
+  ],
+  "path": "images/r_32d7bfb835.webp",
+  "source": "wikimedia",
+  "query": "Karl-Marx-Allee",
+  "file": "File:Berlin Karl Marx Allee 81 022260.jpg",
+  "status": "replaced",
+  "artist": "Ermell",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Karl_Marx_Allee_81_022260.jpg",
+  "review_no": 149
+ },
+ "https://images.unsplash.com/photo-1638784886772-dae3c76d6c6f?q=80&w=2000&auto=format&fit=crop": {
+  "labels": [],
+  "status": "dead_no_replacement"
+ },
+ "https://images.unsplash.com/photo-1642654815986-ed159ca14580": {
+  "labels": [
+   "Escape Room Challenge"
+  ],
+  "path": "images/r_5eb69fe380.webp",
+  "source": "wikimedia",
+  "query": "Escape Room Challenge",
+  "file": "File:30th Medical Brigade hosts escape room challenge (5282138).jpg",
+  "status": "replaced",
+  "artist": "U.S. Army 21TSC by [null Courtesy]",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:30th_Medical_Brigade_hosts_escape_room_challenge_(5282138).jpg",
+  "review_no": 150
+ },
+ "https://images.unsplash.com/photo-1649972904349-6e44c42644a7": {
+  "labels": [
+   "Street Food Thursday im Markthalle Neun"
+  ],
+  "path": "images/u_875ccdfa64.webp",
+  "source": "unsplash",
+  "status": "ok"
+ }
+}
