@@ -2,6 +2,8 @@
 import { Activity } from "../data/allActivities";
 
 export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
+  "ballhaus berlin": "images/c_fix_ballhausberlin.webp",
+  "zoologischer garten": "images/c_fix_zooberlin.webp",
   "gemäldegalerie": "images/c_140e260807.webp",
   "helmut newton stiftung": "images/c_73ff655dd7.webp",
   "holzmarkt": "images/c_fix_holzmarkt.webp",
@@ -171,7 +173,7 @@ export const SPECIFIC_ACTIVITY_IMAGES: Record<string, string> = {
   "tierpark": "images/r_57afee2a50.webp",
   "tierpark berlin": "images/c_7ef9308305.webp",
   "zoo": "images/c_7ef9308305.webp",
-  "zoo berlin": "images/c_7ef9308305.webp",
+  "zoo berlin": "images/c_fix_zooberlin.webp",
   "spaziergang": "images/c_0214a81b3a.webp",
   "spaziergang im tiergarten": "images/c_0214a81b3a.webp",
   "mauerpark": "images/r_7958f1c636.webp",

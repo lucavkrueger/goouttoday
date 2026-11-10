@@ -103,6 +103,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "license": "CC0"
  },
  {
+  "name": "Ballhaus Berlin Chausseestraße.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ballhaus_Berlin_Chausseestra%C3%9Fe.jpg",
+  "artist": "Boonekamp al Günter Haase",
+  "license": "CC BY-SA 4.0"
+ },
+ {
   "name": "Ballhaus Wedding, Berlin, Wriezener Straße 6, Bild 5.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ballhaus_Wedding,_Berlin,_Wriezener_Stra%C3%9Fe_6,_Bild_5.jpg",
   "artist": "Neuköllner",
@@ -203,6 +209,12 @@ export const IMAGE_CREDITS: { name: string; page: string; artist: string; licens
   "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_view_from_Fernsehturm_to_Alexanderplatz.jpg",
   "artist": "A. Leschek",
   "license": "CC BY-SA 3.0"
+ },
+ {
+  "name": "Berlin - Zoologischer Garten Elefantentor Nacht.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Zoologischer_Garten_Elefantentor_Nacht.jpg",
+  "artist": "Marek Śliwecki",
+  "license": "CC BY-SA 4.0"
  },
  {
   "name": "Berlin AEG-Tunnel lub 2023-06-24 img03.jpg",
